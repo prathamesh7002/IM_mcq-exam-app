@@ -1,0 +1,2191 @@
+[
+  {
+    "id": 1,
+    "question": "The primary aim of Human Resource Management is to:",
+    "options": [
+      "Increase product price",
+      "Manage people at work effectively",
+      "Reduce employee salary",
+      "Promote only top -level managers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Human Resource Management is mainly concerned with:",
+    "options": [
+      "Machines and materials",
+      "Financial investments",
+      "People working in the organization",
+      "Marketing strategies"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "One of the major objectives of HRM is to ensure:",
+    "options": [
+      "Employee exploitation",
+      "Maximum employee turnover",
+      "Right person at the right job",
+      "Increase workload"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Which function of HRM deals with hiring people?",
+    "options": [
+      "Organizing",
+      "Staffing",
+      "Controlling",
+      "Directing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "HRM aims to maintain a balance between:",
+    "options": [
+      "Employer and government needs",
+      "Employee and customer needs",
+      "Organizational goals and employee goals",
+      "Salary and profit"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Training and development programs focus on:",
+    "options": [
+      "Increasing employee stress",
+      "Improving employee skills",
+      "Reducing employee strength",
+      "Increasing employee absences"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "The concept of HRM emphasizes:",
+    "options": [
+      "Treating employees as machines",
+      "Development of human capital",
+      "Eliminating communication",
+      "Hiring only temporary workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Maximizing employee satisfaction is a/an:",
+    "options": [
+      "Financial objective",
+      "Operational objective",
+      "Personnel objective",
+      "Marketing objective"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "Performance appraisal is carried out to:",
+    "options": [
+      "Punish employees",
+      "Evaluate employee performance",
+      "Reduce promotions",
+      "Increase conflicts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is NOT an objective of HRM?",
+    "options": [
+      "Employee development",
+      "Profit maximization through people",
+      "Creating fear among employees",
+      "Maintaining good working conditions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "HRM helps to improve:",
+    "options": [
+      "Employee morale",
+      "Pollution level",
+      "Machine reliability",
+      "Building design"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 12,
+    "question": "The concept of HRM mainly evolved to:",
+    "options": [
+      "Reduce manpower",
+      "Improve productivity through people",
+      "Increase paperwork",
+      "Focus only on administration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "HRM ensures optimum utilization of:",
+    "options": [
+      "Natural resources",
+      "Financial resources",
+      "Human resources",
+      "Marketing resources"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "The objective of employee welfare is to:",
+    "options": [
+      "Improve employee well -being",
+      "Reduce employee benefits",
+      "Increase employee turnover",
+      "Cut wages"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "A key concept of HRM is that employees are:",
+    "options": [
+      "Liability",
+      "Burden",
+      "Important assets",
+      "Replaceable parts"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "HR planning involves:",
+    "options": [
+      "Forecasting manpower needs",
+      "Increasing product cost",
+      "Designing advertisements",
+      "Planning customer offers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "The function of organizing in HRM mainly focuses on:",
+    "options": [
+      "Creating organizational structure",
+      "Buying machinery",
+      "Finalizing marketing plans",
+      "Increasing profits"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "Staffing includes:",
+    "options": [
+      "Designing posters",
+      "Hiring the right people",
+      "Selling products",
+      "Handling customers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "Recruitment refers to:",
+    "options": [
+      "Selecting suppliers",
+      "Attracting potential employees",
+      "Evaluating customers",
+      "Training managers only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "The first step in the recruitment process is:",
+    "options": [
+      "Selection",
+      "Job analysis",
+      "Induction",
+      "Performance appraisal"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "Education and training are required to:",
+    "options": [
+      "Increase employee workload",
+      "Improve employee skills and knowledge",
+      "Reduce working hours",
+      "Remove employees"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is NOT a method of training?",
+    "options": [
+      "On-the-job training",
+      "Off-the-job training",
+      "Coaching",
+      "Advertising"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 23,
+    "question": "Apprenticeship training is a type of:",
+    "options": [
+      "Off-the-job training",
+      "On-the-job training",
+      "Online marketing",
+      "Management audit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 24,
+    "question": "Motivation in HRM aims to:",
+    "options": [
+      "Reduce productivity",
+      "Inspire employees to perform better",
+      "Reduce employee satisfaction",
+      "Increase employee turnover"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 25,
+    "question": "Monetary motivation example is:",
+    "options": [
+      "Praise",
+      "Promotion",
+      "Bonus",
+      "Participation in meetings"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "Controlling as a function of HRM includes:",
+    "options": [
+      "Setting standards and measuring performance",
+      "Buying equipment",
+      "Reducing facilities",
+      "Changing product design"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "question": "Compensation refers to:",
+    "options": [
+      "Awards given to customers",
+      "Salary, wages and benefits given to employees",
+      "Tax given to government",
+      "Penalty paid by workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is included in employee compensation?",
+    "options": [
+      "Furniture",
+      "Wages and incentives",
+      "Raw materials",
+      "Stationery"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "Labour welfare aims to:",
+    "options": [
+      "Improve employee comfort and well -being",
+      "Increase customer satisfaction",
+      "Reduce workforce",
+      "Decrease safety"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 30,
+    "question": "Canteen, rest rooms, and medical facilities are examples of:",
+    "options": [
+      "Wastage",
+      "Labour welfare measures",
+      "Production planning",
+      "Marketing tools"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "Industrial relations aim to maintain:",
+    "options": [
+      "Conflict between workers and management",
+      "Good and healthy relations",
+      "High employee turnover",
+      "Low wages"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "A strike is related to:",
+    "options": [
+      "Industrial relations",
+      "Compensation",
+      "Planning",
+      "Motivation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "Collective bargaining is a process between:",
+    "options": [
+      "Customers and shopkeepers",
+      "Management and employees",
+      "Suppliers and manufacturers",
+      "Teacher and student"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "question": "One important objective of industrial relations is:",
+    "options": [
+      "Increase disputes",
+      "Promote peace and harmony",
+      "Reduce salaries",
+      "Encourage absenteeism"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 35,
+    "question": "A common non -monetary motivation method is:",
+    "options": [
+      "Bonus",
+      "Praise and recognition",
+      "Overtime payment",
+      "Commission"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 36,
+    "question": "The main need for Safety Engineering is to:",
+    "options": [
+      "Increase production only",
+      "Reduce accidents and ensure safe working conditions",
+      "Increase workload",
+      "Avoid employee training"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "Safety Engineering focuses on:",
+    "options": [
+      "Product selling",
+      "Human and equipment safety",
+      "Increasing taxes",
+      "Office decoration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "A safety organization is formed to:",
+    "options": [
+      "Promote conflicts",
+      "Systematically manage safety activities",
+      "Increase accidents",
+      "Hire more supervisors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 39,
+    "question": "The purpose of a Safety Committee is to:",
+    "options": [
+      "Create disputes among workers",
+      "Ensure coordination between management and workers on safety issues",
+      "Increase working hours",
+      "Reduce employee rights"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 40,
+    "question": "Members of the Safety Committee include:",
+    "options": [
+      "Only workers",
+      "Only managers",
+      "Both management and workers",
+      "Only outsiders"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 41,
+    "question": "A Safety Programme mainly aims to:",
+    "options": [
+      "Increase accidents",
+      "Reduce accidents and promote safe practices",
+      "Stop employee training",
+      "Reduce productivity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 42,
+    "question": "Safety instructions provided to workers help in:",
+    "options": [
+      "Increasing absenteeism",
+      "Understanding safe operation of machines",
+      "Avoiding training",
+      "Increasing costs"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 43,
+    "question": "Safety training is required to:",
+    "options": [
+      "Teach unsafe behaviors",
+      "Develop safety awareness among employees",
+      "Reduce employee skills",
+      "Increase hazards"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is NOT included in safety instructions?",
+    "options": [
+      "Use of PPE (Personal Protective Equipment)",
+      "Emergency procedures",
+      "Unsafe shortcuts",
+      "Machine operating rules"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 45,
+    "question": "One of the major causes of industrial accidents is:",
+    "options": [
+      "Proper training",
+      "Unsafe act of workers",
+      "Adequate supervision",
+      "Safety equipment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "Mechanical causes of accidents include:",
+    "options": [
+      "Faulty machines",
+      "Stress",
+      "Poor lighting",
+      "Negligence"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 47,
+    "question": "Human causes of accidents include:",
+    "options": [
+      "Machine breakdown",
+      "Carelessness of workers",
+      "Poor ventilation",
+      "Noise pollution"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "Poor housekeeping leads to:",
+    "options": [
+      "More safety",
+      "Higher productivity",
+      "Slips, trips and falls",
+      "Better health"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 49,
+    "question": "The best way to prevent accidents is:",
+    "options": [
+      "Ignoring hazards",
+      "Identifying hazards and removing them",
+      "Increasing workload",
+      "Reducing safety officers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 50,
+    "question": "Wearing helmets, gloves, shoes etc. fall under:",
+    "options": [
+      "Recreation",
+      "Personal Protective Equipment (PPE)",
+      "Motivation",
+      "Compensation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "Safety audits are conducted to:",
+    "options": [
+      "Reduce employee benefits",
+      "Check and improve safety performance",
+      "Increase overtime",
+      "Fire workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "Accident prevention includes:",
+    "options": [
+      "Providing good housekeeping",
+      "Using correct tools",
+      "Giving safety training",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 53,
+    "question": "Most accidents can be prevented by:",
+    "options": [
+      "Safety awareness",
+      "Ignoring rules",
+      "Lack of training",
+      "Carelessness"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 54,
+    "question": "Unsafe working environment is an example of:",
+    "options": [
+      "Human cause",
+      "Physical cause",
+      "Psychological cause",
+      "Ethical issue"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "The first step in accident investigation is:",
+    "options": [
+      "Assigning blame",
+      "Collecting facts and evidence",
+      "Punishing workers",
+      "Filling forms"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 56,
+    "question": "A key characteristic of an effective supervisor is:",
+    "options": [
+      "Poor communication",
+      "Leadership ability",
+      "Lack of discipline",
+      "Avoiding responsibility"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Supervisors must have good:",
+    "options": [
+      "Drawing skills",
+      "Interpersonal skills",
+      "Dancing skills",
+      "Marketing skills"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 58,
+    "question": "A supervisor should be:",
+    "options": [
+      "Biased",
+      "Fair and objective",
+      "Lazy",
+      "Over-dominating"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "One important function of a supervisor is:",
+    "options": [
+      "Increasing product price",
+      "Planning and assigning work",
+      "Buying raw materials",
+      "Designing machinery"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "Supervisors act as a link between:",
+    "options": [
+      "Customers and suppliers",
+      "Management and workers",
+      "Workers and machines",
+      "Government and factory"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 61,
+    "question": "Supervisors are mainly responsible for:",
+    "options": [
+      "Long-term policies",
+      "Day-to-day operations",
+      "Government rules",
+      "Advertising"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 62,
+    "question": "Preparing work schedules is a function of:",
+    "options": [
+      "Supervisor",
+      "CEO",
+      "Accountant",
+      "Customer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 63,
+    "question": "Ensuring safety at the workplace is:",
+    "options": [
+      "Not the supervisor’s duty",
+      "A key supervisory function",
+      "Only HR’s responsibility",
+      "Done by customers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "Supervisors help reduce:",
+    "options": [
+      "Discipline",
+      "Coordination",
+      "Conflicts among workers",
+      "Productivity"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "The autocratic style of supervision means:",
+    "options": [
+      "Workers make all decisions",
+      "Joint decision -making",
+      "Supervisor makes decisions alone",
+      "No decisions are made"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 66,
+    "question": "A benefit of autocratic supervision is:",
+    "options": [
+      "Slow decision -making",
+      "Quick decisions",
+      "High employee participation",
+      "High motivation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "A limitation of autocratic supervision is:",
+    "options": [
+      "High employee morale",
+      "Workers become dependent",
+      "Increased creativity",
+      "Improved relationships"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 68,
+    "question": "Democratic supervision encourages:",
+    "options": [
+      "Total control by the supervisor",
+      "Employee participation in decisions",
+      "Lack of communication",
+      "Zero teamwork"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "A major advantage of democratic supervision is:",
+    "options": [
+      "Better teamwork and high morale",
+      "Quick decision -making",
+      "Less commitment",
+      "High conflicts"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 70,
+    "question": "A limitation of democratic supervision is:",
+    "options": [
+      "Higher time consumption",
+      "No worker participation",
+      "Poor relationships",
+      "No creativity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 71,
+    "question": "Laissez -faire supervision means:",
+    "options": [
+      "Complete freedom to workers",
+      "Strict control",
+      "Supervisor makes all decisions",
+      "No communication allowed"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 72,
+    "question": "A benefit of laissez -faire supervision is:",
+    "options": [
+      "Creative and innovative output",
+      "More restrictions",
+      "Lower independence",
+      "Limited responsibility"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 73,
+    "question": "A limitation of laissez -faire supervision is:",
+    "options": [
+      "Highly structured environment",
+      "Lack of direction and control",
+      "High supervisor involvement",
+      "Quick decisions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Supervisors motivate workers by:",
+    "options": [
+      "Punishing often",
+      "Recognizing and praising good work",
+      "Avoiding communication",
+      "Reducing wages"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 75,
+    "question": "The success of a supervisor depends largely on:",
+    "options": [
+      "His/her communication and leadership skills",
+      "Size of the company",
+      "Amount of machinery",
+      "Weather conditions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "The main need for Industrial Acts is to:",
+    "options": [
+      "Increase product prices",
+      "Protect the rights and safety of workers",
+      "Promote only employers",
+      "Reduce worker facilities"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 77,
+    "question": "Industrial laws mainly aim to:",
+    "options": [
+      "Reduce wages",
+      "Maintain industrial peace and safety",
+      "Encourage disputes",
+      "Increase accidents"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 78,
+    "question": "Factory Act 1948 is mainly concerned with:",
+    "options": [
+      "Employee training",
+      "Health, safety, and welfare of workers",
+      "Marketing policies",
+      "Product quality"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 79,
+    "question": "According to Factory Act, a factory must employ:",
+    "options": [
+      "5 or more workers",
+      "10 or more workers with power",
+      "50 workers always",
+      "100 workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 80,
+    "question": "Maximum working hours per week as per Factory Act:",
+    "options": [
+      "35 hours",
+      "40 hours",
+      "48 hours",
+      "55 hours"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "Minimum working hours per day as per Factory Act:",
+    "options": [
+      "6 hours",
+      "8 hours",
+      "12 hours",
+      "10 hours"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is a welfare provision under Factory Act?",
+    "options": [
+      "Canteen",
+      "Library",
+      "Transport allowance",
+      "Mobile allowance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 83,
+    "question": "For 30 or more women workers, the factory must provide:",
+    "options": [
+      "Lockers",
+      "First-aid box",
+      "Crèche facility",
+      "Bonus"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 84,
+    "question": "First-aid boxes in a factory must be maintained by:",
+    "options": [
+      "Finance officer",
+      "Personnel manager",
+      "Trained first -aid personnel",
+      "Any worker"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "The Factory Act emphasizes:",
+    "options": [
+      "Only wages",
+      "Only production",
+      "Health, safety and welfare",
+      "Only promotions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "ESI Act was passed in:",
+    "options": [
+      "1940",
+      "1948",
+      "1952",
+      "1962 Answer: C"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 87,
+    "question": "ESI Act provides benefits related to:",
+    "options": [
+      "Marketing",
+      "Health and social security",
+      "Machinery",
+      "Transportation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "ESI benefits include:",
+    "options": [
+      "Medical benefits",
+      "Sickness benefits",
+      "Maternity benefits",
+      "All of these"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 89,
+    "question": "ESI applies to factories with:",
+    "options": [
+      "5 or more workers",
+      "10 or more workers",
+      "50 workers",
+      "100 workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "The main objective of ESI Act is to provide:",
+    "options": [
+      "Free housing",
+      "Social security to employees",
+      "Loans",
+      "Free transport"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 91,
+    "question": "Workmen’s Compensation Act is mainly for workers who suffer:",
+    "options": [
+      "Festival expenses",
+      "Accidental injury during employment",
+      "Promotion issues",
+      "Transfer problems"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Workmen’s Compensation Act was introduced in:",
+    "options": [
+      "1923",
+      "1935",
+      "1948",
+      "1955 Answer: A"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 93,
+    "question": "Compensation is payable when injury occurs:",
+    "options": [
+      "Outside duty",
+      "During lunch at home",
+      "In the course of employment",
+      "After retirement"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 94,
+    "question": "Which of the following is NOT covered under Workmen’s Compensation Act?",
+    "options": [
+      "Injury caused during work",
+      "Occupational diseases",
+      "Injury due to worker’s own drunkenness",
+      "Death during work"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 95,
+    "question": "The purpose of Workmen’s Compensation Act is to:",
+    "options": [
+      "Punish employees",
+      "Provide financial compensation to injured workers",
+      "Reduce safety standards",
+      "Increase workload"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 96,
+    "question": "A market is best defined as:",
+    "options": [
+      "A place where only goods are stored",
+      "A place or system where buyers and sellers interact",
+      "A place for only wholesalers",
+      "A storage warehouse"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 97,
+    "question": "The primary function of a marketing department is to:",
+    "options": [
+      "Buy raw materials",
+      "Understand customer needs and satisfy them",
+      "Supervise workers",
+      "Prepare salaries"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "Marketing is mainly concerned with:",
+    "options": [
+      "Production",
+      "Selling only",
+      "Identifying and meeting customer needs",
+      "Machine maintenance"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 99,
+    "question": "Which of the following is NOT a function of the marketing department?",
+    "options": [
+      "Market research",
+      "Product promotion",
+      "Demand forecasting",
+      "Machine installation"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 100,
+    "question": "Promotion mix includes:",
+    "options": [
+      "Advertising and sales promotion",
+      "Product design",
+      "Salary calculation",
+      "Material planning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 101,
+    "question": "The 4Ps of marketing include Product, Price, Place, and:",
+    "options": [
+      "Planning",
+      "Promotion",
+      "Packaging",
+      "People"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "A marketing strategy is:",
+    "options": [
+      "Random sales plan",
+      "Long-term plan to achieve marketing goals",
+      "Only advertisement",
+      "Technical decision"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "Market segmentation divides customers based on:",
+    "options": [
+      "Age, income, location etc.",
+      "Number of machines",
+      "Employee salary",
+      "Factory size"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 104,
+    "question": "A marketing environment refers to:",
+    "options": [
+      "Only company policies",
+      "Internal and external factors affecting marketing",
+      "Factory pollution",
+      "Office interior"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 105,
+    "question": "The internal marketing environment includes:",
+    "options": [
+      "Customers",
+      "Competitors",
+      "Employees & management",
+      "Government rules"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 106,
+    "question": "External marketing environment includes:",
+    "options": [
+      "Machines",
+      "Raw materials",
+      "Economic, social, and technological factors",
+      "Office staff"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 107,
+    "question": "Consumer behavior mainly studies:",
+    "options": [
+      "Why consumers delete messages",
+      "How consumers buy and use products",
+      "How machines work",
+      "How companies produce"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "Understanding consumer behavior helps marketers to:",
+    "options": [
+      "Reduce product quality",
+      "Increase prices unnecessarily",
+      "Create products that meet customer needs",
+      "Close factories"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 109,
+    "question": "Which of the following influences consumer behavior?",
+    "options": [
+      "Culture",
+      "Social class",
+      "Personal preferences",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 110,
+    "question": "A buying decision process starts with:",
+    "options": [
+      "Purchase",
+      "Evaluation of alternatives",
+      "Need recognition",
+      "Payment"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "Market research helps to identify:",
+    "options": [
+      "Competitor's machinery",
+      "Customer needs and market trends",
+      "Factory buildings",
+      "Employee bonuses"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "The main objective of pricing strategy is to:",
+    "options": [
+      "Confuse customers",
+      "Set a price that maximizes profit and attracts customers",
+      "Reduce all costs",
+      "Increase production only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 113,
+    "question": "A product strategy includes:",
+    "options": [
+      "Designing and developing the product",
+      "Cutting salary",
+      "Buying raw materials",
+      "Cleaning factory"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 114,
+    "question": "Distribution (Place) strategy decides:",
+    "options": [
+      "How products reach customers",
+      "How to hire workers",
+      "How to plan salary",
+      "How to clean machines"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 115,
+    "question": "Impulse buying means a customer buys:",
+    "options": [
+      "After long research",
+      "After government orders",
+      "Suddenly without planning",
+      "Because competitors asked"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 116,
+    "question": "Market research mainly deals with:",
+    "options": [
+      "Machine maintenance",
+      "Collecting and analyzing market information",
+      "Employee training",
+      "Factory layout"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "Market survey is conducted to:",
+    "options": [
+      "Increase product weight",
+      "Understand customer preferences",
+      "Reduce wages",
+      "Hire employees"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 118,
+    "question": "Market survey provides:",
+    "options": [
+      "Financial accounts",
+      "Customer data and buying habits",
+      "Payroll reports",
+      "Machinery cost"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 119,
+    "question": "Marketing mix is also known as:",
+    "options": [
+      "4T’s",
+      "4P’s",
+      "4M’s",
+      "4S’s Answer: B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 120,
+    "question": "The 4Ps include Product, Price, Promotion and:",
+    "options": [
+      "People",
+      "Process",
+      "Place",
+      "Packaging"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 121,
+    "question": "Sales forecasting means:",
+    "options": [
+      "Predicting future sales",
+      "Buying raw material",
+      "Reducing price",
+      "Hiring labour"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 122,
+    "question": "A method used for sales forecasting is:",
+    "options": [
+      "Delphi method",
+      "Distillation",
+      "Hybrid method",
+      "Job evaluation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 123,
+    "question": "Sales promotion techniques include:",
+    "options": [
+      "Discounts",
+      "Free samples",
+      "Coupons",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 124,
+    "question": "Advertising is mainly used to:",
+    "options": [
+      "Reduce profits",
+      "Communicate product information",
+      "Hire employees",
+      "Test machines"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "Media selection refers to selecting:",
+    "options": [
+      "Employees",
+      "Channels of advertising",
+      "Machines",
+      "Factory layout"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Inventory means:",
+    "options": [
+      "Financial accounts",
+      "Stock of materials, goods, and supplies",
+      "Employee data",
+      "Bank balance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 127,
+    "question": "Inventory control aims to:",
+    "options": [
+      "Increase wastage",
+      "Maintain optimum inventory level",
+      "Stop production",
+      "Reduce quality"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "Raw material is used for:",
+    "options": [
+      "Packaging",
+      "Production of finished goods",
+      "Selling",
+      "Transport"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 129,
+    "question": "Finished goods inventory includes:",
+    "options": [
+      "Work-in-progress",
+      "Completed products ready for sale",
+      "Spare parts",
+      "Scrap"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 130,
+    "question": "Direct cost includes:",
+    "options": [
+      "Administrative salary",
+      "Raw material and direct labour",
+      "Office rent",
+      "Interest"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 131,
+    "question": "Indirect cost includes:",
+    "options": [
+      "Direct labour",
+      "Direct material",
+      "Factory overheads",
+      "Prime cost"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 132,
+    "question": "Material cost includes:",
+    "options": [
+      "Raw material, transportation, storage",
+      "Salaries",
+      "Advertisements",
+      "Insurance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 133,
+    "question": "Labour cost includes:",
+    "options": [
+      "Worker wages",
+      "Raw material",
+      "Depreciation",
+      "Bank charges"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 134,
+    "question": "Factory overheads include:",
+    "options": [
+      "Depreciation on machines",
+      "Electricity",
+      "Indirect labour",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 135,
+    "question": "Selling price =",
+    "options": [
+      "Cost price – profit",
+      "Cost price + profit",
+      "Profit – cost",
+      "Cost × 2"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 136,
+    "question": "Profit and Loss statement shows:",
+    "options": [
+      "Only assets",
+      "Only liabilities",
+      "Income and expenses",
+      "Stock"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 137,
+    "question": "Balance sheet shows:",
+    "options": [
+      "Financial position on a particular date",
+      "Daily sales",
+      "Wages",
+      "Advertising cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 138,
+    "question": "Depreciation refers to:",
+    "options": [
+      "Increase in product price",
+      "Reduction in value of an asset",
+      "Increase in asset life",
+      "Increase in labour"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "Obsolescence means:",
+    "options": [
+      "Physical damage",
+      "Becoming outdated",
+      "Increase in cost",
+      "Increase in tax"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 140,
+    "question": "Straight line method gives:",
+    "options": [
+      "Unequal depreciation every year",
+      "Equal depreciation every year",
+      "No depreciation",
+      "Double depreciation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 141,
+    "question": "Reducing balance method gives:",
+    "options": [
+      "Higher depreciation in early years",
+      "Same depreciation every year",
+      "No depreciation",
+      "Increasing depreciation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 142,
+    "question": "Sinking fund method involves:",
+    "options": [
+      "No investment",
+      "Setting aside money annually to replace asset",
+      "Random investment",
+      "Salary deduction"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "Sum-of-the-digits method gives:",
+    "options": [
+      "Constant depreciation",
+      "Depreciation decreasing each year",
+      "Depreciation increasing each year",
+      "None Answer: B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 144,
+    "question": "Annuity method considers:",
+    "options": [
+      "Only interest",
+      "Cost + interest element",
+      "Scrap value only",
+      "No financial factor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "ABC analysis classifies material based on:",
+    "options": [
+      "Weight",
+      "Usage value",
+      "Size",
+      "Colour"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 146,
+    "question": "In ABC analysis, “A” items are:",
+    "options": [
+      "Low value",
+      "High value",
+      "No value",
+      "Irrelevant"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "VED stands for:",
+    "options": [
+      "Value, Efficiency, Demand",
+      "Vital, Essential, Desirable",
+      "Variable, Economic, Durable",
+      "Volume, Entry, Demand"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 148,
+    "question": "“Vital” items in VED analysis are:",
+    "options": [
+      "Not important",
+      "Very important for production",
+      "Used rarely",
+      "Waste items"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 149,
+    "question": "Quality means",
+    "options": [
+      "Fitness for use",
+      "Meeting specifications",
+      "Zero defects",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 150,
+    "question": "Quality is defined as the degree to which a product meets:",
+    "options": [
+      "Customer needs",
+      "Government laws",
+      "Internal rules only",
+      "Advertising claims"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 151,
+    "question": "Quality Control focuses on:",
+    "options": [
+      "Preventing defects",
+      "Inspecting defects",
+      "Auditing",
+      "Customer service"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 152,
+    "question": "Quality Assurance is:",
+    "options": [
+      "Process -oriented",
+      "Product -oriented",
+      "Focuses on inspection",
+      "A type of packaging"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 153,
+    "question": "Conformance quality means:",
+    "options": [
+      "Product looks attractive",
+      "Product meets standards/specifications",
+      "Product is cheapest",
+      "Product is environmentally safe"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 154,
+    "question": "Main purpose of TQM is:",
+    "options": [
+      "Increase marketing cost",
+      "Improve quality in all processes",
+      "Only inspection improvement",
+      "Reduce number of workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 155,
+    "question": "TQM emphasizes:",
+    "options": [
+      "Customer satisfaction",
+      "Continuous improvement",
+      "Employee involvement",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 156,
+    "question": "The first step in TQM process is:",
+    "options": [
+      "Customer focus",
+      "Hiring workers",
+      "Advertising",
+      "Cost cutting"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 157,
+    "question": "Lean manufacturing mainly aims to eliminate:",
+    "options": [
+      "Customers",
+      "Waste",
+      "Profits",
+      "Machinery"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 158,
+    "question": "Which is NOT a type of waste in lean?",
+    "options": [
+      "Inventory",
+      "Motion",
+      "Transportation",
+      "Customer feedback"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 159,
+    "question": "JIT aims at producing products:",
+    "options": [
+      "Before demand",
+      "After demand",
+      "Only when needed",
+      "Once in a month"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 160,
+    "question": "JIT helps in reducing:",
+    "options": [
+      "Inventory",
+      "Customer",
+      "Wastage",
+      "Both a & c"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 161,
+    "question": "The first S in 5S stands for:",
+    "options": [
+      "Sort",
+      "Sustain",
+      "Standardize",
+      "Sweep"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 162,
+    "question": "The purpose of 5S is to:",
+    "options": [
+      "Improve workplace efficiency",
+      "Reduce salary",
+      "Increase taxes",
+      "Hire more staff"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 163,
+    "question": "A Quality Circle consists of:",
+    "options": [
+      "Top management only",
+      "Middle managers only",
+      "A small group of employees",
+      "External consultants"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 164,
+    "question": "Quality Circles mainly focus on:",
+    "options": [
+      "Office decoration",
+      "Problem solving",
+      "Salary increase",
+      "Auditing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 165,
+    "question": "ISO 9000 series deals with:",
+    "options": [
+      "Environmental management",
+      "Quality management",
+      "Financial audit",
+      "Safety"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 166,
+    "question": "ISO 9001:2015 follows the structure called:",
+    "options": [
+      "Annex SL",
+      "Annex Q",
+      "Annex A",
+      "Annex U"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 167,
+    "question": "ISO 14001:2015 is related to:",
+    "options": [
+      "Quality management",
+      "Environmental management",
+      "Inventory control",
+      "Purchases"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 168,
+    "question": "ISO 14001 promotes:",
+    "options": [
+      "Pollution prevention",
+      "High salaries",
+      "High inventory",
+      "Customer complaints"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 169,
+    "question": "ISO 9000 is mainly:",
+    "options": [
+      "Formal certification",
+      "Management philosophy",
+      "Cost control method",
+      "Safety standard"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 170,
+    "question": "TQM is mainly:",
+    "options": [
+      "Documentation -based",
+      "Culture -based",
+      "Only inspection",
+      "Certification"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 171,
+    "question": "Six Sigma focuses on reducing:",
+    "options": [
+      "Salaries",
+      "Variations & defects",
+      "Workers",
+      "Environment effects"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 172,
+    "question": "The Six Sigma methodology is known as:",
+    "options": [
+      "DMADV",
+      "DMAIC",
+      "PERT",
+      "CPM Answer: b)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 173,
+    "question": "Kaizen means:",
+    "options": [
+      "Large change",
+      "Continuous small improvements",
+      "Cost increase",
+      "Machinery replacement"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 174,
+    "question": "Kaizen is a part of:",
+    "options": [
+      "Lean manufacturing",
+      "Marketing",
+      "Accounting",
+      "ISO 14001"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 175,
+    "question": "Project Management is the process of:",
+    "options": [
+      "Managing day -to-day operations",
+      "Planning, executing & controlling project activities",
+      "Only monitoring work",
+      "Only budgeting"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 176,
+    "question": "A project is defined as:",
+    "options": [
+      "Routine work",
+      "Temporary activity with a unique goal",
+      "Permanent process",
+      "Regular manufacturing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 177,
+    "question": "The primary goal of project management is to achieve:",
+    "options": [
+      "Maximum inventory",
+      "Customer expectation within constraints",
+      "More employees",
+      "Longer timelines"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 178,
+    "question": "Project objectives must be:",
+    "options": [
+      "Vague",
+      "Changing frequently",
+      "Clear, measurable & time -bound",
+      "Unwritten"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 179,
+    "question": "Project scope defines:",
+    "options": [
+      "What work is included",
+      "What work is excluded",
+      "Deliverables",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 180,
+    "question": "Clear objectives help in:",
+    "options": [
+      "Aligning team & stakeholders",
+      "Increasing confusion",
+      "Delaying project",
+      "Wasting resources"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 181,
+    "question": "Scope creep means:",
+    "options": [
+      "Project completed early",
+      "Uncontrolled expansion of scope",
+      "Reduction in cost",
+      "Project cancellation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 182,
+    "question": "Main cause of scope creep is:",
+    "options": [
+      "Proper documentation",
+      "Unclear requirements",
+      "Strong change control",
+      "Good communication"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 183,
+    "question": "Scope creep can be prevented by:",
+    "options": [
+      "Ignoring changes",
+      "Establishing change control process",
+      "Hiring more people",
+      "Increasing budget"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 184,
+    "question": "Ensuring project delivers as per scope requires:",
+    "options": [
+      "Continuous monitoring",
+      "Verifying deliverables",
+      "Managing changes",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 185,
+    "question": "Project planning includes:",
+    "options": [
+      "Scheduling",
+      "Budgeting",
+      "Risk planning",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 186,
+    "question": "The first step in planning is:",
+    "options": [
+      "Hiring staff",
+      "Defining objectives and scope",
+      "Buying tools",
+      "Advertising"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 187,
+    "question": "A Gantt chart is used for:",
+    "options": [
+      "Cost estimation",
+      "Visual schedule representation",
+      "Inventory planning",
+      "Testing products"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 188,
+    "question": "Gantt charts show:",
+    "options": [
+      "Timeline of tasks",
+      "Budget report",
+      "Employee attendance",
+      "Quality metrics"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "CPM stands for:",
+    "options": [
+      "Critical Path Method",
+      "Cost Planning Method",
+      "Control Process Model",
+      "Critical Plan Management"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 190,
+    "question": "CPM is mainly used to find:",
+    "options": [
+      "Maximum cost",
+      "Shortest project duration",
+      "Best product price",
+      "Safety risks"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 191,
+    "question": "PERT is suitable when:",
+    "options": [
+      "Activities have uncertain time",
+      "Activities are repetitive",
+      "Production is constant",
+      "There is no risk"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 192,
+    "question": "PERT uses:",
+    "options": [
+      "Single time estimate",
+      "Three time estimates (optimistic, pessimistic, most likely)",
+      "Only cost estimation",
+      "Only quality tools"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 193,
+    "question": "CPM uses ______ time estimates.",
+    "options": [
+      "Three",
+      "One",
+      "Four",
+      "Zero Answer: b)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 194,
+    "question": "Resource allocation ensures:",
+    "options": [
+      "Overuse of manpower",
+      "Efficient use of resources",
+      "Unlimited budget",
+      "Increase in errors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "Resource leveling is used to:",
+    "options": [
+      "Schedule employees on weekends",
+      "Reduce resource overload",
+      "Increase project cost",
+      "Delay project"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 196,
+    "question": "Tracking project timelines helps in:",
+    "options": [
+      "Identifying delays early",
+      "Increasing confusion",
+      "Reducing communication",
+      "Avoiding documentation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "Which tool helps track delays visually?",
+    "options": [
+      "Gantt chart",
+      "SWOT analysis",
+      "Fishbone diagram",
+      "Kanban"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "To ensure project delivery as per defined scope, the manager must:",
+    "options": [
+      "Monitor schedule only",
+      "Manage scope + schedule + resources",
+      "Ignore risks",
+      "Delay change control"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 199,
+    "question": "The combination of CPM, PERT & Gantt charts helps in:",
+    "options": [
+      "Financial planning",
+      "Project scheduling and control",
+      "Employee hiring",
+      "Material procurement only"
+    ],
+    "answerIndex": 1
+  }
+]

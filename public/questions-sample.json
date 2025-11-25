@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "What does IM stand for in the context of Information Management?",
+    "options": [
+      "Internet Management",
+      "Information Management",
+      "Integrated Modules",
+      "Interactive Media"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a primary goal of Information Management?",
+    "options": [
+      "To increase hardware costs",
+      "To organize and utilize information effectively",
+      "To reduce data security",
+      "To eliminate databases"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "What is a database?",
+    "options": [
+      "A collection of unrelated data",
+      "An organized collection of structured information",
+      "A type of computer hardware",
+      "A programming language"
+    ],
+    "answerIndex": 1
+  }
+]
