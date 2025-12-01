@@ -1,6 +1,2459 @@
 [
   {
     "id": 1,
+    "question": "Who is known as the \"Father of Modern Management\"?",
+    "options": [
+      "Henry Fayol",
+      "F.W. Taylor",
+      "Elton Mayo",
+      "Max Weber"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a function of management?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Directing",
+      "Manufacturing"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 3,
+    "question": "Which management function is considered the first step?",
+    "options": [
+      "Planning",
+      "Controlling",
+      "Staffing",
+      "Leading"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "question": "The process of comparing actual performance with planned performance is:",
+    "options": [
+      "Organizing",
+      "Staffing",
+      "Controlling",
+      "Coordinating"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Who developed the concept of Scientific Management?",
+    "options": [
+      "Elton Mayo",
+      "F.W. Taylor",
+      "Henry Fayol",
+      "Chester Barnard"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "\"Unity of Command\" means:",
+    "options": [
+      "Employees should follow multiple bosses",
+      "Employees should follow only one superior",
+      "Freedom to choose work",
+      "Delegation of authority"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Management is considered as:",
+    "options": [
+      "An Art",
+      "A Science",
+      "Both Art and Science",
+      "Neither Art nor Science"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Which function of management involves recruitment, selection, and training?",
+    "options": [
+      "Planning",
+      "Staffing",
+      "Directing",
+      "Organizing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "According to Henry Fayol, the principle of Espirit de Corps refers to:",
+    "options": [
+      "Discipline",
+      "Unity of command",
+      "Team spirit",
+      "Stability of tenure"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Which management thinker is associated with the Hawthorne Experiments?",
+    "options": [
+      "F.W. Taylor",
+      "Elton Mayo",
+      "Henry Fayol",
+      "Douglas McGregor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Organization structure primarily defines:",
+    "options": [
+      "Company goals",
+      "Roles, responsibilities, and reporting relationships",
+      "Financial planning",
+      "Marketing strategy"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is NOT a type of organizational structure?",
+    "options": [
+      "Line",
+      "Matrix",
+      "Functional",
+      "Commercial"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 13,
+    "question": "A line organization is also called:",
+    "options": [
+      "Project organization",
+      "Scalar organization",
+      "Divisional organization",
+      "Functional organization"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Which structure combines functional and project authority?",
+    "options": [
+      "Line structure",
+      "Divisional structure",
+      "Matrix structure",
+      "Line and staff structure"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 15,
+    "question": "The principle of unity of command means:",
+    "options": [
+      "One subordinate receives orders from one superior only",
+      "One subordinate reports to many superiors",
+      "Multiple reporting lines exist",
+      "Freedom in choosing authority"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is an advantage of functional organization?",
+    "options": [
+      "Quick decisions",
+      "Better specialization",
+      "Unity of command",
+      "Flexibility"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "Which is the most flexible organizational structure?",
+    "options": [
+      "Line",
+      "Matrix",
+      "Functional",
+      "Bureaucratic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "In which organization type do employees have two bosses?",
+    "options": [
+      "Line",
+      "Functional",
+      "Matrix",
+      "Divisional"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "A staff authority is meant to:",
+    "options": [
+      "Issue direct orders to line managers",
+      "Provide advice and support to line managers",
+      "Control day -to-day operations",
+      "Replace line authority"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a disadvantage of line organization?",
+    "options": [
+      "Simplicity",
+      "Clear authority",
+      "Over -burden on executives",
+      "Quick decision -making"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "Administration mainly deals with:",
+    "options": [
+      "Execution of plans",
+      "Policy -making and goal -setting",
+      "Supervision of employees",
+      "Daily operations"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "Who made the distinction between management and administration?",
+    "options": [
+      "Henry Fayol",
+      "Oliver Sheldon",
+      "Peter Drucker",
+      "Elton Mayo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is NOT a function of administration?",
+    "options": [
+      "Formulating objectives",
+      "Defining policies",
+      "Implementing procedures",
+      "Setting goals"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 24,
+    "question": "Administration is considered more important at:",
+    "options": [
+      "Top level",
+      "Middle level",
+      "Lower level",
+      "Operational level"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 25,
+    "question": "Which one of the following is a feature of administration?",
+    "options": [
+      "Concerned with execution",
+      "Short -term oriented",
+      "Concerned with policy -making",
+      "Deals with day -to-day operations"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "In educational institutions, administration is mainly related to:",
+    "options": [
+      "Curriculum implementation",
+      "Policy formation for education",
+      "Classroom teaching",
+      "Student participation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "The process of defining organizational objectives is a part of:",
+    "options": [
+      "Staffing",
+      "Management",
+      "Administration",
+      "Directing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "Which of the following statements is true?",
+    "options": [
+      "Administration is broader than management",
+      "Management is broader than administration",
+      "Both are the same",
+      "Administration deals only with finance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "In public administration, the main focus is on:",
+    "options": [
+      "Profit -making",
+      "Public welfare",
+      "Individual benefit",
+      "Employee satisfaction"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "Which of the following best describes the relationship between administration and",
+    "options": [
+      "Administration is part of management",
+      "Management is part of administration",
+      "Both are independent",
+      "Both are unrelated"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "An entrepreneur is best described as:",
+    "options": [
+      "A salaried employee",
+      "A risk -taker who organizes resources to create value",
+      "A government officer",
+      "A passive investor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "The word entrepreneur is derived from which language?",
+    "options": [
+      "German",
+      "Latin",
+      "French",
+      "Greek"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is NOT a characteristic of an entrepreneur?",
+    "options": [
+      "Innovation",
+      "Risk -bearing",
+      "Profit motive",
+      "Policy formulation for government"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 34,
+    "question": "Who is regarded as the Father of Entrepreneurship?",
+    "options": [
+      "Joseph Schumpeter",
+      "Adam Smith",
+      "F.W. Taylor",
+      "Peter Drucker"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "The main objective of entrepreneurship is:",
+    "options": [
+      "Job seeking",
+      "Profit maximization and value creation",
+      "Routine work",
+      "Following orders"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Which type of entrepreneur copies or adopts innovations made by others?",
+    "options": [
+      "Innovative entrepreneur",
+      "Imitative entrepreneur",
+      "Social entrepreneur",
+      "Technical entrepreneur"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "A social entrepreneur primarily aims at:",
+    "options": [
+      "Maximizing profit",
+      "Solving social problems",
+      "Expanding foreign trade",
+      "Promoting luxury products"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is an example of entrepreneurship?",
+    "options": [
+      "A student studying for exams",
+      "A manager executing company policy",
+      "A person starting a new business with innovative ideas",
+      "An employee doing routine tasks"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 39,
+    "question": "The concept of \"entrepreneurship as innovation and risk -taking\" was given by:",
+    "options": [
+      "Max Weber",
+      "Joseph Schumpeter",
+      "Adam Smith",
+      "Elton Mayo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is NOT an essential function of an entrepreneur?",
+    "options": [
+      "Organizing resources",
+      "Bearing risks",
+      "Innovating",
+      "Implementing government policies"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 41,
+    "question": "In a sole proprietorship, the liability of the owner is:",
+    "options": [
+      "Limited",
+      "Unlimited",
+      "Zero",
+      "Shared with partners"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is NOT an advantage of a sole proprietorship?",
+    "options": [
+      "Easy to form",
+      "Quick decision -making",
+      "Limited liability",
+      "Direct motivation"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 43,
+    "question": "The maximum number of partners allowed in a partnership firm (as per Indian Companies",
+    "options": [
+      "10",
+      "20",
+      "50",
+      "Unlimited"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "The document that governs a partnership firm is called:",
+    "options": [
+      "Memorandum of Association",
+      "Articles of Association",
+      "Partnership Deed",
+      "License Agreement"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 45,
+    "question": "In partnership, the liability of partners is:",
+    "options": [
+      "Limited",
+      "Unlimited",
+      "Zero",
+      "Limited to investment only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "A Joint Stock Company has:",
+    "options": [
+      "No separate legal entity",
+      "Separate legal entity",
+      "Only one owner",
+      "Unlimited liability of shareholders"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 47,
+    "question": "The minimum number of members required to form a Public Joint Stock Company is:",
+    "options": [
+      "2",
+      "7",
+      "10",
+      "20 Answer:  b) 7"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 48,
+    "question": "In a Private Limited Company, the maximum number of members is:",
+    "options": [
+      "50",
+      "100",
+      "200",
+      "Unlimited"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 49,
+    "question": "The main governing document of a Joint Stock Company is:",
+    "options": [
+      "Partnership Deed",
+      "Prospectus",
+      "Articles of Association (AoA) & Memorandum of Association (MoA)",
+      "Trust Deed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 50,
+    "question": "The shareholders of a joint stock company have:",
+    "options": [
+      "Unlimited liability",
+      "Liability limited to the face value of shares held",
+      "Liability limited to their salary",
+      "No liability at all"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "The main objective of a co -operative society is:",
+    "options": [
+      "Profit maximization",
+      "Welfare of members",
+      "Government control",
+      "Attracting investors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "The guiding principle of a co -operative society is:",
+    "options": [
+      "Survival of the fittest",
+      "Mutual help and service",
+      "Centralized control",
+      "Private ownership"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "The principle of \u201cOne man, one vote\u201d is followed in:",
+    "options": [
+      "Sole proprietorship",
+      "Partnership",
+      "Joint stock company",
+      "Co -operative society"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 54,
+    "question": "The liability of members in a co -operative society is usually:",
+    "options": [
+      "Unlimited",
+      "Limited",
+      "Zero",
+      "Equal for all"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is NOT a type of co -operative society?",
+    "options": [
+      "Consumer co -operative",
+      "Producer co -operative",
+      "Marketing co -operative",
+      "Private limited co -operative"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 56,
+    "question": "The minimum number of members required to form a co -operative society in India is:",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "20 Answer:  c) 10"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "Which of the following is an example of a co -operative society in India?",
+    "options": [
+      "Amul",
+      "Infosys",
+      "Reliance",
+      "TCS Answer:  a) Amul"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "The management of a co -operative society is vested in:",
+    "options": [
+      "Individual members",
+      "Board of Directors elected by members",
+      "Government officials",
+      "Creditors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "The profits earned by a co -operative society are:",
+    "options": [
+      "Distributed only to major shareholders",
+      "Distributed equally to all members regardless of shares",
+      "Distributed as dividend to members, after keeping aside reserve funds",
+      "Taken by government"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 60,
+    "question": "Co -operative societies in India are regulated by:",
+    "options": [
+      "Companies Act, 2013",
+      "Co -operative Societies Act",
+      "Partnership Act, 1932",
+      "Contract Act, 1872"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 61,
+    "question": "The main objective of the public sector is:",
+    "options": [
+      "Profit maximization",
+      "Social welfare and economic development",
+      "Speculation and trading",
+      "Private wealth creation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is NOT a feature of the public sector?",
+    "options": [
+      "Government ownership",
+      "Service motive",
+      "Profit as the primary objective",
+      "Public accountability"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 63,
+    "question": "Public sector enterprises are owned by:",
+    "options": [
+      "Private individuals",
+      "Shareholders",
+      "Government (Central or State)",
+      "Foreign investors"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is a form of public sector organization?",
+    "options": [
+      "Departmental Undertaking",
+      "Statutory Corporation",
+      "Government Company",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is an example of a departmental undertaking?",
+    "options": [
+      "LIC",
+      "Indian Railways",
+      "ONGC",
+      "Air India (before privatization)"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 66,
+    "question": "A statutory corporation is created by:",
+    "options": [
+      "A partnership deed",
+      "Special Act of Parliament or State Legislature",
+      "Memorandum of Association",
+      "Government notification only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "A government company is one in which the government holds at least:",
+    "options": [
+      "26% of share capital",
+      "51% of share capital",
+      "75% of share capital",
+      "100% of share capital"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is a merit of public sector enterprises?",
+    "options": [
+      "Monopoly abuse",
+      "Balanced regional development",
+      "Political interference",
+      "Slow decision -making"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is a limitation of public sector enterprises?",
+    "options": [
+      "Public welfare motive",
+      "Large -scale investment capacity",
+      "Bureaucratic management and inefficiency",
+      "Creation of employment"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 70,
+    "question": "Which of the following is an example of a Government Company in India?",
+    "options": [
+      "LIC",
+      "RBI",
+      "ONGC",
+      "Indian Railways"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 71,
+    "question": "Government undertakings are also called:",
+    "options": [
+      "Private companies",
+      "Public enterprises",
+      "Cooperative societies",
+      "Partnership firms"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is NOT a form of government undertaking?",
+    "options": [
+      "Departmental Undertaking",
+      "Statutory Corporation",
+      "Government Company",
+      "Joint Hindu Family Business"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 73,
+    "question": "Indian Railways is an example of:",
+    "options": [
+      "Statutory Corporation",
+      "Departmental Undertaking",
+      "Government Company",
+      "Cooperative Society"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "LIC (Life Insurance Corporation of India) is an example of:",
+    "options": [
+      "Government Company",
+      "Statutory Corporation",
+      "Departmental Undertaking",
+      "Private Company"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 75,
+    "question": "A Government Company must have a minimum of government ownership of:",
+    "options": [
+      "26%",
+      "51%",
+      "75%",
+      "100% Answer:  b) 51%"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is an example of a Government Company?",
+    "options": [
+      "RBI",
+      "FCI",
+      "ONGC",
+      "Indian Post"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 77,
+    "question": "A Statutory Corporation is established by:",
+    "options": [
+      "Memorandum of Association",
+      "Special Act of Parliament or State Legislature",
+      "Partnership Deed",
+      "Executive Order"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is an advantage of departmental undertakings?",
+    "options": [
+      "Freedom from political interference",
+      "Direct parliamentary control and accountability",
+      "Operational flexibility",
+      "Professional management"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 79,
+    "question": "A major limitation of statutory corporations is:",
+    "options": [
+      "Political interference and rigid rules",
+      "Separate legal entity",
+      "Quick decision -making",
+      "Professional management"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is true about government undertakings?",
+    "options": [
+      "They work only for private profit",
+      "They are always managed by individuals",
+      "They are established for public welfare and national interest",
+      "They are never accountable to the public"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "An advantage of a sole proprietorship is:",
+    "options": [
+      "Easy decision -making",
+      "Limited liability",
+      "Large financial resources",
+      "Perpetual existence"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 82,
+    "question": "A limitation of a partnership is:",
+    "options": [
+      "Sharing of risk",
+      "Unlimited liability of partners",
+      "Greater financial strength",
+      "Ease of formation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 83,
+    "question": "A joint stock company is best suited for:",
+    "options": [
+      "Small businesses",
+      "Businesses requiring huge capital",
+      "Family -owned shops",
+      "Seasonal business"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 84,
+    "question": "In terms of legal entity, which form of business has a separate legal status?",
+    "options": [
+      "Sole proprietorship",
+      "Partnership",
+      "Joint Stock Company",
+      "Joint Hindu Family Business"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "In terms of liability, shareholders of a company have:",
+    "options": [
+      "Unlimited liability",
+      "Limited liability",
+      "No liability",
+      "Liability equal to partners"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 86,
+    "question": "Which form of ownership enjoys the highest operational flexibility?",
+    "options": [
+      "Sole Proprietorship",
+      "Partnership",
+      "Co -operative Society",
+      "Joint Stock Company"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 87,
+    "question": "In which type of organization does authority flow directly from top to bottom?",
+    "options": [
+      "Functional",
+      "Line",
+      "Line & Staff",
+      "Matrix"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is the oldest and simplest  form of  organization?",
+    "options": [
+      "Line organization",
+      "Functional organization",
+      "Line & staff organization",
+      "Committee organization"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 89,
+    "question": "A major  limitation of line organization is:",
+    "options": [
+      "Clear authority and responsibility",
+      "Over -burdening of top management",
+      "Quick decision -making",
+      "Unity of command"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "Line organization is most suitable for:",
+    "options": [
+      "Small enterprises",
+      "Large enterprises",
+      "Highly diversified companies",
+      "Complex organizations"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 91,
+    "question": "Functional organization was introduced by:",
+    "options": [
+      "Henry Fayol",
+      "F.W. Taylor",
+      "Max Weber",
+      "Elton Mayo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "In functional organization,  authority is based on:",
+    "options": [
+      "Specialization",
+      "Hierarchy",
+      "Unity of command",
+      "Personal relations"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 93,
+    "question": "A key limitation of functional organization is:",
+    "options": [
+      "Expert guidance",
+      "Violation of unity of command",
+      "Increased efficiency",
+      "Clear responsibilities"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 94,
+    "question": "Functional organization is most suitable for:",
+    "options": [
+      "Routine and simple tasks",
+      "Large organizations with complex activities",
+      "Small family businesses",
+      "Emergency decision -making"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 95,
+    "question": "Which type of organization combines  advantages of both line  and functional structures?",
+    "options": [
+      "Line organization",
+      "Functional organization",
+      "Line & Staff organization",
+      "Matrix organization"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 96,
+    "question": "Staff officers in line & staff organization:",
+    "options": [
+      "Have direct authority over subordinates",
+      "Provide expert advice to line officers",
+      "Are responsible for final decisions",
+      "Replace line officers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 97,
+    "question": "One limitation of line & staff organization is:",
+    "options": [
+      "Expert advice available",
+      "Possibility of conflict between line and staff",
+      "Unity of command maintained",
+      "Efficient decision -making"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "Line & staff organization is suitable for:",
+    "options": [
+      "Very small businesses",
+      "Large -scale enterprises requiring expert guidance",
+      "Family -run shops",
+      "Informal groups"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 99,
+    "question": "Which  organization ensures quick decisions but lacks specialization?",
+    "options": [
+      "Line",
+      "Functional",
+      "Line & staff",
+      "Committee"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 100,
+    "question": "Which  organization structure  may lead to  confusion due to  multiple bosses?",
+    "options": [
+      "Line",
+      "Functional",
+      "Line & staff",
+      "Line & functional combined"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 101,
+    "question": "The structure that balances authority and expert advice is:",
+    "options": [
+      "Line",
+      "Functional",
+      "Line & staff",
+      "Matrix"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 102,
+    "question": "Unity of command is violated in:",
+    "options": [
+      "Line organization",
+      "Functional organization",
+      "Line & staff organization",
+      "None of the above"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "The simplest, oldest, and most rigid form of organization is:",
+    "options": [
+      "Line",
+      "Functional",
+      "Line & staff",
+      "Matrix"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 104,
+    "question": "Forecasting in  management means:",
+    "options": [
+      "Setting objectives",
+      "Estimating future events based on past data",
+      "Giving instructions",
+      "Controlling activities"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 105,
+    "question": "Forecasting is considered as  the basis of:",
+    "options": [
+      "Directing",
+      "Planning",
+      "Organizing",
+      "Controlling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "Which of the  following is the primary function  of management?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Controlling",
+      "Motivating"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 107,
+    "question": "\"Planning is looking  ahead\" \u2013 this statement is given by:",
+    "options": [
+      "Henry Fayol",
+      "Elton Mayo",
+      "F.W. Taylor",
+      "Koontz and O\u2019Donnell"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 108,
+    "question": "Limitation of planning is:",
+    "options": [
+      "Provides direction",
+      "Creates rigidity",
+      "Encourages innovation",
+      "Minimizes risk"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "The process of  assigning duties, grouping tasks, and delegating authority is:",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Directing",
+      "Controlling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "Organizing ensures:",
+    "options": [
+      "Discipline",
+      "Proper use of resources",
+      "Better forecasting",
+      "Innovation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 111,
+    "question": "Which function of management is concerned with guiding, supervising, and inspiring",
+    "options": [
+      "Organizing",
+      "Planning",
+      "Directing",
+      "Controlling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 112,
+    "question": "Directing includes:",
+    "options": [
+      "Planning and organizing",
+      "Leadership, supervision, communication, motivation",
+      "Decision -making only",
+      "Control and feedback"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 113,
+    "question": "Motivation is derived from the Latin word \"movere,\" which means:",
+    "options": [
+      "To control",
+      "To plan",
+      "To move",
+      "To guide"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is NOT a motivational tool?",
+    "options": [
+      "Monetary incentives",
+      "Recognition and rewards",
+      "Delegation of authority",
+      "Quality inspection"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 115,
+    "question": "Maslow\u2019s  theory of motivation is based on:",
+    "options": [
+      "Needs hierarchy",
+      "Leadership qualities",
+      "Control techniques",
+      "Decision -making process"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 116,
+    "question": "Controlling in management means:",
+    "options": [
+      "Establishing objectives",
+      "Measuring performance and correcting deviations",
+      "Giving orders to subordinates",
+      "Motivating employees"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "Controlling is a:",
+    "options": [
+      "Forward -looking function",
+      "Backward -looking function",
+      "Both forward and backward -looking function",
+      "Irrelevant function"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "\"Coordination is the essence of  management\" was said by :",
+    "options": [
+      "Henry Fayol",
+      "Mary Parker Follett",
+      "Koontz and O\u2019Donnell",
+      "F.W. Taylor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 119,
+    "question": "Coordination mainly seeks to :",
+    "options": [
+      "Maintain discipline",
+      "Synchronize efforts of different departments",
+      "Reduce cost",
+      "Forecast events"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "Decision -making is concerned with:",
+    "options": [
+      "Choosing the best alternative",
+      "Measuring performance",
+      "Motivating employees",
+      "Assigning duties"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 121,
+    "question": "Decision -making is considered as the:",
+    "options": [
+      "Core of planning",
+      "Core of controlling",
+      "Core of directing",
+      "Core of organizing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 122,
+    "question": "Which of the  following is a  continuous  function of management?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Directing",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 123,
+    "question": "The correct  sequence of  management functions is:",
+    "options": [
+      "Organizing \u2192 Planning \u2192 Directing \u2192 Controlling",
+      "Planning \u2192 Organizing \u2192 Directing \u2192 Controlling",
+      "Controlling \u2192 Directing \u2192 Planning \u2192 Organizing",
+      "Forecasting \u2192 Directing \u2192 Controlling \u2192 Planning"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 124,
+    "question": "The 14 principles of management were given by:",
+    "options": [
+      "F.W. Taylor",
+      "Henry Fayol",
+      "Max Weber",
+      "Peter Drucker"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "\u201cScience, not rule of thumb\u201d is a principle of:",
+    "options": [
+      "Taylor",
+      "Fayol",
+      "Follett",
+      "Drucker"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 126,
+    "question": "Unity of Command means:",
+    "options": [
+      "Employees should get orders from one superior only",
+      "Employees should follow multiple bosses",
+      "Workers should command their managers",
+      "Command chain is not required"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "The principle of equity in management emphasizes:",
+    "options": [
+      "Equal pay for all",
+      "Fair treatment of employees",
+      "Centralized authority",
+      "Rigid discipline"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "The principle of initiative encourages:",
+    "options": [
+      "Managers only to take decisions",
+      "Employees to take part in decision -making",
+      "Strict following of orders",
+      "Punishment for mistakes"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 129,
+    "question": "The top level of management mainly deals with:",
+    "options": [
+      "Policy formulation",
+      "Execution of work",
+      "Supervision of workers",
+      "Routine tasks"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 130,
+    "question": "Which of the following is NOT a top -level position?",
+    "options": [
+      "CEO",
+      "General Manager",
+      "Supervisor",
+      "Board of Directors"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 131,
+    "question": "Middle -level management acts as:",
+    "options": [
+      "A link between top and lower level",
+      "Policy makers only",
+      "Workers\u2019 union leaders",
+      "Auditors"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 132,
+    "question": "Supervisors and foremen belong  to:",
+    "options": [
+      "Top level management",
+      "Middle level management",
+      "Lower level management",
+      "None of the above"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 133,
+    "question": "The level of management  most concerned with  day-to-day operations  is:",
+    "options": [
+      "Top",
+      "Middle",
+      "Lower",
+      "All levels equally"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "A key function of  top-level management  is:",
+    "options": [
+      "Policy and strategy formulation",
+      "Supervising workers directly",
+      "Preparing work schedules",
+      "Handling wages and salaries"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 135,
+    "question": "A key function of middle -level management  is:",
+    "options": [
+      "Long -term planning",
+      "Interpreting and implementing policies",
+      "Supervising shop -floor activities",
+      "Direct contact with customers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 136,
+    "question": "A key function of  lower -level management is:",
+    "options": [
+      "Setting company vision",
+      "Guiding and controlling workers",
+      "Framing business strategies",
+      "Market expansion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 137,
+    "question": "Motivating employees and maintaining  discipline is mainly the responsibility of:",
+    "options": [
+      "Top level",
+      "Middle level",
+      "Lower level",
+      "All levels"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 138,
+    "question": "Allocation of resources and departmental  coordination is the responsibility  of:",
+    "options": [
+      "Top level",
+      "Middle level",
+      "Lower level",
+      "Operational workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "Which level of management spends most of its time on strategic planning?",
+    "options": [
+      "Top level",
+      "Middle level",
+      "Lower level",
+      "None Answer:  a) Top level"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 140,
+    "question": "Which level ensures the execution of policies  framed by top management?",
+    "options": [
+      "Lower level",
+      "Middle level",
+      "Both middle and lower",
+      "None of these"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 141,
+    "question": "Which level directly interacts with workers and solves  their immediate problems?",
+    "options": [
+      "Top",
+      "Middle",
+      "Lower",
+      "Supervisory board"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 142,
+    "question": "Henry Fayol\u2019s principle of scalar chain relates  to:",
+    "options": [
+      "Unity of command",
+      "Chain of authority from top to bottom",
+      "Workers\u2019 motivation",
+      "Division of work"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "Taylor\u2019s  principle of  Harmony, not discord emphasizes:",
+    "options": [
+      "Strikes and lockouts",
+      "Cooperation between workers and managers",
+      "Multiple command",
+      "Strict discipline only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 144,
+    "question": "The primary need of finance in a business enterprise  is:",
+    "options": [
+      "To hire employees",
+      "To meet various business expenses",
+      "To comply with law",
+      "To increase competition"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "Which of the following is not a reason why enterprises need finance?",
+    "options": [
+      "To start a business",
+      "To maintain day -to-day operations",
+      "To increase production",
+      "To reduce competition"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 146,
+    "question": "Finance is considered as the:",
+    "options": [
+      "Lifeblood of business",
+      "End result of business",
+      "Substitute for management",
+      "Non -essential requirement"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 147,
+    "question": "Fixed capital is generally required for:",
+    "options": [
+      "Daily expenses",
+      "Purchase of raw material",
+      "Purchase of land, building, machinery",
+      "Payment of wages"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 148,
+    "question": "Working capital is used for:",
+    "options": [
+      "Expansion of production capacity",
+      "Long -term investments",
+      "Daily operational needs",
+      "Issuing shares"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 149,
+    "question": "Which of the following is a  short -term source of finance?",
+    "options": [
+      "Issue of debentures",
+      "Trade credit",
+      "Equity shares",
+      "Retained earnings"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 150,
+    "question": "Bank overdraft is categorized as:",
+    "options": [
+      "Short -term source",
+      "Medium -term source",
+      "Long -term source",
+      "Permanent capital"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 151,
+    "question": "Commercial paper is generally issued for:",
+    "options": [
+      "1 to 3 months",
+      "3 to 12 months",
+      "1 to 5 years",
+      "More than 5 years"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 152,
+    "question": "Factoring is a source of:",
+    "options": [
+      "Long -term finance",
+      "Short -term finance",
+      "Medium -term finance",
+      "Internal financing only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 153,
+    "question": "Medium -term finance  is generally for:",
+    "options": [
+      "Less than 1 year",
+      "1 to 5 years",
+      "More than 5 years",
+      "Lifetime of business"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 154,
+    "question": "Hire purchase is an example of:",
+    "options": [
+      "Short -term finance",
+      "Medium -term finance",
+      "Long -term finance",
+      "Internal finance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 155,
+    "question": "Leasing is generally considered as:",
+    "options": [
+      "Short -term finance",
+      "Medium -term finance",
+      "Long -term finance",
+      "Internal financing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "Medium -term sources are usually required for:",
+    "options": [
+      "Working capital",
+      "Purchase of small machinery, modernization, renovation",
+      "Buying land & building",
+      "Meeting day -to-day expenses"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 157,
+    "question": "Which of the following is a long -term source of finance?",
+    "options": [
+      "Bank overdraft",
+      "Equity shares",
+      "Trade credit",
+      "Factoring"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 158,
+    "question": "Debentures are:",
+    "options": [
+      "Short -term source",
+      "Medium -term source",
+      "Long -term source",
+      "Internal source"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 159,
+    "question": "Retained earnings are considered as:",
+    "options": [
+      "Internal long -term source of finance",
+      "External short -term source",
+      "Medium -term only",
+      "Temporary fund"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "Term loans from financial institutions  are generally:",
+    "options": [
+      "For day -to-day needs",
+      "For 1 to 5 years only",
+      "For more than 5 years",
+      "To meet immediate liquidity"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 161,
+    "question": "Venture capital is a source of:",
+    "options": [
+      "Short -term finance",
+      "Medium -term finance",
+      "Long -term finance",
+      "Temporary finance"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 162,
+    "question": "Matching the source with the period:",
+    "options": [
+      "Short -term, Medium -term, Long -term",
+      "Long -term, Short -term, Medium -term",
+      "Medium -term, Long -term, Short -term",
+      "Short -term, Long -term, Medium -term"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 163,
+    "question": "Which  type of finance  would a  company use for  expansion of production capacity ?",
+    "options": [
+      "Short -term",
+      "Medium -term",
+      "Long -term",
+      "None of these"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 164,
+    "question": "A share represents:",
+    "options": [
+      "A loan given to the company",
+      "Ownership in a company",
+      "A government bond",
+      "Fixed income security"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 165,
+    "question": "Which of the following is a type of equity share?",
+    "options": [
+      "Preference share",
+      "Debenture",
+      "Equity share",
+      "Public deposit"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 166,
+    "question": "The holder of a preference share has:",
+    "options": [
+      "Voting rights",
+      "Priority in dividend",
+      "Ownership of company assets",
+      "No claim on profits"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 167,
+    "question": "Equity shares are also called:",
+    "options": [
+      "Ordinary shares",
+      "Preference shares",
+      "Cumulative shares",
+      "Fixed deposits"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 168,
+    "question": "A bonus share is issued to:",
+    "options": [
+      "Borrow funds from the public",
+      "Reward existing shareholders by capitalizing reserves",
+      "Increase long -term debt",
+      "Pay off creditors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 169,
+    "question": "A debenture represents:",
+    "options": [
+      "Ownership in a company",
+      "A loan given to a company",
+      "Government security",
+      "Equity capital"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 170,
+    "question": "Which of the following  is a type of debenture ?",
+    "options": [
+      "Secured debenture",
+      "Equity share",
+      "Bonus share",
+      "Preference share"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "Interest on debenture is:",
+    "options": [
+      "Optional",
+      "Paid only if profit is made",
+      "Fixed and payable at specified intervals",
+      "Paid in shares"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 172,
+    "question": "Debenture holders are:",
+    "options": [
+      "Owners of the company",
+      "Creditors of the company",
+      "Both owners and creditors",
+      "Government representatives"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 173,
+    "question": "Convertible debenture  means:",
+    "options": [
+      "Can be converted into equity shares",
+      "Can be converted into cash only",
+      "Can be converted into government bonds",
+      "Cannot be converted"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is NOT  a type of  share?",
+    "options": [
+      "Equity share",
+      "Preference share",
+      "Debenture",
+      "Bonus share"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 175,
+    "question": "Cumulative preference shares mean:",
+    "options": [
+      "Dividends accumulate if not paid in a year",
+      "Dividend is paid only once",
+      "Dividend is optional",
+      "Shareholder has no voting rights"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 176,
+    "question": "Non-cumulative preference shares mean:",
+    "options": [
+      "Dividend is carried forward",
+      "Dividend is lost if not declared in a year",
+      "Dividend is optional",
+      "Shareholder can vote"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 177,
+    "question": "Redeemable preference shares can be:",
+    "options": [
+      "Converted into debentures",
+      "Bought back by the company after a period",
+      "Transferred to government",
+      "Used to pay debts only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 178,
+    "question": "Participating preference shares allow:",
+    "options": [
+      "Participation in surplus profits",
+      "Only fixed dividend",
+      "No dividend",
+      "Conversion into bonds only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 179,
+    "question": "Shares represent:",
+    "options": [
+      "Debt",
+      "Ownership",
+      "Loan to bank",
+      "Government security"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 180,
+    "question": "Debentures represent:",
+    "options": [
+      "Ownership",
+      "Loan/creditor position",
+      "Bonus payment",
+      "Dividend rights"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 181,
+    "question": "Dividend on shares is:",
+    "options": [
+      "Fixed",
+      "Optional and depends on profit",
+      "Compulsory",
+      "Government -regulated"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 182,
+    "question": "Interest on debenture is:",
+    "options": [
+      "Optional",
+      "Depends on profit",
+      "Fixed and mandatory",
+      "Paid in shares"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "Voting rights are enjoyed by:",
+    "options": [
+      "Debenture holders only",
+      "Shareholders only",
+      "Both debenture holders and shareholders",
+      "None of the above"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 184,
+    "question": "Break -even analysis helps a firm to determine:",
+    "options": [
+      "The point at which total cost equals total revenue",
+      "Maximum profit point",
+      "Minimum sales target",
+      "Both a and c"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 185,
+    "question": "At break -even point:",
+    "options": [
+      "Profit is maximum",
+      "Loss is maximum",
+      "Profit = Loss = 0",
+      "Revenue > Cost"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 186,
+    "question": "Break -even analysis is also called:",
+    "options": [
+      "Cost -Volume -Profit (CVP) Analysis",
+      "Financial Analysis",
+      "Budgeting Analysis",
+      "Ratio Analysis"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 187,
+    "question": "Fixed cost does NOT include:",
+    "options": [
+      "Rent",
+      "Wages of permanent staff",
+      "Raw material cost",
+      "Depreciation"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 188,
+    "question": "Variable cost includes:",
+    "options": [
+      "Rent",
+      "Direct material and labor",
+      "Office salaries",
+      "Depreciation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 189,
+    "question": "Break -even point helps management  to:",
+    "options": [
+      "Determine minimum sales to avoid loss",
+      "Decide selling price",
+      "Forecast profit",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 190,
+    "question": "BEP is important because it:",
+    "options": [
+      "Helps in profit planning",
+      "Helps in cost control",
+      "Assists in financial decision -making",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 191,
+    "question": "BEP can be expressed in:",
+    "options": [
+      "Units only",
+      "Sales value only",
+      "Both units and sales value",
+      "None of the above"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 192,
+    "question": "Contribution per unit is calculated as:",
+    "options": [
+      "Selling price \u2013 Variable cost",
+      "Selling price \u2013 Fixed cost",
+      "Total revenue \u2013 Total cost",
+      "Fixed cost \u00f7 Sales units"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 193,
+    "question": "Formula for BEP in units :",
+    "options": [
+      "Fixed cost \u00f7 Contribution per unit",
+      "Total cost \u00f7 Sales price",
+      "Contribution \u00f7 Variable cost",
+      "Fixed cost \u00d7 Contribution per unit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 194,
+    "question": "EOQ stands for:",
+    "options": [
+      "Estimated Order Quantity",
+      "Economic Order Quantity",
+      "Equated Operational Quantity",
+      "Extra Order Quantity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "EOQ helps in:",
+    "options": [
+      "Minimizing ordering cost",
+      "Minimizing holding cost",
+      "Balancing ordering and holding cost",
+      "Maximizing profit"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 196,
+    "question": "The EOQ formula is:",
+    "options": [
+      "\u221a(2 \u00d7 Demand \u00d7 Ordering cost \u00f7 Holding cost)",
+      "2 \u00d7 Demand \u00d7 Ordering cost \u00f7 Holding cost",
+      "Demand \u00f7 Ordering cost \u00d7 Holding cost",
+      "\u221a(Holding cost \u00f7 Ordering cost \u00d7 Demand)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "If demand increases, EOQ:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Cannot be determined"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "If holding cost increases, EOQ:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Cannot be determined"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 199,
+    "question": "A company has annual demand of 10,000 units. Ordering cost per order is \u20b950. Holding",
+    "options": [
+      "500 units",
+      "700 units",
+      "1000 units",
+      "1500 units"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 200,
+    "question": "If selling price per unit = \u20b920, variable  cost = \u20b912, fixed cost = \u20b93200, BEP in units = ?",
+    "options": [
+      "400 units",
+      "500 units",
+      "600 units",
+      "800 units"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 201,
+    "question": "Break -even  sales in \u20b9 if  BEP units = 400 and selling price/unit = \u20b920 = ?",
+    "options": [
+      "\u20b96000",
+      "\u20b97000",
+      "\u20b98000",
+      "\u20b94000"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 202,
+    "question": "EOQ minimizes:",
+    "options": [
+      "Total cost (ordering + holding)",
+      "Fixed cost only",
+      "Variable cost only",
+      "Selling price"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 203,
+    "question": "BEP  analysis is useful for:",
+    "options": [
+      "Decision making regarding pricing",
+      "Cost control",
+      "Profit planning",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 204,
+    "question": "Capital refers to:",
+    "options": [
+      "Only cash in hand",
+      "Total wealth invested in a business for earning profit",
+      "Borrowed funds only",
+      "Machinery only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 205,
+    "question": "Fixed capital is required for:",
+    "options": [
+      "Day -to-day operations",
+      "Purchase of land, building, machinery",
+      "Payment of wages",
+      "Buying raw materials"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 206,
+    "question": "Working capital is used for:",
+    "options": [
+      "Long -term investment",
+      "Routine operations of the business",
+      "Buying fixed assets",
+      "Expansion of business"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 207,
+    "question": "Which of the following is NOT part of working capital?",
+    "options": [
+      "Cash",
+      "Debtors",
+      "Land and building",
+      "Inventory"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 208,
+    "question": "Capital required for a long period and not easily convertible into cash is called:",
+    "options": [
+      "Fixed capital",
+      "Working capital",
+      "Circulating capital",
+      "Variable capital"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 209,
+    "question": "Capital required for short -term business needs  like raw material, wages, etc. is called:",
+    "options": [
+      "Fixed capital",
+      "Working capital",
+      "Seed capital",
+      "Equity capital"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 210,
+    "question": "Fixed capital includes investment in:",
+    "options": [
+      "Cash and bank balance",
+      "Land, building, machinery, furniture",
+      "Inventory",
+      "Debtors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 211,
+    "question": "Fixed capital is:",
+    "options": [
+      "Circulating in business",
+      "Invested for long -term use",
+      "Used to pay salaries",
+      "Equivalent to working capital"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 212,
+    "question": "Which of the following is a source of fixed capital?",
+    "options": [
+      "Bank overdraft",
+      "Long -term loans",
+      "Trade credit",
+      "Cash sales"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 213,
+    "question": "Fixed deposits in banks are considered:",
+    "options": [
+      "A source of short -term finance",
+      "A source of long -term finance",
+      "A source of fixed capital",
+      "None of the above"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 214,
+    "question": "Advantage of investing in fixed capital is:",
+    "options": [
+      "Easy liquidity",
+      "Generates long -term benefits",
+      "No risk involved",
+      "Can be used for daily expenses"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 215,
+    "question": "Adequate working capital ensures:",
+    "options": [
+      "Smooth day -to-day operations",
+      "Buying fixed assets",
+      "Expansion of business only",
+      "Long -term growth only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 216,
+    "question": "If working capital is excessive, it may lead to:",
+    "options": [
+      "Loss of profit",
+      "Liquidity problem",
+      "Smooth operations",
+      "Reduction in cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 217,
+    "question": "If working capital is insufficient, it may cause:",
+    "options": [
+      "Idle funds",
+      "Cash shortage for operations",
+      "Over -investment in fixed assets",
+      "Increase in profit"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 218,
+    "question": "Sources of working capital include:",
+    "options": [
+      "Bank overdraft",
+      "Trade credit",
+      "Short -term loans",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 219,
+    "question": "Fixed deposits are:",
+    "options": [
+      "Short -term deposits in banks",
+      "Long -term deposits with a fixed interest rate",
+      "Equity shares",
+      "Debenture investments"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 220,
+    "question": "Which of the following is a feature of fixed  deposits?",
+    "options": [
+      "High liquidity",
+      "Fixed tenure and interest rate",
+      "Ownership in company",
+      "Optional dividend"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 221,
+    "question": "Fixed deposits are considered:",
+    "options": [
+      "Risky investment",
+      "Safe investment",
+      "Equity investment",
+      "Debenture investment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 222,
+    "question": "Fixed deposits can be used as:",
+    "options": [
+      "Collateral for loans",
+      "Short -term working capital",
+      "Equity financing",
+      "Only for business expansion"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 223,
+    "question": "Interest on fixed deposits is:",
+    "options": [
+      "Variable and uncertain",
+      "Fixed and guaranteed",
+      "Paid only on profit",
+      "Paid in shares"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 224,
     "question": "The primary aim of Human Resource Management is to:",
     "options": [
       "Increase product price",
@@ -11,7 +2464,7 @@
     "answerIndex": 1
   },
   {
-    "id": 2,
+    "id": 225,
     "question": "Human Resource Management is mainly concerned with:",
     "options": [
       "Machines and materials",
@@ -22,7 +2475,7 @@
     "answerIndex": 2
   },
   {
-    "id": 3,
+    "id": 226,
     "question": "One of the major objectives of HRM is to ensure:",
     "options": [
       "Employee exploitation",
@@ -33,7 +2486,7 @@
     "answerIndex": 2
   },
   {
-    "id": 4,
+    "id": 227,
     "question": "Which function of HRM deals with hiring people?",
     "options": [
       "Organizing",
@@ -44,7 +2497,7 @@
     "answerIndex": 1
   },
   {
-    "id": 5,
+    "id": 228,
     "question": "HRM aims to maintain a balance between:",
     "options": [
       "Employer and government needs",
@@ -55,7 +2508,7 @@
     "answerIndex": 2
   },
   {
-    "id": 6,
+    "id": 229,
     "question": "Training and development programs focus on:",
     "options": [
       "Increasing employee stress",
@@ -66,7 +2519,7 @@
     "answerIndex": 1
   },
   {
-    "id": 7,
+    "id": 230,
     "question": "The concept of HRM emphasizes:",
     "options": [
       "Treating employees as machines",
@@ -77,7 +2530,7 @@
     "answerIndex": 1
   },
   {
-    "id": 8,
+    "id": 231,
     "question": "Maximizing employee satisfaction is a/an:",
     "options": [
       "Financial objective",
@@ -88,7 +2541,7 @@
     "answerIndex": 2
   },
   {
-    "id": 9,
+    "id": 232,
     "question": "Performance appraisal is carried out to:",
     "options": [
       "Punish employees",
@@ -99,7 +2552,7 @@
     "answerIndex": 1
   },
   {
-    "id": 10,
+    "id": 233,
     "question": "Which of the following is NOT an objective of HRM?",
     "options": [
       "Employee development",
@@ -110,7 +2563,7 @@
     "answerIndex": 2
   },
   {
-    "id": 11,
+    "id": 234,
     "question": "HRM helps to improve:",
     "options": [
       "Employee morale",
@@ -121,7 +2574,7 @@
     "answerIndex": 0
   },
   {
-    "id": 12,
+    "id": 235,
     "question": "The concept of HRM mainly evolved to:",
     "options": [
       "Reduce manpower",
@@ -132,7 +2585,7 @@
     "answerIndex": 1
   },
   {
-    "id": 13,
+    "id": 236,
     "question": "HRM ensures optimum utilization of:",
     "options": [
       "Natural resources",
@@ -143,7 +2596,7 @@
     "answerIndex": 2
   },
   {
-    "id": 14,
+    "id": 237,
     "question": "The objective of employee welfare is to:",
     "options": [
       "Improve employee well -being",
@@ -154,7 +2607,7 @@
     "answerIndex": 0
   },
   {
-    "id": 15,
+    "id": 238,
     "question": "A key concept of HRM is that employees are:",
     "options": [
       "Liability",
@@ -165,7 +2618,7 @@
     "answerIndex": 2
   },
   {
-    "id": 16,
+    "id": 239,
     "question": "HR planning involves:",
     "options": [
       "Forecasting manpower needs",
@@ -176,7 +2629,7 @@
     "answerIndex": 0
   },
   {
-    "id": 17,
+    "id": 240,
     "question": "The function of organizing in HRM mainly focuses on:",
     "options": [
       "Creating organizational structure",
@@ -187,7 +2640,7 @@
     "answerIndex": 0
   },
   {
-    "id": 18,
+    "id": 241,
     "question": "Staffing includes:",
     "options": [
       "Designing posters",
@@ -198,7 +2651,7 @@
     "answerIndex": 1
   },
   {
-    "id": 19,
+    "id": 242,
     "question": "Recruitment refers to:",
     "options": [
       "Selecting suppliers",
@@ -209,7 +2662,7 @@
     "answerIndex": 1
   },
   {
-    "id": 20,
+    "id": 243,
     "question": "The first step in the recruitment process is:",
     "options": [
       "Selection",
@@ -220,7 +2673,7 @@
     "answerIndex": 1
   },
   {
-    "id": 21,
+    "id": 244,
     "question": "Education and training are required to:",
     "options": [
       "Increase employee workload",
@@ -231,7 +2684,7 @@
     "answerIndex": 1
   },
   {
-    "id": 22,
+    "id": 245,
     "question": "Which of the following is NOT a method of training?",
     "options": [
       "On-the-job training",
@@ -242,7 +2695,7 @@
     "answerIndex": 3
   },
   {
-    "id": 23,
+    "id": 246,
     "question": "Apprenticeship training is a type of:",
     "options": [
       "Off-the-job training",
@@ -253,7 +2706,7 @@
     "answerIndex": 0
   },
   {
-    "id": 24,
+    "id": 247,
     "question": "Motivation in HRM aims to:",
     "options": [
       "Reduce productivity",
@@ -264,7 +2717,7 @@
     "answerIndex": 1
   },
   {
-    "id": 25,
+    "id": 248,
     "question": "Monetary motivation example is:",
     "options": [
       "Praise",
@@ -275,7 +2728,7 @@
     "answerIndex": 2
   },
   {
-    "id": 26,
+    "id": 249,
     "question": "Controlling as a function of HRM includes:",
     "options": [
       "Setting standards and measuring performance",
@@ -286,7 +2739,7 @@
     "answerIndex": 0
   },
   {
-    "id": 27,
+    "id": 250,
     "question": "Compensation refers to:",
     "options": [
       "Awards given to customers",
@@ -297,7 +2750,7 @@
     "answerIndex": 1
   },
   {
-    "id": 28,
+    "id": 251,
     "question": "Which of the following is included in employee compensation?",
     "options": [
       "Furniture",
@@ -308,7 +2761,7 @@
     "answerIndex": 1
   },
   {
-    "id": 29,
+    "id": 252,
     "question": "Labour welfare aims to:",
     "options": [
       "Improve employee comfort and well -being",
@@ -319,7 +2772,7 @@
     "answerIndex": 0
   },
   {
-    "id": 30,
+    "id": 253,
     "question": "Canteen, rest rooms, and medical facilities are examples of:",
     "options": [
       "Wastage",
@@ -330,7 +2783,7 @@
     "answerIndex": 1
   },
   {
-    "id": 31,
+    "id": 254,
     "question": "Industrial relations aim to maintain:",
     "options": [
       "Conflict between workers and management",
@@ -341,7 +2794,7 @@
     "answerIndex": 1
   },
   {
-    "id": 32,
+    "id": 255,
     "question": "A strike is related to:",
     "options": [
       "Industrial relations",
@@ -352,7 +2805,7 @@
     "answerIndex": 0
   },
   {
-    "id": 33,
+    "id": 256,
     "question": "Collective bargaining is a process between:",
     "options": [
       "Customers and shopkeepers",
@@ -363,7 +2816,7 @@
     "answerIndex": 1
   },
   {
-    "id": 34,
+    "id": 257,
     "question": "One important objective of industrial relations is:",
     "options": [
       "Increase disputes",
@@ -374,7 +2827,7 @@
     "answerIndex": 1
   },
   {
-    "id": 35,
+    "id": 258,
     "question": "A common non -monetary motivation method is:",
     "options": [
       "Bonus",
@@ -385,7 +2838,7 @@
     "answerIndex": 0
   },
   {
-    "id": 36,
+    "id": 259,
     "question": "The main need for Safety Engineering is to:",
     "options": [
       "Increase production only",
@@ -396,7 +2849,7 @@
     "answerIndex": 1
   },
   {
-    "id": 37,
+    "id": 260,
     "question": "Safety Engineering focuses on:",
     "options": [
       "Product selling",
@@ -407,7 +2860,7 @@
     "answerIndex": 1
   },
   {
-    "id": 38,
+    "id": 261,
     "question": "A safety organization is formed to:",
     "options": [
       "Promote conflicts",
@@ -418,7 +2871,7 @@
     "answerIndex": 1
   },
   {
-    "id": 39,
+    "id": 262,
     "question": "The purpose of a Safety Committee is to:",
     "options": [
       "Create disputes among workers",
@@ -429,7 +2882,7 @@
     "answerIndex": 1
   },
   {
-    "id": 40,
+    "id": 263,
     "question": "Members of the Safety Committee include:",
     "options": [
       "Only workers",
@@ -440,7 +2893,7 @@
     "answerIndex": 2
   },
   {
-    "id": 41,
+    "id": 264,
     "question": "A Safety Programme mainly aims to:",
     "options": [
       "Increase accidents",
@@ -451,7 +2904,7 @@
     "answerIndex": 1
   },
   {
-    "id": 42,
+    "id": 265,
     "question": "Safety instructions provided to workers help in:",
     "options": [
       "Increasing absenteeism",
@@ -462,7 +2915,7 @@
     "answerIndex": 1
   },
   {
-    "id": 43,
+    "id": 266,
     "question": "Safety training is required to:",
     "options": [
       "Teach unsafe behaviors",
@@ -473,7 +2926,7 @@
     "answerIndex": 1
   },
   {
-    "id": 44,
+    "id": 267,
     "question": "Which of the following is NOT included in safety instructions?",
     "options": [
       "Use of PPE (Personal Protective Equipment)",
@@ -484,7 +2937,7 @@
     "answerIndex": 2
   },
   {
-    "id": 45,
+    "id": 268,
     "question": "One of the major causes of industrial accidents is:",
     "options": [
       "Proper training",
@@ -495,7 +2948,7 @@
     "answerIndex": 1
   },
   {
-    "id": 46,
+    "id": 269,
     "question": "Mechanical causes of accidents include:",
     "options": [
       "Faulty machines",
@@ -506,7 +2959,7 @@
     "answerIndex": 0
   },
   {
-    "id": 47,
+    "id": 270,
     "question": "Human causes of accidents include:",
     "options": [
       "Machine breakdown",
@@ -517,7 +2970,7 @@
     "answerIndex": 1
   },
   {
-    "id": 48,
+    "id": 271,
     "question": "Poor housekeeping leads to:",
     "options": [
       "More safety",
@@ -528,7 +2981,7 @@
     "answerIndex": 2
   },
   {
-    "id": 49,
+    "id": 272,
     "question": "The best way to prevent accidents is:",
     "options": [
       "Ignoring hazards",
@@ -539,7 +2992,7 @@
     "answerIndex": 1
   },
   {
-    "id": 50,
+    "id": 273,
     "question": "Wearing helmets, gloves, shoes etc. fall under:",
     "options": [
       "Recreation",
@@ -550,7 +3003,7 @@
     "answerIndex": 1
   },
   {
-    "id": 51,
+    "id": 274,
     "question": "Safety audits are conducted to:",
     "options": [
       "Reduce employee benefits",
@@ -561,7 +3014,7 @@
     "answerIndex": 1
   },
   {
-    "id": 52,
+    "id": 275,
     "question": "Accident prevention includes:",
     "options": [
       "Providing good housekeeping",
@@ -572,7 +3025,7 @@
     "answerIndex": 3
   },
   {
-    "id": 53,
+    "id": 276,
     "question": "Most accidents can be prevented by:",
     "options": [
       "Safety awareness",
@@ -583,7 +3036,7 @@
     "answerIndex": 0
   },
   {
-    "id": 54,
+    "id": 277,
     "question": "Unsafe working environment is an example of:",
     "options": [
       "Human cause",
@@ -594,7 +3047,7 @@
     "answerIndex": 1
   },
   {
-    "id": 55,
+    "id": 278,
     "question": "The first step in accident investigation is:",
     "options": [
       "Assigning blame",
@@ -605,7 +3058,7 @@
     "answerIndex": 1
   },
   {
-    "id": 56,
+    "id": 279,
     "question": "A key characteristic of an effective supervisor is:",
     "options": [
       "Poor communication",
@@ -616,7 +3069,7 @@
     "answerIndex": 1
   },
   {
-    "id": 57,
+    "id": 280,
     "question": "Supervisors must have good:",
     "options": [
       "Drawing skills",
@@ -627,7 +3080,7 @@
     "answerIndex": 1
   },
   {
-    "id": 58,
+    "id": 281,
     "question": "A supervisor should be:",
     "options": [
       "Biased",
@@ -638,7 +3091,7 @@
     "answerIndex": 1
   },
   {
-    "id": 59,
+    "id": 282,
     "question": "One important function of a supervisor is:",
     "options": [
       "Increasing product price",
@@ -649,7 +3102,7 @@
     "answerIndex": 1
   },
   {
-    "id": 60,
+    "id": 283,
     "question": "Supervisors act as a link between:",
     "options": [
       "Customers and suppliers",
@@ -660,7 +3113,7 @@
     "answerIndex": 1
   },
   {
-    "id": 61,
+    "id": 284,
     "question": "Supervisors are mainly responsible for:",
     "options": [
       "Long-term policies",
@@ -671,7 +3124,7 @@
     "answerIndex": 1
   },
   {
-    "id": 62,
+    "id": 285,
     "question": "Preparing work schedules is a function of:",
     "options": [
       "Supervisor",
@@ -682,18 +3135,18 @@
     "answerIndex": 0
   },
   {
-    "id": 63,
+    "id": 286,
     "question": "Ensuring safety at the workplace is:",
     "options": [
-      "Not the supervisor’s duty",
+      "Not the supervisor\u2019s duty",
       "A key supervisory function",
-      "Only HR’s responsibility",
+      "Only HR\u2019s responsibility",
       "Done by customers"
     ],
     "answerIndex": 1
   },
   {
-    "id": 64,
+    "id": 287,
     "question": "Supervisors help reduce:",
     "options": [
       "Discipline",
@@ -704,7 +3157,7 @@
     "answerIndex": 2
   },
   {
-    "id": 65,
+    "id": 288,
     "question": "The autocratic style of supervision means:",
     "options": [
       "Workers make all decisions",
@@ -715,7 +3168,7 @@
     "answerIndex": 2
   },
   {
-    "id": 66,
+    "id": 289,
     "question": "A benefit of autocratic supervision is:",
     "options": [
       "Slow decision -making",
@@ -726,7 +3179,7 @@
     "answerIndex": 1
   },
   {
-    "id": 67,
+    "id": 290,
     "question": "A limitation of autocratic supervision is:",
     "options": [
       "High employee morale",
@@ -737,7 +3190,7 @@
     "answerIndex": 1
   },
   {
-    "id": 68,
+    "id": 291,
     "question": "Democratic supervision encourages:",
     "options": [
       "Total control by the supervisor",
@@ -748,7 +3201,7 @@
     "answerIndex": 1
   },
   {
-    "id": 69,
+    "id": 292,
     "question": "A major advantage of democratic supervision is:",
     "options": [
       "Better teamwork and high morale",
@@ -759,7 +3212,7 @@
     "answerIndex": 0
   },
   {
-    "id": 70,
+    "id": 293,
     "question": "A limitation of democratic supervision is:",
     "options": [
       "Higher time consumption",
@@ -770,7 +3223,7 @@
     "answerIndex": 0
   },
   {
-    "id": 71,
+    "id": 294,
     "question": "Laissez -faire supervision means:",
     "options": [
       "Complete freedom to workers",
@@ -781,7 +3234,7 @@
     "answerIndex": 0
   },
   {
-    "id": 72,
+    "id": 295,
     "question": "A benefit of laissez -faire supervision is:",
     "options": [
       "Creative and innovative output",
@@ -792,7 +3245,7 @@
     "answerIndex": 0
   },
   {
-    "id": 73,
+    "id": 296,
     "question": "A limitation of laissez -faire supervision is:",
     "options": [
       "Highly structured environment",
@@ -803,7 +3256,7 @@
     "answerIndex": 1
   },
   {
-    "id": 74,
+    "id": 297,
     "question": "Supervisors motivate workers by:",
     "options": [
       "Punishing often",
@@ -814,7 +3267,7 @@
     "answerIndex": 1
   },
   {
-    "id": 75,
+    "id": 298,
     "question": "The success of a supervisor depends largely on:",
     "options": [
       "His/her communication and leadership skills",
@@ -825,7 +3278,7 @@
     "answerIndex": 0
   },
   {
-    "id": 76,
+    "id": 299,
     "question": "The main need for Industrial Acts is to:",
     "options": [
       "Increase product prices",
@@ -836,7 +3289,7 @@
     "answerIndex": 1
   },
   {
-    "id": 77,
+    "id": 300,
     "question": "Industrial laws mainly aim to:",
     "options": [
       "Reduce wages",
@@ -847,7 +3300,7 @@
     "answerIndex": 1
   },
   {
-    "id": 78,
+    "id": 301,
     "question": "Factory Act 1948 is mainly concerned with:",
     "options": [
       "Employee training",
@@ -858,7 +3311,7 @@
     "answerIndex": 1
   },
   {
-    "id": 79,
+    "id": 302,
     "question": "According to Factory Act, a factory must employ:",
     "options": [
       "5 or more workers",
@@ -869,7 +3322,7 @@
     "answerIndex": 1
   },
   {
-    "id": 80,
+    "id": 303,
     "question": "Maximum working hours per week as per Factory Act:",
     "options": [
       "35 hours",
@@ -880,7 +3333,7 @@
     "answerIndex": 2
   },
   {
-    "id": 81,
+    "id": 304,
     "question": "Minimum working hours per day as per Factory Act:",
     "options": [
       "6 hours",
@@ -891,7 +3344,7 @@
     "answerIndex": 1
   },
   {
-    "id": 82,
+    "id": 305,
     "question": "Which of the following is a welfare provision under Factory Act?",
     "options": [
       "Canteen",
@@ -902,18 +3355,18 @@
     "answerIndex": 0
   },
   {
-    "id": 83,
+    "id": 306,
     "question": "For 30 or more women workers, the factory must provide:",
     "options": [
       "Lockers",
       "First-aid box",
-      "Crèche facility",
+      "Cr\u00e8che facility",
       "Bonus"
     ],
     "answerIndex": 2
   },
   {
-    "id": 84,
+    "id": 307,
     "question": "First-aid boxes in a factory must be maintained by:",
     "options": [
       "Finance officer",
@@ -924,7 +3377,7 @@
     "answerIndex": 2
   },
   {
-    "id": 85,
+    "id": 308,
     "question": "The Factory Act emphasizes:",
     "options": [
       "Only wages",
@@ -935,7 +3388,7 @@
     "answerIndex": 2
   },
   {
-    "id": 86,
+    "id": 309,
     "question": "ESI Act was passed in:",
     "options": [
       "1940",
@@ -946,7 +3399,7 @@
     "answerIndex": 0
   },
   {
-    "id": 87,
+    "id": 310,
     "question": "ESI Act provides benefits related to:",
     "options": [
       "Marketing",
@@ -957,7 +3410,7 @@
     "answerIndex": 1
   },
   {
-    "id": 88,
+    "id": 311,
     "question": "ESI benefits include:",
     "options": [
       "Medical benefits",
@@ -968,7 +3421,7 @@
     "answerIndex": 3
   },
   {
-    "id": 89,
+    "id": 312,
     "question": "ESI applies to factories with:",
     "options": [
       "5 or more workers",
@@ -979,7 +3432,7 @@
     "answerIndex": 1
   },
   {
-    "id": 90,
+    "id": 313,
     "question": "The main objective of ESI Act is to provide:",
     "options": [
       "Free housing",
@@ -990,8 +3443,8 @@
     "answerIndex": 1
   },
   {
-    "id": 91,
-    "question": "Workmen’s Compensation Act is mainly for workers who suffer:",
+    "id": 314,
+    "question": "Workmen\u2019s Compensation Act is mainly for workers who suffer:",
     "options": [
       "Festival expenses",
       "Accidental injury during employment",
@@ -1001,8 +3454,8 @@
     "answerIndex": 1
   },
   {
-    "id": 92,
-    "question": "Workmen’s Compensation Act was introduced in:",
+    "id": 315,
+    "question": "Workmen\u2019s Compensation Act was introduced in:",
     "options": [
       "1923",
       "1935",
@@ -1012,7 +3465,7 @@
     "answerIndex": 0
   },
   {
-    "id": 93,
+    "id": 316,
     "question": "Compensation is payable when injury occurs:",
     "options": [
       "Outside duty",
@@ -1023,19 +3476,19 @@
     "answerIndex": 2
   },
   {
-    "id": 94,
-    "question": "Which of the following is NOT covered under Workmen’s Compensation Act?",
+    "id": 317,
+    "question": "Which of the following is NOT covered under Workmen\u2019s Compensation Act?",
     "options": [
       "Injury caused during work",
       "Occupational diseases",
-      "Injury due to worker’s own drunkenness",
+      "Injury due to worker\u2019s own drunkenness",
       "Death during work"
     ],
     "answerIndex": 2
   },
   {
-    "id": 95,
-    "question": "The purpose of Workmen’s Compensation Act is to:",
+    "id": 318,
+    "question": "The purpose of Workmen\u2019s Compensation Act is to:",
     "options": [
       "Punish employees",
       "Provide financial compensation to injured workers",
@@ -1045,7 +3498,7 @@
     "answerIndex": 1
   },
   {
-    "id": 96,
+    "id": 319,
     "question": "A market is best defined as:",
     "options": [
       "A place where only goods are stored",
@@ -1056,7 +3509,7 @@
     "answerIndex": 1
   },
   {
-    "id": 97,
+    "id": 320,
     "question": "The primary function of a marketing department is to:",
     "options": [
       "Buy raw materials",
@@ -1067,7 +3520,7 @@
     "answerIndex": 1
   },
   {
-    "id": 98,
+    "id": 321,
     "question": "Marketing is mainly concerned with:",
     "options": [
       "Production",
@@ -1078,7 +3531,7 @@
     "answerIndex": 2
   },
   {
-    "id": 99,
+    "id": 322,
     "question": "Which of the following is NOT a function of the marketing department?",
     "options": [
       "Market research",
@@ -1089,7 +3542,7 @@
     "answerIndex": 3
   },
   {
-    "id": 100,
+    "id": 323,
     "question": "Promotion mix includes:",
     "options": [
       "Advertising and sales promotion",
@@ -1100,7 +3553,7 @@
     "answerIndex": 0
   },
   {
-    "id": 101,
+    "id": 324,
     "question": "The 4Ps of marketing include Product, Price, Place, and:",
     "options": [
       "Planning",
@@ -1111,7 +3564,7 @@
     "answerIndex": 1
   },
   {
-    "id": 102,
+    "id": 325,
     "question": "A marketing strategy is:",
     "options": [
       "Random sales plan",
@@ -1122,7 +3575,7 @@
     "answerIndex": 1
   },
   {
-    "id": 103,
+    "id": 326,
     "question": "Market segmentation divides customers based on:",
     "options": [
       "Age, income, location etc.",
@@ -1133,7 +3586,7 @@
     "answerIndex": 0
   },
   {
-    "id": 104,
+    "id": 327,
     "question": "A marketing environment refers to:",
     "options": [
       "Only company policies",
@@ -1144,7 +3597,7 @@
     "answerIndex": 1
   },
   {
-    "id": 105,
+    "id": 328,
     "question": "The internal marketing environment includes:",
     "options": [
       "Customers",
@@ -1155,7 +3608,7 @@
     "answerIndex": 2
   },
   {
-    "id": 106,
+    "id": 329,
     "question": "External marketing environment includes:",
     "options": [
       "Machines",
@@ -1166,7 +3619,7 @@
     "answerIndex": 2
   },
   {
-    "id": 107,
+    "id": 330,
     "question": "Consumer behavior mainly studies:",
     "options": [
       "Why consumers delete messages",
@@ -1177,7 +3630,7 @@
     "answerIndex": 1
   },
   {
-    "id": 108,
+    "id": 331,
     "question": "Understanding consumer behavior helps marketers to:",
     "options": [
       "Reduce product quality",
@@ -1188,7 +3641,7 @@
     "answerIndex": 2
   },
   {
-    "id": 109,
+    "id": 332,
     "question": "Which of the following influences consumer behavior?",
     "options": [
       "Culture",
@@ -1199,7 +3652,7 @@
     "answerIndex": 3
   },
   {
-    "id": 110,
+    "id": 333,
     "question": "A buying decision process starts with:",
     "options": [
       "Purchase",
@@ -1210,7 +3663,7 @@
     "answerIndex": 2
   },
   {
-    "id": 111,
+    "id": 334,
     "question": "Market research helps to identify:",
     "options": [
       "Competitor's machinery",
@@ -1221,7 +3674,7 @@
     "answerIndex": 1
   },
   {
-    "id": 112,
+    "id": 335,
     "question": "The main objective of pricing strategy is to:",
     "options": [
       "Confuse customers",
@@ -1232,7 +3685,7 @@
     "answerIndex": 1
   },
   {
-    "id": 113,
+    "id": 336,
     "question": "A product strategy includes:",
     "options": [
       "Designing and developing the product",
@@ -1243,7 +3696,7 @@
     "answerIndex": 0
   },
   {
-    "id": 114,
+    "id": 337,
     "question": "Distribution (Place) strategy decides:",
     "options": [
       "How products reach customers",
@@ -1254,7 +3707,7 @@
     "answerIndex": 0
   },
   {
-    "id": 115,
+    "id": 338,
     "question": "Impulse buying means a customer buys:",
     "options": [
       "After long research",
@@ -1265,7 +3718,7 @@
     "answerIndex": 2
   },
   {
-    "id": 116,
+    "id": 339,
     "question": "Market research mainly deals with:",
     "options": [
       "Machine maintenance",
@@ -1276,7 +3729,7 @@
     "answerIndex": 1
   },
   {
-    "id": 117,
+    "id": 340,
     "question": "Market survey is conducted to:",
     "options": [
       "Increase product weight",
@@ -1287,7 +3740,7 @@
     "answerIndex": 1
   },
   {
-    "id": 118,
+    "id": 341,
     "question": "Market survey provides:",
     "options": [
       "Financial accounts",
@@ -1298,18 +3751,18 @@
     "answerIndex": 1
   },
   {
-    "id": 119,
+    "id": 342,
     "question": "Marketing mix is also known as:",
     "options": [
-      "4T’s",
-      "4P’s",
-      "4M’s",
-      "4S’s Answer: B"
+      "4T\u2019s",
+      "4P\u2019s",
+      "4M\u2019s",
+      "4S\u2019s Answer: B"
     ],
     "answerIndex": 0
   },
   {
-    "id": 120,
+    "id": 343,
     "question": "The 4Ps include Product, Price, Promotion and:",
     "options": [
       "People",
@@ -1320,7 +3773,7 @@
     "answerIndex": 2
   },
   {
-    "id": 121,
+    "id": 344,
     "question": "Sales forecasting means:",
     "options": [
       "Predicting future sales",
@@ -1331,7 +3784,7 @@
     "answerIndex": 0
   },
   {
-    "id": 122,
+    "id": 345,
     "question": "A method used for sales forecasting is:",
     "options": [
       "Delphi method",
@@ -1342,7 +3795,7 @@
     "answerIndex": 0
   },
   {
-    "id": 123,
+    "id": 346,
     "question": "Sales promotion techniques include:",
     "options": [
       "Discounts",
@@ -1353,7 +3806,7 @@
     "answerIndex": 3
   },
   {
-    "id": 124,
+    "id": 347,
     "question": "Advertising is mainly used to:",
     "options": [
       "Reduce profits",
@@ -1364,7 +3817,7 @@
     "answerIndex": 1
   },
   {
-    "id": 125,
+    "id": 348,
     "question": "Media selection refers to selecting:",
     "options": [
       "Employees",
@@ -1375,7 +3828,7 @@
     "answerIndex": 1
   },
   {
-    "id": 126,
+    "id": 349,
     "question": "Inventory means:",
     "options": [
       "Financial accounts",
@@ -1386,7 +3839,7 @@
     "answerIndex": 1
   },
   {
-    "id": 127,
+    "id": 350,
     "question": "Inventory control aims to:",
     "options": [
       "Increase wastage",
@@ -1397,7 +3850,7 @@
     "answerIndex": 1
   },
   {
-    "id": 128,
+    "id": 351,
     "question": "Raw material is used for:",
     "options": [
       "Packaging",
@@ -1408,7 +3861,7 @@
     "answerIndex": 1
   },
   {
-    "id": 129,
+    "id": 352,
     "question": "Finished goods inventory includes:",
     "options": [
       "Work-in-progress",
@@ -1419,7 +3872,7 @@
     "answerIndex": 1
   },
   {
-    "id": 130,
+    "id": 353,
     "question": "Direct cost includes:",
     "options": [
       "Administrative salary",
@@ -1430,7 +3883,7 @@
     "answerIndex": 1
   },
   {
-    "id": 131,
+    "id": 354,
     "question": "Indirect cost includes:",
     "options": [
       "Direct labour",
@@ -1441,7 +3894,7 @@
     "answerIndex": 2
   },
   {
-    "id": 132,
+    "id": 355,
     "question": "Material cost includes:",
     "options": [
       "Raw material, transportation, storage",
@@ -1452,7 +3905,7 @@
     "answerIndex": 0
   },
   {
-    "id": 133,
+    "id": 356,
     "question": "Labour cost includes:",
     "options": [
       "Worker wages",
@@ -1463,7 +3916,7 @@
     "answerIndex": 0
   },
   {
-    "id": 134,
+    "id": 357,
     "question": "Factory overheads include:",
     "options": [
       "Depreciation on machines",
@@ -1474,18 +3927,18 @@
     "answerIndex": 3
   },
   {
-    "id": 135,
+    "id": 358,
     "question": "Selling price =",
     "options": [
-      "Cost price – profit",
+      "Cost price \u2013 profit",
       "Cost price + profit",
-      "Profit – cost",
-      "Cost × 2"
+      "Profit \u2013 cost",
+      "Cost \u00d7 2"
     ],
     "answerIndex": 1
   },
   {
-    "id": 136,
+    "id": 359,
     "question": "Profit and Loss statement shows:",
     "options": [
       "Only assets",
@@ -1496,7 +3949,7 @@
     "answerIndex": 2
   },
   {
-    "id": 137,
+    "id": 360,
     "question": "Balance sheet shows:",
     "options": [
       "Financial position on a particular date",
@@ -1507,7 +3960,7 @@
     "answerIndex": 0
   },
   {
-    "id": 138,
+    "id": 361,
     "question": "Depreciation refers to:",
     "options": [
       "Increase in product price",
@@ -1518,7 +3971,7 @@
     "answerIndex": 1
   },
   {
-    "id": 139,
+    "id": 362,
     "question": "Obsolescence means:",
     "options": [
       "Physical damage",
@@ -1529,7 +3982,7 @@
     "answerIndex": 1
   },
   {
-    "id": 140,
+    "id": 363,
     "question": "Straight line method gives:",
     "options": [
       "Unequal depreciation every year",
@@ -1540,7 +3993,7 @@
     "answerIndex": 1
   },
   {
-    "id": 141,
+    "id": 364,
     "question": "Reducing balance method gives:",
     "options": [
       "Higher depreciation in early years",
@@ -1551,7 +4004,7 @@
     "answerIndex": 0
   },
   {
-    "id": 142,
+    "id": 365,
     "question": "Sinking fund method involves:",
     "options": [
       "No investment",
@@ -1562,7 +4015,7 @@
     "answerIndex": 1
   },
   {
-    "id": 143,
+    "id": 366,
     "question": "Sum-of-the-digits method gives:",
     "options": [
       "Constant depreciation",
@@ -1573,7 +4026,7 @@
     "answerIndex": 0
   },
   {
-    "id": 144,
+    "id": 367,
     "question": "Annuity method considers:",
     "options": [
       "Only interest",
@@ -1584,7 +4037,7 @@
     "answerIndex": 1
   },
   {
-    "id": 145,
+    "id": 368,
     "question": "ABC analysis classifies material based on:",
     "options": [
       "Weight",
@@ -1595,8 +4048,8 @@
     "answerIndex": 1
   },
   {
-    "id": 146,
-    "question": "In ABC analysis, “A” items are:",
+    "id": 369,
+    "question": "In ABC analysis, \u201cA\u201d items are:",
     "options": [
       "Low value",
       "High value",
@@ -1606,7 +4059,7 @@
     "answerIndex": 1
   },
   {
-    "id": 147,
+    "id": 370,
     "question": "VED stands for:",
     "options": [
       "Value, Efficiency, Demand",
@@ -1617,8 +4070,8 @@
     "answerIndex": 1
   },
   {
-    "id": 148,
-    "question": "“Vital” items in VED analysis are:",
+    "id": 371,
+    "question": "\u201cVital\u201d items in VED analysis are:",
     "options": [
       "Not important",
       "Very important for production",
@@ -1628,7 +4081,7 @@
     "answerIndex": 1
   },
   {
-    "id": 149,
+    "id": 372,
     "question": "Quality means",
     "options": [
       "Fitness for use",
@@ -1639,7 +4092,7 @@
     "answerIndex": 3
   },
   {
-    "id": 150,
+    "id": 373,
     "question": "Quality is defined as the degree to which a product meets:",
     "options": [
       "Customer needs",
@@ -1650,7 +4103,7 @@
     "answerIndex": 0
   },
   {
-    "id": 151,
+    "id": 374,
     "question": "Quality Control focuses on:",
     "options": [
       "Preventing defects",
@@ -1661,7 +4114,7 @@
     "answerIndex": 1
   },
   {
-    "id": 152,
+    "id": 375,
     "question": "Quality Assurance is:",
     "options": [
       "Process -oriented",
@@ -1672,7 +4125,7 @@
     "answerIndex": 0
   },
   {
-    "id": 153,
+    "id": 376,
     "question": "Conformance quality means:",
     "options": [
       "Product looks attractive",
@@ -1683,7 +4136,7 @@
     "answerIndex": 1
   },
   {
-    "id": 154,
+    "id": 377,
     "question": "Main purpose of TQM is:",
     "options": [
       "Increase marketing cost",
@@ -1694,7 +4147,7 @@
     "answerIndex": 1
   },
   {
-    "id": 155,
+    "id": 378,
     "question": "TQM emphasizes:",
     "options": [
       "Customer satisfaction",
@@ -1705,7 +4158,7 @@
     "answerIndex": 3
   },
   {
-    "id": 156,
+    "id": 379,
     "question": "The first step in TQM process is:",
     "options": [
       "Customer focus",
@@ -1716,7 +4169,7 @@
     "answerIndex": 0
   },
   {
-    "id": 157,
+    "id": 380,
     "question": "Lean manufacturing mainly aims to eliminate:",
     "options": [
       "Customers",
@@ -1727,7 +4180,7 @@
     "answerIndex": 1
   },
   {
-    "id": 158,
+    "id": 381,
     "question": "Which is NOT a type of waste in lean?",
     "options": [
       "Inventory",
@@ -1738,7 +4191,7 @@
     "answerIndex": 3
   },
   {
-    "id": 159,
+    "id": 382,
     "question": "JIT aims at producing products:",
     "options": [
       "Before demand",
@@ -1749,7 +4202,7 @@
     "answerIndex": 2
   },
   {
-    "id": 160,
+    "id": 383,
     "question": "JIT helps in reducing:",
     "options": [
       "Inventory",
@@ -1760,7 +4213,7 @@
     "answerIndex": 3
   },
   {
-    "id": 161,
+    "id": 384,
     "question": "The first S in 5S stands for:",
     "options": [
       "Sort",
@@ -1771,7 +4224,7 @@
     "answerIndex": 0
   },
   {
-    "id": 162,
+    "id": 385,
     "question": "The purpose of 5S is to:",
     "options": [
       "Improve workplace efficiency",
@@ -1782,7 +4235,7 @@
     "answerIndex": 0
   },
   {
-    "id": 163,
+    "id": 386,
     "question": "A Quality Circle consists of:",
     "options": [
       "Top management only",
@@ -1793,7 +4246,7 @@
     "answerIndex": 2
   },
   {
-    "id": 164,
+    "id": 387,
     "question": "Quality Circles mainly focus on:",
     "options": [
       "Office decoration",
@@ -1804,7 +4257,7 @@
     "answerIndex": 1
   },
   {
-    "id": 165,
+    "id": 388,
     "question": "ISO 9000 series deals with:",
     "options": [
       "Environmental management",
@@ -1815,7 +4268,7 @@
     "answerIndex": 1
   },
   {
-    "id": 166,
+    "id": 389,
     "question": "ISO 9001:2015 follows the structure called:",
     "options": [
       "Annex SL",
@@ -1826,7 +4279,7 @@
     "answerIndex": 0
   },
   {
-    "id": 167,
+    "id": 390,
     "question": "ISO 14001:2015 is related to:",
     "options": [
       "Quality management",
@@ -1837,7 +4290,7 @@
     "answerIndex": 1
   },
   {
-    "id": 168,
+    "id": 391,
     "question": "ISO 14001 promotes:",
     "options": [
       "Pollution prevention",
@@ -1848,7 +4301,7 @@
     "answerIndex": 0
   },
   {
-    "id": 169,
+    "id": 392,
     "question": "ISO 9000 is mainly:",
     "options": [
       "Formal certification",
@@ -1859,7 +4312,7 @@
     "answerIndex": 0
   },
   {
-    "id": 170,
+    "id": 393,
     "question": "TQM is mainly:",
     "options": [
       "Documentation -based",
@@ -1870,7 +4323,7 @@
     "answerIndex": 1
   },
   {
-    "id": 171,
+    "id": 394,
     "question": "Six Sigma focuses on reducing:",
     "options": [
       "Salaries",
@@ -1881,7 +4334,7 @@
     "answerIndex": 1
   },
   {
-    "id": 172,
+    "id": 395,
     "question": "The Six Sigma methodology is known as:",
     "options": [
       "DMADV",
@@ -1892,7 +4345,7 @@
     "answerIndex": 0
   },
   {
-    "id": 173,
+    "id": 396,
     "question": "Kaizen means:",
     "options": [
       "Large change",
@@ -1903,7 +4356,7 @@
     "answerIndex": 1
   },
   {
-    "id": 174,
+    "id": 397,
     "question": "Kaizen is a part of:",
     "options": [
       "Lean manufacturing",
@@ -1914,7 +4367,7 @@
     "answerIndex": 0
   },
   {
-    "id": 175,
+    "id": 398,
     "question": "Project Management is the process of:",
     "options": [
       "Managing day -to-day operations",
@@ -1925,7 +4378,7 @@
     "answerIndex": 1
   },
   {
-    "id": 176,
+    "id": 399,
     "question": "A project is defined as:",
     "options": [
       "Routine work",
@@ -1936,7 +4389,7 @@
     "answerIndex": 1
   },
   {
-    "id": 177,
+    "id": 400,
     "question": "The primary goal of project management is to achieve:",
     "options": [
       "Maximum inventory",
@@ -1947,7 +4400,7 @@
     "answerIndex": 1
   },
   {
-    "id": 178,
+    "id": 401,
     "question": "Project objectives must be:",
     "options": [
       "Vague",
@@ -1958,7 +4411,7 @@
     "answerIndex": 2
   },
   {
-    "id": 179,
+    "id": 402,
     "question": "Project scope defines:",
     "options": [
       "What work is included",
@@ -1969,7 +4422,7 @@
     "answerIndex": 3
   },
   {
-    "id": 180,
+    "id": 403,
     "question": "Clear objectives help in:",
     "options": [
       "Aligning team & stakeholders",
@@ -1980,7 +4433,7 @@
     "answerIndex": 0
   },
   {
-    "id": 181,
+    "id": 404,
     "question": "Scope creep means:",
     "options": [
       "Project completed early",
@@ -1991,7 +4444,7 @@
     "answerIndex": 1
   },
   {
-    "id": 182,
+    "id": 405,
     "question": "Main cause of scope creep is:",
     "options": [
       "Proper documentation",
@@ -2002,7 +4455,7 @@
     "answerIndex": 1
   },
   {
-    "id": 183,
+    "id": 406,
     "question": "Scope creep can be prevented by:",
     "options": [
       "Ignoring changes",
@@ -2013,7 +4466,7 @@
     "answerIndex": 1
   },
   {
-    "id": 184,
+    "id": 407,
     "question": "Ensuring project delivers as per scope requires:",
     "options": [
       "Continuous monitoring",
@@ -2024,7 +4477,7 @@
     "answerIndex": 3
   },
   {
-    "id": 185,
+    "id": 408,
     "question": "Project planning includes:",
     "options": [
       "Scheduling",
@@ -2035,7 +4488,7 @@
     "answerIndex": 3
   },
   {
-    "id": 186,
+    "id": 409,
     "question": "The first step in planning is:",
     "options": [
       "Hiring staff",
@@ -2046,7 +4499,7 @@
     "answerIndex": 1
   },
   {
-    "id": 187,
+    "id": 410,
     "question": "A Gantt chart is used for:",
     "options": [
       "Cost estimation",
@@ -2057,7 +4510,7 @@
     "answerIndex": 1
   },
   {
-    "id": 188,
+    "id": 411,
     "question": "Gantt charts show:",
     "options": [
       "Timeline of tasks",
@@ -2068,7 +4521,7 @@
     "answerIndex": 0
   },
   {
-    "id": 189,
+    "id": 412,
     "question": "CPM stands for:",
     "options": [
       "Critical Path Method",
@@ -2079,7 +4532,7 @@
     "answerIndex": 0
   },
   {
-    "id": 190,
+    "id": 413,
     "question": "CPM is mainly used to find:",
     "options": [
       "Maximum cost",
@@ -2090,7 +4543,7 @@
     "answerIndex": 1
   },
   {
-    "id": 191,
+    "id": 414,
     "question": "PERT is suitable when:",
     "options": [
       "Activities have uncertain time",
@@ -2101,7 +4554,7 @@
     "answerIndex": 0
   },
   {
-    "id": 192,
+    "id": 415,
     "question": "PERT uses:",
     "options": [
       "Single time estimate",
@@ -2112,7 +4565,7 @@
     "answerIndex": 1
   },
   {
-    "id": 193,
+    "id": 416,
     "question": "CPM uses ______ time estimates.",
     "options": [
       "Three",
@@ -2123,7 +4576,7 @@
     "answerIndex": 0
   },
   {
-    "id": 194,
+    "id": 417,
     "question": "Resource allocation ensures:",
     "options": [
       "Overuse of manpower",
@@ -2134,7 +4587,7 @@
     "answerIndex": 1
   },
   {
-    "id": 195,
+    "id": 418,
     "question": "Resource leveling is used to:",
     "options": [
       "Schedule employees on weekends",
@@ -2145,7 +4598,7 @@
     "answerIndex": 1
   },
   {
-    "id": 196,
+    "id": 419,
     "question": "Tracking project timelines helps in:",
     "options": [
       "Identifying delays early",
@@ -2156,7 +4609,7 @@
     "answerIndex": 0
   },
   {
-    "id": 197,
+    "id": 420,
     "question": "Which tool helps track delays visually?",
     "options": [
       "Gantt chart",
@@ -2167,7 +4620,7 @@
     "answerIndex": 0
   },
   {
-    "id": 198,
+    "id": 421,
     "question": "To ensure project delivery as per defined scope, the manager must:",
     "options": [
       "Monitor schedule only",
@@ -2178,7 +4631,7 @@
     "answerIndex": 1
   },
   {
-    "id": 199,
+    "id": 422,
     "question": "The combination of CPM, PERT & Gantt charts helps in:",
     "options": [
       "Financial planning",
