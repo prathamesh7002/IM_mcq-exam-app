@@ -4640,5 +4640,5593 @@
       "Material procurement only"
     ],
     "answerIndex": 1
+  },
+  {
+    "id": 443,
+    "question": "Human Resource Management mainly deals with:",
+    "options": [
+      "Financial resources",
+      "Material resources",
+      "Human resources",
+      "Natural resources"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 444,
+    "question": "HRM is concerned with:",
+    "options": [
+      "Recruitment, selection, training, and development of employees",
+      "Only production planning",
+      "Only marketing strategies",
+      "Only sales and profit maximization"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 445,
+    "question": "The core of HRM is:",
+    "options": [
+      "Machines",
+      "Money",
+      "People at work",
+      "Raw materials"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 446,
+    "question": "HRM focuses on:",
+    "options": [
+      "Effective utilization of employees",
+      "Minimizing the workforce",
+      "Only providing salaries",
+      "Restricting employee growth"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 447,
+    "question": "Human Resource Management is a:",
+    "options": [
+      "Technical function",
+      "Managerial function",
+      "Operational function",
+      "Accounting function"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 448,
+    "question": "The primary aim of HRM is:",
+    "options": [
+      "To maximize employee wages",
+      "To maximize machine efficiency",
+      "To ensure effective use of human talent to achieve organizational goals",
+      "To minimize training costs"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 449,
+    "question": "HRM aims to create a balance between:",
+    "options": [
+      "Employer's expectations and government rules",
+      "Employee satisfaction and organizational objectives",
+      "Profits and losses",
+      "Customers and suppliers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 450,
+    "question": "Which is NOT an aim of HRM?",
+    "options": [
+      "Efficient utilization of human resources",
+      "Developing the skills of employees",
+      "Restricting employee participation",
+      "Maintaining good industrial relations"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 451,
+    "question": "The ultimate aim of HRM is to:",
+    "options": [
+      "Achieve organizational success through people",
+      "Reduce the number of employees",
+      "Focus only on financial growth",
+      "Ignore employee welfare"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 452,
+    "question": "Which of the following is an objective of HRM?",
+    "options": [
+      "Employee development",
+      "Maximization of profits only",
+      "Increase in product prices",
+      "Minimization of customers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 453,
+    "question": "HRM aims at providing:",
+    "options": [
+      "Adequate, trained, and motivated workforce",
+      "Machinery for production",
+      "Funds for expansion",
+      "Raw materials for production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 454,
+    "question": "Social objective of HRM is:",
+    "options": [
+      "To maintain balance between individual and social goals",
+      "To increase profit of the company",
+      "To provide training to managers only",
+      "To reduce salaries"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 455,
+    "question": "Which is an organizational objective of HRM?",
+    "options": [
+      "Optimum utilization of human resources",
+      "Providing free health care to society",
+      "Promoting sports activities",
+      "Charity work"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 456,
+    "question": "Personal objectives of HRM include:",
+    "options": [
+      "Helping employees achieve their career goals",
+      "Maximizing machine utilization",
+      "Increasing production capacity only",
+      "Reducing working conditions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 457,
+    "question": "Which of the following is NOT an objective of HRM?",
+    "options": [
+      "Industrial peace and harmony",
+      "Employee satisfaction",
+      "Employee exploitation",
+      "Career development opportunities"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 458,
+    "question": "Functional objective of HRM ensures:",
+    "options": [
+      "HR contributes effectively to organizational needs",
+      "Employees work more hours than required",
+      "Employees get maximum holidays",
+      "Reduction in workforce"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 459,
+    "question": "Which of the following is considered an economic objective of HRM?",
+    "options": [
+      "Cost-effective utilization of human resources",
+      "Promotion of sports and culture",
+      "Employee social security",
+      "Environmental awareness"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 460,
+    "question": "Development of employee skills and competencies is related to:",
+    "options": [
+      "Social objective of HRM",
+      "Organizational objective of HRM",
+      "Personal objective of HRM",
+      "Financial objective of HRM"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 461,
+    "question": "Industrial relations objective of HRM focuses on:",
+    "options": [
+      "Conflict between employer and employee",
+      "Strikes and lockouts",
+      "Promoting cooperation and cordial relations between employees and management",
+      "Reducing employee benefits"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 462,
+    "question": "The first function of HRM is:",
+    "options": [
+      "Controlling",
+      "Planning",
+      "Motivation",
+      "Compensation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 463,
+    "question": "HR Planning ensures:",
+    "options": [
+      "Proper supply of human resources",
+      "More machines in production",
+      "Maximum profits only",
+      "Higher product prices"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 464,
+    "question": "Organizing in HRM means:",
+    "options": [
+      "Arranging people and resources for achieving goals",
+      "Only preparing salary slips",
+      "Supervising workers",
+      "Monitoring production costs"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 465,
+    "question": "Staffing function in HRM deals with:",
+    "options": [
+      "Production activities",
+      "Managing people by recruitment, training, and placement",
+      "Selling goods",
+      "Marketing research"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 466,
+    "question": "Recruitment is the process of:",
+    "options": [
+      "Attracting and finding suitable candidates for jobs",
+      "Paying salaries",
+      "Firing workers",
+      "Motivating employees"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 467,
+    "question": "Internal sources of recruitment include:",
+    "options": [
+      "Advertisements",
+      "Promotions and transfers",
+      "Employment agencies",
+      "Campus recruitment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 468,
+    "question": "External sources of recruitment include:",
+    "options": [
+      "Transfers",
+      "Promotions",
+      "Employment exchanges and campus recruitment",
+      "Job rotation"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 469,
+    "question": "Need for training arises because of:",
+    "options": [
+      "Change in technology",
+      "Improving employee efficiency",
+      "Reducing accidents",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 470,
+    "question": "Which of the following is NOT a method of training?",
+    "options": [
+      "On-the-job training",
+      "Off-the-job training",
+      "Apprenticeship training",
+      "Market research"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 471,
+    "question": "Job rotation is a method of:",
+    "options": [
+      "Off-the-job training",
+      "On-the-job training",
+      "Classroom training",
+      "Internship"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 472,
+    "question": "Vestibule training is:",
+    "options": [
+      "Training in actual work environment",
+      "Training in simulated environment",
+      "Rotating employees among jobs",
+      "Internship in colleges"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 473,
+    "question": "Apprenticeship training is suitable for:",
+    "options": [
+      "Managerial jobs",
+      "Technical jobs",
+      "Clerical jobs",
+      "Sales jobs"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 474,
+    "question": "Motivation in HRM means:",
+    "options": [
+      "Giving orders",
+      "Encouraging employees to perform at best level",
+      "Recruiting staff",
+      "Supervising machines"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 475,
+    "question": "Non-financial motivators include:",
+    "options": [
+      "Bonus",
+      "Recognition, job satisfaction, promotion",
+      "Commission",
+      "Salary increase"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 476,
+    "question": "Which of the following is a financial motivator?",
+    "options": [
+      "Praise",
+      "Bonus",
+      "Recognition",
+      "Job security"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 477,
+    "question": "Controlling in HRM refers to:",
+    "options": [
+      "Planning manpower requirements",
+      "Monitoring performance and taking corrective actions",
+      "Recruiting employees",
+      "Motivating employees"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 478,
+    "question": "First step in controlling is:",
+    "options": [
+      "Measurement of performance",
+      "Setting performance standards",
+      "Taking corrective measures",
+      "Comparing results"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 479,
+    "question": "Compensation includes:",
+    "options": [
+      "Wages and salaries only",
+      "All financial and non-financial rewards",
+      "Only incentives",
+      "Only overtime payment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 480,
+    "question": "Wages are generally paid to:",
+    "options": [
+      "Managers",
+      "Skilled and unskilled workers",
+      "Directors",
+      "Shareholders"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 481,
+    "question": "Salary is generally paid to:",
+    "options": [
+      "Daily wage workers",
+      "Supervisors, clerks, managers",
+      "Labour contractors",
+      "None of these"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 482,
+    "question": "Labour welfare activities include:",
+    "options": [
+      "Canteens, restrooms, safety measures",
+      "Only salaries",
+      "Only promotions",
+      "Market expansion"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 483,
+    "question": "Labour welfare aims at:",
+    "options": [
+      "Improving worker well-being",
+      "Reducing number of employees",
+      "Increasing profit only",
+      "Avoiding training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 484,
+    "question": "Industrial relations refer to relations between:",
+    "options": [
+      "Government and industry",
+      "Employer and employees",
+      "Suppliers and customers",
+      "Shareholders and company"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 485,
+    "question": "The main objective of industrial relations is:",
+    "options": [
+      "Industrial peace and harmony",
+      "Frequent strikes",
+      "Exploitation of labour",
+      "Avoiding training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 486,
+    "question": "Which of the following is NOT a method of resolving industrial disputes?",
+    "options": [
+      "Collective bargaining",
+      "Mediation",
+      "Strike",
+      "Conciliation"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 487,
+    "question": "A formal agreement between employer and employees is called:",
+    "options": [
+      "Wage slip",
+      "Bonus agreement",
+      "Collective bargaining agreement",
+      "Job description"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 488,
+    "question": "Which HRM function ensures the right person is placed at the right job?",
+    "options": [
+      "Planning",
+      "Staffing",
+      "Motivation",
+      "Controlling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 489,
+    "question": "Which HRM function provides growth opportunities?",
+    "options": [
+      "Recruitment",
+      "Training and development",
+      "Compensation",
+      "Controlling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 490,
+    "question": "Performance appraisal is mainly related to:",
+    "options": [
+      "Planning",
+      "Motivation and controlling",
+      "Recruitment",
+      "Compensation only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 491,
+    "question": "A satisfied and motivated workforce is the outcome of:",
+    "options": [
+      "Good HRM practices",
+      "Only financial incentives",
+      "Strict supervision",
+      "Exploitation of workers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 492,
+    "question": "Safety engineering is concerned with:",
+    "options": [
+      "Reducing production cost",
+      "Preventing accidents and ensuring safe working conditions",
+      "Increasing sales",
+      "Designing machines only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 493,
+    "question": "The need for safety engineering arises due to:",
+    "options": [
+      "Use of advanced technology",
+      "Risk of accidents",
+      "Legal requirements",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 494,
+    "question": "Safety at workplace is important for:",
+    "options": [
+      "Protecting workers",
+      "Reducing machine downtime",
+      "Maintaining productivity",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 495,
+    "question": "A safety organization in industry is responsible for:",
+    "options": [
+      "Profit maximization",
+      "Planning and implementing safety programs",
+      "Marketing safety equipment",
+      "Only training workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 496,
+    "question": "Safety committees are formed to:",
+    "options": [
+      "Monitor and promote safe working practices",
+      "Hire employees",
+      "Handle financial audits",
+      "Reduce wages"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 497,
+    "question": "Which of the following is NOT a role of a safety committee?",
+    "options": [
+      "Investigating accidents",
+      "Conducting safety inspections",
+      "Approving company loans",
+      "Recommending preventive measures"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 498,
+    "question": "Safety programs aim to:",
+    "options": [
+      "Educate workers about hazards",
+      "Provide protective equipment",
+      "Reduce accidents",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 499,
+    "question": "Safety instructions to workers must be:",
+    "options": [
+      "Complicated and lengthy",
+      "Simple, clear, and easy to follow",
+      "Optional",
+      "Ignored by management"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 500,
+    "question": "Training in safety is important because:",
+    "options": [
+      "It reduces human errors",
+      "Helps handle equipment safely",
+      "Prevents accidents",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 501,
+    "question": "On-the-job safety training is:",
+    "options": [
+      "Conducted in simulated classrooms",
+      "Given while performing actual work",
+      "Not effective",
+      "Only for office workers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 502,
+    "question": "Most industrial accidents are caused by:",
+    "options": [
+      "Human errors",
+      "Natural calamities",
+      "Machine defects only",
+      "Lack of raw material"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 503,
+    "question": "Unsafe working conditions include:",
+    "options": [
+      "Poor lighting",
+      "Defective machinery",
+      "Slippery floors",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 504,
+    "question": "Unsafe acts of workers include:",
+    "options": [
+      "Ignoring safety rules",
+      "Operating machines without training",
+      "Not using safety equipment",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 505,
+    "question": "Psychological causes of accidents include:",
+    "options": [
+      "Fatigue and stress",
+      "Lack of safety devices",
+      "Slippery floors",
+      "Poor ventilation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 506,
+    "question": "Mechanical causes of accidents are related to:",
+    "options": [
+      "Unsafe acts",
+      "Defects in machinery and tools",
+      "Lack of motivation",
+      "Improper training"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 507,
+    "question": "The first step in accident prevention is:",
+    "options": [
+      "Training workers",
+      "Identifying hazards and risks",
+      "Hiring safety officers",
+      "Buying insurance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 508,
+    "question": "Use of PPE helps in:",
+    "options": [
+      "Profit increase",
+      "Accident prevention",
+      "Reducing working hours",
+      "Legal compliance only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 509,
+    "question": "Guards on machines are provided to:",
+    "options": [
+      "Increase machine speed",
+      "Protect workers from moving parts",
+      "Improve quality",
+      "Reduce power consumption"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 510,
+    "question": "Good housekeeping prevents:",
+    "options": [
+      "Financial losses",
+      "Fire hazards, slips, and falls",
+      "Market competition",
+      "Customer complaints"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 511,
+    "question": "Fire extinguishers in factories are a part of:",
+    "options": [
+      "Labour welfare",
+      "Safety equipment",
+      "Compensation policy",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 512,
+    "question": "Accident prevention programs should include:",
+    "options": [
+      "Safety rules",
+      "Regular inspections",
+      "Safety education and training",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 513,
+    "question": "Safety posters and warning signs help in:",
+    "options": [
+      "Increasing workload",
+      "Accident prevention",
+      "Reducing wages",
+      "None"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 514,
+    "question": "Main objective of accident prevention is:",
+    "options": [
+      "Reduce productivity",
+      "Ensure worker safety",
+      "Avoid training",
+      "Increase working hours"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 515,
+    "question": "A supervisor acts as a link between:",
+    "options": [
+      "Workers and management",
+      "Customers and suppliers",
+      "Government and public",
+      "Banks and company"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 516,
+    "question": "A good supervisor must have:",
+    "options": [
+      "Leadership skills",
+      "Communication skills",
+      "Problem-solving ability",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 517,
+    "question": "Personal quality essential for a supervisor is:",
+    "options": [
+      "Arrogance",
+      "Impatience",
+      "Fairness and impartiality",
+      "Selfishness"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 518,
+    "question": "A supervisor is also called:",
+    "options": [
+      "Middleman between management and workers",
+      "Owner",
+      "External consultant",
+      "Investor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 519,
+    "question": "Main function of a supervisor is:",
+    "options": [
+      "Planning policies",
+      "Ensuring day-to-day execution of work",
+      "Preparing annual accounts",
+      "Market surveys"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 520,
+    "question": "Supervisors are responsible for:",
+    "options": [
+      "Assigning tasks",
+      "Maintaining discipline",
+      "Monitoring performance",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 521,
+    "question": "Supervisors help in:",
+    "options": [
+      "Communicating policies",
+      "Reporting worker issues",
+      "Maintaining good relations",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 522,
+    "question": "Which function is NOT performed by supervisors?",
+    "options": [
+      "Guiding workers",
+      "Recruiting top management",
+      "Training new workers",
+      "Maintaining quality standards"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 523,
+    "question": "In autocratic supervision the supervisor:",
+    "options": [
+      "Involves workers in decisions",
+      "Takes decisions alone",
+      "Leaves decisions to workers",
+      "Encourages group participation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 524,
+    "question": "Democratic supervision is also known as:",
+    "options": [
+      "Participative supervision",
+      "Dictatorial supervision",
+      "Free-rein supervision",
+      "Autocratic supervision"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 525,
+    "question": "In laissez-faire supervision the supervisor:",
+    "options": [
+      "Gives freedom to workers",
+      "Monitors every step",
+      "Uses strict control",
+      "Rejects ideas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 526,
+    "question": "Which supervision style suits unskilled workers?",
+    "options": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Participative"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 527,
+    "question": "Laissez-faire style promotes:",
+    "options": [
+      "Strict control",
+      "Creativity and innovation",
+      "Conflicts",
+      "Low morale"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 528,
+    "question": "Supervision ensures:",
+    "options": [
+      "Guidance and control",
+      "Wastage of resources",
+      "Lack of discipline",
+      "Conflict"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 529,
+    "question": "An advantage of supervision is:",
+    "options": [
+      "Improved communication",
+      "Reduced productivity",
+      "Increased absenteeism",
+      "Higher labour turnover"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 530,
+    "question": "Effective supervision leads to:",
+    "options": [
+      "Lower quality",
+      "Increased accidents",
+      "Higher morale and motivation",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 531,
+    "question": "Directing function of management involves:",
+    "options": [
+      "Giving instructions and guiding employees",
+      "Preparing budgets",
+      "Purchasing materials",
+      "Scheduling production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 532,
+    "question": "Leadership in directing means:",
+    "options": [
+      "Giving orders only",
+      "Influencing people to achieve goals",
+      "Punishing workers",
+      "Maintaining accounts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 533,
+    "question": "Communication is essential for:",
+    "options": [
+      "Building good relations",
+      "Avoiding misunderstandings",
+      "Ensuring smooth workflow",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 534,
+    "question": "Downward communication flows from:",
+    "options": [
+      "Subordinates to superiors",
+      "Superiors to subordinates",
+      "Workers to customers",
+      "Customers to managers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 535,
+    "question": "Upward communication includes:",
+    "options": [
+      "Reports from workers",
+      "Orders from management",
+      "Policies from top level",
+      "Instructions to employees"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 536,
+    "question": "Horizontal communication occurs between:",
+    "options": [
+      "Same level employees",
+      "Top and bottom level",
+      "Workers and customers",
+      "Workers and unions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 537,
+    "question": "Noise in communication refers to:",
+    "options": [
+      "External disturbance",
+      "Misunderstandings",
+      "Incomplete messages",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 538,
+    "question": "A good leader must have:",
+    "options": [
+      "Honesty",
+      "Communication skills",
+      "Confidence",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 539,
+    "question": "Autocratic leader:",
+    "options": [
+      "Takes all decisions alone",
+      "Encourages group participation",
+      "Allows complete freedom",
+      "Delegates authority"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 540,
+    "question": "Democratic leaders:",
+    "options": [
+      "Do not involve employees",
+      "Encourage employee participation",
+      "Are dictatorial",
+      "Avoid communication"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 541,
+    "question": "Free-rein leadership is also called:",
+    "options": [
+      "Autocratic",
+      "Laissez-faire",
+      "Democratic",
+      "Participative"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 542,
+    "question": "Motivation is necessary to:",
+    "options": [
+      "Increase absenteeism",
+      "Improve employee performance",
+      "Create conflicts",
+      "Reduce morale"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 543,
+    "question": "Maslow's theory is related to:",
+    "options": [
+      "Job evaluation",
+      "Hierarchy of needs",
+      "Wage payment",
+      "Recruitment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 544,
+    "question": "Physiological needs include:",
+    "options": [
+      "Salary, food, shelter",
+      "Promotion",
+      "Status",
+      "Recognition"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 545,
+    "question": "Safety needs include:",
+    "options": [
+      "Job security",
+      "Housing",
+      "Bonus",
+      "Recognition"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 546,
+    "question": "Social needs include:",
+    "options": [
+      "Friendship and belongingness",
+      "Salary",
+      "Job security",
+      "Recognition"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 547,
+    "question": "Esteem needs include:",
+    "options": [
+      "Status and recognition",
+      "Food",
+      "Safety",
+      "Shelter"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 548,
+    "question": "Self-actualization refers to:",
+    "options": [
+      "Basic needs",
+      "Reaching full potential",
+      "Job security",
+      "Salary"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 549,
+    "question": "Communication barrier occurs due to:",
+    "options": [
+      "Noise",
+      "Poor language",
+      "Assumptions",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 550,
+    "question": "Effective communication must be:",
+    "options": [
+      "Unclear",
+      "Complex",
+      "Clear and understandable",
+      "One-sided"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 551,
+    "question": "Supervisors act as:",
+    "options": [
+      "Link between workers and management",
+      "Company owners",
+      "Customers",
+      "Investors"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 552,
+    "question": "A good communication system improves:",
+    "options": [
+      "Conflicts",
+      "Misunderstanding",
+      "Coordination",
+      "Absenteeism"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 553,
+    "question": "Leadership is needed to:",
+    "options": [
+      "Guide employees",
+      "Give direction",
+      "Motivate workers",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 554,
+    "question": "Directive leadership is suitable when:",
+    "options": [
+      "Workers are unskilled",
+      "Workers need freedom",
+      "Employees are highly experienced",
+      "None"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 555,
+    "question": "Supportive leadership focuses on:",
+    "options": [
+      "Strict instructions",
+      "Employee welfare and friendly behavior",
+      "Profit maximization",
+      "Cost cutting"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 556,
+    "question": "Participative leadership involves:",
+    "options": [
+      "Employee involvement in decision making",
+      "Strict supervision",
+      "Ignoring suggestions",
+      "Autocratic control"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 557,
+    "question": "Achievement-oriented leadership is suitable when:",
+    "options": [
+      "High performance is expected",
+      "Employees lack skills",
+      "Workers are unmotivated",
+      "Workers need rest"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 558,
+    "question": "Job satisfaction leads to:",
+    "options": [
+      "Low productivity",
+      "High morale and loyalty",
+      "High absenteeism",
+      "Conflicts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 559,
+    "question": "Good human relations help in:",
+    "options": [
+      "Reduced motivation",
+      "Industrial harmony",
+      "Conflicts",
+      "Labour turnover"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 560,
+    "question": "Counselling helps employees to:",
+    "options": [
+      "Solve personal and work-related problems",
+      "Increase conflicts",
+      "Reduce cooperation",
+      "Ignore responsibilities"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 561,
+    "question": "Grievance refers to:",
+    "options": [
+      "Worker complaint or dissatisfaction",
+      "Promotion",
+      "Bonus",
+      "Holiday"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 562,
+    "question": "First step in grievance handling is:",
+    "options": [
+      "Appeal to top management",
+      "Formal written complaint",
+      "Discussion with supervisor",
+      "Strike"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 563,
+    "question": "An effective grievance system must be:",
+    "options": [
+      "Complicated",
+      "Easy, fair, and fast",
+      "Slow and rigid",
+      "One-sided"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 564,
+    "question": "Counselling improves:",
+    "options": [
+      "Employee performance",
+      "Misunderstanding",
+      "Conflict",
+      "Absenteeism"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 565,
+    "question": "Organizational climate refers to:",
+    "options": [
+      "Physical weather",
+      "Work environment and culture",
+      "Sales conditions",
+      "Political environment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 566,
+    "question": "A positive organizational climate increases:",
+    "options": [
+      "Stress",
+      "Productivity",
+      "Conflicts",
+      "Absenteeism"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 567,
+    "question": "Morale refers to:",
+    "options": [
+      "Employee discipline",
+      "Employee confidence and satisfaction",
+      "Company profits",
+      "Product quality"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 568,
+    "question": "High morale results in:",
+    "options": [
+      "Low productivity",
+      "High efficiency",
+      "Low cooperation",
+      "Conflicts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 569,
+    "question": "Low morale is caused by:",
+    "options": [
+      "Recognition",
+      "Good supervision",
+      "Lack of motivation",
+      "Job satisfaction"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 570,
+    "question": "Morale can be measured using:",
+    "options": [
+      "Observation",
+      "Interviews",
+      "Questionnaires",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 571,
+    "question": "Industrial psychology studies:",
+    "options": [
+      "Consumer behavior",
+      "Behavior of employees at work",
+      "Political conditions",
+      "Environmental issues"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 572,
+    "question": "Main aim of industrial psychology is:",
+    "options": [
+      "Increase wages",
+      "Improve worker efficiency and satisfaction",
+      "Increase product price",
+      "Reduce working hours"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 573,
+    "question": "Human relations approach focuses on:",
+    "options": [
+      "Machines",
+      "Money",
+      "People and their needs",
+      "Buildings"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 574,
+    "question": "The Hawthorne experiments were conducted by:",
+    "options": [
+      "Henry Fayol",
+      "F.W. Taylor",
+      "Elton Mayo",
+      "Max Weber"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 575,
+    "question": "Hawthorne studies concluded that productivity increases due to:",
+    "options": [
+      "Lighting only",
+      "Financial incentives only",
+      "Recognition and attention",
+      "Strict supervision"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 576,
+    "question": "Group behavior affects:",
+    "options": [
+      "Individual behavior",
+      "Work performance",
+      "Morale",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 577,
+    "question": "Informal groups:",
+    "options": [
+      "Are officially formed",
+      "Are formed naturally by employees",
+      "Are controlled by management",
+      "Have no influence"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 578,
+    "question": "Formal groups are created by:",
+    "options": [
+      "Employees",
+      "Management",
+      "Customers",
+      "Suppliers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 579,
+    "question": "Human relations improve when:",
+    "options": [
+      "Workers are ignored",
+      "Communication is effective",
+      "Conflicts increase",
+      "Morale decreases"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 580,
+    "question": "Motivated employees show:",
+    "options": [
+      "Low performance",
+      "High commitment",
+      "High absenteeism",
+      "Low morale"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 581,
+    "question": "Human needs are:",
+    "options": [
+      "Unlimited",
+      "Limited",
+      "Constant",
+      "Unimportant"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 582,
+    "question": "Job enrichment means:",
+    "options": [
+      "Adding more tasks of the same type",
+      "Increasing job responsibility and challenge",
+      "Reducing job content",
+      "Lowering pay"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 583,
+    "question": "Job enlargement means:",
+    "options": [
+      "Assigning additional similar tasks",
+      "Increasing authority",
+      "Increasing pay",
+      "Reducing tasks"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 584,
+    "question": "Morale building techniques include:",
+    "options": [
+      "Recognition",
+      "Training",
+      "Participative management",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 585,
+    "question": "Employee turnover refers to:",
+    "options": [
+      "Increasing production",
+      "Employees leaving the organization",
+      "Employee promotion",
+      "Employee transfer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 586,
+    "question": "High labour turnover indicates:",
+    "options": [
+      "Employee satisfaction",
+      "HR problems",
+      "High morale",
+      "Good working conditions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 587,
+    "question": "Causes of labour turnover include:",
+    "options": [
+      "Low wages",
+      "Poor working conditions",
+      "Lack of career growth",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 588,
+    "question": "Absenteeism means:",
+    "options": [
+      "Being present at work",
+      "Being absent without valid reason",
+      "Being late only",
+      "Being on leave"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 589,
+    "question": "High absenteeism leads to:",
+    "options": [
+      "Higher productivity",
+      "Lower efficiency",
+      "High morale",
+      "Better relations"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 590,
+    "question": "Causes of absenteeism include:",
+    "options": [
+      "Illness",
+      "Unsatisfactory working conditions",
+      "Lack of motivation",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 591,
+    "question": "Employee welfare includes:",
+    "options": [
+      "Canteens",
+      "Safety measures",
+      "Medical facilities",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 592,
+    "question": "Welfare improves:",
+    "options": [
+      "Morale",
+      "Productivity",
+      "Satisfaction",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 593,
+    "question": "Accident rate decreases due to:",
+    "options": [
+      "Safety training",
+      "Protective equipment",
+      "Good housekeeping",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 594,
+    "question": "Ergonomics deals with:",
+    "options": [
+      "Designing machines to fit workers",
+      "Market prices",
+      "Financial planning",
+      "Sales promotion"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 595,
+    "question": "A well-designed workplace layout:",
+    "options": [
+      "Reduces fatigue",
+      "Improves productivity",
+      "Ensures safety",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 596,
+    "question": "Rest pauses help to:",
+    "options": [
+      "Increase fatigue",
+      "Improve efficiency",
+      "Decrease morale",
+      "Reduce satisfaction"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 597,
+    "question": "Human engineering focuses on:",
+    "options": [
+      "Man-machine relationship",
+      "Marketing",
+      "Sales",
+      "Accounts"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 598,
+    "question": "Employee fatigue results in:",
+    "options": [
+      "High efficiency",
+      "Errors and accidents",
+      "High morale",
+      "Better relations"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 599,
+    "question": "Work study aims at:",
+    "options": [
+      "Improving methods and reducing fatigue",
+      "Increasing product cost",
+      "Increasing working hours",
+      "Reducing rest pauses"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 600,
+    "question": "Method study focuses on:",
+    "options": [
+      "Finding the best way of doing work",
+      "Increasing cost",
+      "Reducing wages",
+      "Lowering quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 601,
+    "question": "Work measurement determines:",
+    "options": [
+      "Standard time for completing a job",
+      "Product quality",
+      "Sales target",
+      "Employee salary"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 602,
+    "question": "Time study is used to:",
+    "options": [
+      "Fix standard time",
+      "Set wages",
+      "Plan training",
+      "Decide raw materials"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 603,
+    "question": "Motion study aims to:",
+    "options": [
+      "Eliminate unnecessary movements",
+      "Increase workload",
+      "Reduce product quality",
+      "Increase fatigue"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 604,
+    "question": "Fatigue study helps to:",
+    "options": [
+      "Increase worker strain",
+      "Provide rest pauses",
+      "Decrease discipline",
+      "Increase absenteeism"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 605,
+    "question": "Standard time includes:",
+    "options": [
+      "Normal time + allowances",
+      "Basic time only",
+      "Idle time only",
+      "Delay time only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 606,
+    "question": "Job evaluation determines:",
+    "options": [
+      "Relative worth of jobs",
+      "Employee skill only",
+      "Product quality",
+      "Sales level"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 607,
+    "question": "Wage and salary administration includes:",
+    "options": [
+      "Fixing wage rates",
+      "Providing incentives",
+      "Ensuring fair compensation",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 608,
+    "question": "Piece wage system pays based on:",
+    "options": [
+      "Hours worked",
+      "Output produced",
+      "Years of service",
+      "Company profit"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 609,
+    "question": "Time wage system pays based on:",
+    "options": [
+      "Units produced",
+      "Time spent",
+      "Skill level only",
+      "Product demand"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 610,
+    "question": "Incentive plans are provided to:",
+    "options": [
+      "Discourage workers",
+      "Improve performance",
+      "Reduce quality",
+      "Avoid training"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 611,
+    "question": "Halsey plan is based on:",
+    "options": [
+      "Time saved",
+      "Output produced",
+      "Skill requirement",
+      "Idle time"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 612,
+    "question": "Rowan plan provides bonus based on:",
+    "options": [
+      "Percentage of time saved",
+      "Units produced",
+      "Experience",
+      "Material saved"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 613,
+    "question": "Fringe benefits include:",
+    "options": [
+      "Canteen, medical aid, insurance",
+      "Basic salary",
+      "Loan recovery",
+      "Taxes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 614,
+    "question": "Performance appraisal measures:",
+    "options": [
+      "Employee performance",
+      "Product demand",
+      "Raw material quality",
+      "Factory layout"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 615,
+    "question": "The most common method of performance appraisal is:",
+    "options": [
+      "Essay method",
+      "Rating scale",
+      "Paired comparison",
+      "Ranking method"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 616,
+    "question": "Promotion means:",
+    "options": [
+      "Upward movement in rank and pay",
+      "Transfer to same post",
+      "Demotion",
+      "Temporary suspension"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 617,
+    "question": "Transfer involves:",
+    "options": [
+      "Change in job without change in rank",
+      "Increase in salary",
+      "Decrease in responsibility",
+      "Training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 618,
+    "question": "Demotion refers to:",
+    "options": [
+      "Upgrading job",
+      "Downgrading to lower rank",
+      "Increasing salary",
+      "Giving promotion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 619,
+    "question": "Separation includes:",
+    "options": [
+      "Resignation",
+      "Retirement",
+      "Dismissal",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 620,
+    "question": "Retirement means:",
+    "options": [
+      "Leaving job after age limit",
+      "Voluntary resignation",
+      "Temporary suspension",
+      "Termination"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 621,
+    "question": "Trade unions aim to:",
+    "options": [
+      "Protect workers' interests",
+      "Increase conflict",
+      "Increase product prices",
+      "Promote absenteeism"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 622,
+    "question": "Functions of trade unions include:",
+    "options": [
+      "Collective bargaining",
+      "Welfare activities",
+      "Protecting workers' rights",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 623,
+    "question": "Collective bargaining involves:",
+    "options": [
+      "Negotiation between employer and employees",
+      "Firing workers",
+      "Recruitment",
+      "Selling goods"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 624,
+    "question": "Industrial disputes arise due to:",
+    "options": [
+      "Wages and benefits issues",
+      "Poor working conditions",
+      "Miscommunication",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 625,
+    "question": "Strike means:",
+    "options": [
+      "Workers stop working",
+      "Employers stop production",
+      "Transfer of employees",
+      "Promotion of workers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 626,
+    "question": "Lockout means:",
+    "options": [
+      "Workers stop working",
+      "Management closes factory",
+      "Employees are promoted",
+      "Salary increase"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 627,
+    "question": "Layoff means:",
+    "options": [
+      "Temporary removal of employees",
+      "Permanent removal of employees",
+      "Retirement",
+      "Promotion"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 628,
+    "question": "Arbitration is:",
+    "options": [
+      "Settlement by third party decision",
+      "Workers' strike",
+      "Lockout",
+      "Bonus distribution"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 629,
+    "question": "Conciliation is:",
+    "options": [
+      "Intervention of a mediator",
+      "Court judgement",
+      "Worker suspension",
+      "Labour welfare"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 630,
+    "question": "Good industrial relations reduce:",
+    "options": [
+      "Productivity",
+      "Conflicts",
+      "Morale",
+      "Cooperation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 631,
+    "question": "Safety training reduces:",
+    "options": [
+      "Accidents",
+      "Morale",
+      "Efficiency",
+      "Output"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 632,
+    "question": "Fire safety includes:",
+    "options": [
+      "Fire extinguishers",
+      "Emergency exits",
+      "Alarm systems",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 633,
+    "question": "First aid means:",
+    "options": [
+      "Complete medical treatment",
+      "Immediate help before medical care",
+      "Hospital surgery",
+      "Diagnosis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 634,
+    "question": "Ergonomics aims to:",
+    "options": [
+      "Improve man-machine fit",
+      "Increase working hours",
+      "Reduce wages",
+      "Increase accidents"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 635,
+    "question": "Poor ergonomics creates:",
+    "options": [
+      "Fatigue",
+      "Discomfort",
+      "Low productivity",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 636,
+    "question": "Work study improves:",
+    "options": [
+      "Efficiency",
+      "Productivity",
+      "Cost control",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 637,
+    "question": "Production planning includes:",
+    "options": [
+      "Routing",
+      "Scheduling",
+      "Dispatching",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 638,
+    "question": "Routing determines:",
+    "options": [
+      "Path of work",
+      "Worker wages",
+      "Machine maintenance",
+      "Safety rules"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 639,
+    "question": "Scheduling determines:",
+    "options": [
+      "Time for each task",
+      "Machine layout",
+      "Wage structure",
+      "Product design"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 640,
+    "question": "Dispatching includes:",
+    "options": [
+      "Issuing orders to start work",
+      "Declaring strike",
+      "Calculating wages",
+      "Recruiting workers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 641,
+    "question": "Follow-up ensures:",
+    "options": [
+      "Work is done as per plan",
+      "Product price increase",
+      "More absenteeism",
+      "Lower quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 642,
+    "question": "Plant layout refers to:",
+    "options": [
+      "Arrangement of machines and departments",
+      "Product design",
+      "Wage system",
+      "Market survey"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 643,
+    "question": "A good plant layout minimizes:",
+    "options": [
+      "Movement of materials",
+      "Productivity",
+      "Quality",
+      "Safety"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 644,
+    "question": "Product layout is suitable for:",
+    "options": [
+      "Mass production",
+      "Small-scale production",
+      "Job order production",
+      "Research work"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 645,
+    "question": "Process layout is suitable for:",
+    "options": [
+      "Similar machines grouped together",
+      "Assembly line work",
+      "Mass production",
+      "Continuous flow"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 646,
+    "question": "Fixed position layout is used for:",
+    "options": [
+      "Ship building",
+      "Mobile manufacturing",
+      "Pen manufacturing",
+      "Watch assembly"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 647,
+    "question": "Material handling aims to:",
+    "options": [
+      "Move materials efficiently",
+      "Increase workload",
+      "Increase accidents",
+      "Reduce quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 648,
+    "question": "Good material handling reduces:",
+    "options": [
+      "Breakage",
+      "Cost",
+      "Fatigue",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 649,
+    "question": "Inventory control avoids:",
+    "options": [
+      "Overstocking",
+      "Stock-outs",
+      "Material wastage",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 650,
+    "question": "ABC analysis classifies materials based on:",
+    "options": [
+      "Value",
+      "Size",
+      "Colour",
+      "Weight"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 651,
+    "question": "Quality control ensures:",
+    "options": [
+      "Defective products",
+      "Consistent quality",
+      "High accidents",
+      "High absenteeism"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 652,
+    "question": "Inspection aims to:",
+    "options": [
+      "Check quality",
+      "Increase errors",
+      "Create conflicts",
+      "Increase cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 653,
+    "question": "Preventive maintenance avoids:",
+    "options": [
+      "Breakdowns",
+      "Safety",
+      "Low productivity",
+      "Quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 654,
+    "question": "Breakdown maintenance is done:",
+    "options": [
+      "Before failure",
+      "After equipment failure",
+      "During installation",
+      "During training"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 655,
+    "question": "Planned maintenance improves:",
+    "options": [
+      "Machine life",
+      "Productivity",
+      "Safety",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 656,
+    "question": "Production control ensures:",
+    "options": [
+      "Smooth production flow",
+      "Machine breakdown",
+      "High absenteeism",
+      "Labour disputes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 657,
+    "question": "A good production system aims at:",
+    "options": [
+      "Low quality",
+      "High productivity",
+      "High wastage",
+      "High cost"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 658,
+    "question": "Mass production requires:",
+    "options": [
+      "Product layout",
+      "General-purpose machines",
+      "Small batches",
+      "Craftsmen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 659,
+    "question": "Batch production involves:",
+    "options": [
+      "Producing goods in lots",
+      "One unit only",
+      "Continuous flow",
+      "Mass production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 660,
+    "question": "Job production is suitable for:",
+    "options": [
+      "Customized products",
+      "Mass production",
+      "Process industries",
+      "Continuous production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 661,
+    "question": "Continuous production is used in:",
+    "options": [
+      "Oil refineries",
+      "Tailoring shops",
+      "Furniture making",
+      "Toy making"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 662,
+    "question": "Supply chain management integrates:",
+    "options": [
+      "Suppliers",
+      "Manufacturers",
+      "Customers",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 663,
+    "question": "Logistics management deals with:",
+    "options": [
+      "Movement of materials",
+      "Storage of materials",
+      "Distribution to customers",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 664,
+    "question": "Kaizen stands for:",
+    "options": [
+      "Continuous improvement",
+      "Total breakdown",
+      "High cost",
+      "Employee dismissal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 665,
+    "question": "TQM focuses on:",
+    "options": [
+      "Customer satisfaction",
+      "Continuous improvement",
+      "Employee involvement",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 666,
+    "question": "Six Sigma aims at:",
+    "options": [
+      "Reducing defects",
+      "Increasing errors",
+      "Increasing rework",
+      "Delaying delivery"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 667,
+    "question": "ISO standards ensure:",
+    "options": [
+      "Quality",
+      "Safety",
+      "Reliability",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 668,
+    "question": "Lean manufacturing reduces:",
+    "options": [
+      "Waste",
+      "Productivity",
+      "Efficiency",
+      "Quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 669,
+    "question": "Just-in-time aims to:",
+    "options": [
+      "Minimize inventory",
+      "Increase storage",
+      "Overproduce",
+      "Increase wastage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 670,
+    "question": "Benchmarking compares performance with:",
+    "options": [
+      "Industry best standards",
+      "Low performers",
+      "Unrelated sectors",
+      "Random data"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 671,
+    "question": "Productivity means:",
+    "options": [
+      "Output per unit of input",
+      "Increase in price",
+      "Increase in wages",
+      "Increase in working hours"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 672,
+    "question": "Higher productivity leads to:",
+    "options": [
+      "Lower cost",
+      "Higher profit",
+      "Better competitiveness",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 673,
+    "question": "Labour productivity is measured as:",
+    "options": [
+      "Output per worker",
+      "Salary per worker",
+      "Hours worked",
+      "Cost per unit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 674,
+    "question": "Factors affecting productivity include:",
+    "options": [
+      "Technology",
+      "Training",
+      "Motivation",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 675,
+    "question": "Productivity improvement technique:",
+    "options": [
+      "Method study",
+      "Motion study",
+      "Time study",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 676,
+    "question": "Material management deals with:",
+    "options": [
+      "Planning and controlling materials",
+      "Selling materials",
+      "Marketing material",
+      "Recruiting workers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 677,
+    "question": "Objectives of material management include:",
+    "options": [
+      "Right material",
+      "Right quantity",
+      "Right time",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 678,
+    "question": "EOQ stands for:",
+    "options": [
+      "Economic Order Quantity",
+      "Estimated Order Quantity",
+      "Effective Order Quotient",
+      "Essential Order Quantity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 679,
+    "question": "EOQ helps in minimizing:",
+    "options": [
+      "Total inventory cost",
+      "Total production cost",
+      "Sales cost",
+      "Wage cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 680,
+    "question": "Safety stock is kept to avoid:",
+    "options": [
+      "Overproduction",
+      "Stock-out",
+      "Price increase",
+      "Excess profit"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 681,
+    "question": "Reorder level indicates:",
+    "options": [
+      "When to place new order",
+      "When to stop production",
+      "When to give bonus",
+      "When to increase price"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 682,
+    "question": "Storekeeping includes:",
+    "options": [
+      "Receipt of materials",
+      "Issue of materials",
+      "Storage of materials",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 683,
+    "question": "A good store layout ensures:",
+    "options": [
+      "Fast material movement",
+      "Safety",
+      "Minimum losses",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 684,
+    "question": "Bin card is maintained in:",
+    "options": [
+      "Stores department",
+      "Accounts department",
+      "HR department",
+      "Production department"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 685,
+    "question": "Quality refers to:",
+    "options": [
+      "Fitness for use",
+      "High cost",
+      "High profit",
+      "More labour"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 686,
+    "question": "Quality assurance ensures:",
+    "options": [
+      "Product meets standards",
+      "Lower cost always",
+      "Employee satisfaction",
+      "Safety training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 687,
+    "question": "ISO 9001 relates to:",
+    "options": [
+      "Quality management system",
+      "Environmental system",
+      "Energy management",
+      "Safety management"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 688,
+    "question": "Control chart is used in:",
+    "options": [
+      "Statistical quality control",
+      "Marketing analysis",
+      "Financial planning",
+      "Training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 689,
+    "question": "Fishbone diagram is also called:",
+    "options": [
+      "Ishikawa diagram",
+      "Pareto chart",
+      "Control chart",
+      "Flow chart"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 690,
+    "question": "5S includes:",
+    "options": [
+      "Sort, Set, Shine, Standardize, Sustain",
+      "Search, Solve, Settle, Save, Support",
+      "Sort, Simplify, Structure, Stabilize, Standardize",
+      "None of the above"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 691,
+    "question": "Six Sigma aims for:",
+    "options": [
+      "3.4 defects per million",
+      "340 defects per million",
+      "34 defects per million",
+      "0 defects"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 692,
+    "question": "TPM stands for:",
+    "options": [
+      "Total Productive Maintenance",
+      "Total Production Management",
+      "Time Productivity Measurement",
+      "Team Performance Method"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 693,
+    "question": "TPM aims to reduce:",
+    "options": [
+      "Breakdowns",
+      "Downtime",
+      "Defects",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 694,
+    "question": "JIT eliminates:",
+    "options": [
+      "Inventory",
+      "Accidents",
+      "Employees",
+      "Training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 695,
+    "question": "KANBAN is used in:",
+    "options": [
+      "JIT production",
+      "Marketing",
+      "Wage payment",
+      "Safety training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 696,
+    "question": "Supply chain ensures:",
+    "options": [
+      "Flow of materials",
+      "Flow of information",
+      "Flow of money",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 697,
+    "question": "Lead time means:",
+    "options": [
+      "Time between order and delivery",
+      "Time for salary payment",
+      "Machine idle time",
+      "Break time"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 698,
+    "question": "Benchmarking compares:",
+    "options": [
+      "With best practices",
+      "With competitors only",
+      "With previous year results",
+      "With customer complaints"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 699,
+    "question": "Kaizen focuses on:",
+    "options": [
+      "Continuous small improvements",
+      "Large changes",
+      "Downsizing",
+      "Layoff"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 700,
+    "question": "ERP integrates:",
+    "options": [
+      "All business functions",
+      "Only production",
+      "Only HR",
+      "Only finance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 701,
+    "question": "ERP stands for:",
+    "options": [
+      "Enterprise Resource Planning",
+      "Effective Resource Planning",
+      "Estimated Resource Program",
+      "Enterprise Result Planning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 702,
+    "question": "Advantages of ERP include:",
+    "options": [
+      "Better decision making",
+      "Improved productivity",
+      "Integrated information",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 703,
+    "question": "MRP stands for:",
+    "options": [
+      "Material Requirements Planning",
+      "Material Resource Procedure",
+      "Maximum Resource Planning",
+      "Minimum Resource Planning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 704,
+    "question": "MRP requires:",
+    "options": [
+      "Master production schedule",
+      "Inventory records",
+      "Bill of materials",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 705,
+    "question": "SQC stands for:",
+    "options": [
+      "Statistical Quality Control",
+      "Standard Quality Check",
+      "System Quality Calculation",
+      "Shop Quality Control"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 706,
+    "question": "Pareto chart follows:",
+    "options": [
+      "80/20 rule",
+      "50/50 rule",
+      "20/80 rule",
+      "10/90 rule"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 707,
+    "question": "Inspection is carried out at:",
+    "options": [
+      "Raw material stage",
+      "Process stage",
+      "Finished goods stage",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 708,
+    "question": "Zero defect concept aims at:",
+    "options": [
+      "No defects",
+      "Minimum cost only",
+      "Maximum defects",
+      "High rework"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 709,
+    "question": "Standardization aims at:",
+    "options": [
+      "Uniformity",
+      "Interchangeability",
+      "Quality consistency",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 710,
+    "question": "Production system converts:",
+    "options": [
+      "Inputs into outputs",
+      "Customers into workers",
+      "Waste into money",
+      "Employees into machines"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 711,
+    "question": "Production planning ensures:",
+    "options": [
+      "Right quantity at right time",
+      "Low quality",
+      "High wastage",
+      "Delayed production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 712,
+    "question": "Master production schedule includes:",
+    "options": [
+      "What to produce",
+      "How much to produce",
+      "When to produce",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 713,
+    "question": "Dispatching is:",
+    "options": [
+      "Issuing production orders",
+      "Designing machines",
+      "Issuing wages",
+      "Recruiting employees"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 714,
+    "question": "Follow-up identifies:",
+    "options": [
+      "Delays",
+      "Shortages",
+      "Bottlenecks",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 715,
+    "question": "Plant layout aims to:",
+    "options": [
+      "Minimize movement",
+      "Improve workflow",
+      "Ensure safety",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 716,
+    "question": "Factors affecting layout include:",
+    "options": [
+      "Type of industry",
+      "Type of process",
+      "Space availability",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 717,
+    "question": "Product layout is used for:",
+    "options": [
+      "Assembly line production",
+      "Job order production",
+      "Small scale industry",
+      "Custom products"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 718,
+    "question": "Process layout is used when:",
+    "options": [
+      "Variety of products are produced",
+      "Continuous flow is needed",
+      "Mass production is required",
+      "Assembly line is required"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 719,
+    "question": "Fixed position layout is preferred for:",
+    "options": [
+      "Large projects",
+      "Mobile phones",
+      "Electronics",
+      "Pens"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 720,
+    "question": "Material handling involves:",
+    "options": [
+      "Movement of materials",
+      "Protection of materials",
+      "Control of materials",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 721,
+    "question": "AGVs are used in:",
+    "options": [
+      "Automated material handling",
+      "Manual material handling",
+      "Inspection",
+      "Production planning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 722,
+    "question": "Inventory refers to:",
+    "options": [
+      "Stock of materials",
+      "Worker list",
+      "Machine list",
+      "Sales record"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 723,
+    "question": "Safety stock avoids:",
+    "options": [
+      "Stock-out situation",
+      "Overproduction",
+      "High profit",
+      "Employee turnover"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 724,
+    "question": "JIT requires:",
+    "options": [
+      "Zero inventory",
+      "High inventory",
+      "Random inventory",
+      "Seasonal inventory"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 725,
+    "question": "ABC analysis is based on:",
+    "options": [
+      "Annual consumption value",
+      "Weight",
+      "Colour",
+      "Size"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 726,
+    "question": "A items in ABC analysis are:",
+    "options": [
+      "High-value items",
+      "Low-value items",
+      "Medium-value items",
+      "No value items"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 727,
+    "question": "Quality inspection ensures:",
+    "options": [
+      "Defect detection",
+      "Defect prevention",
+      "Quality improvement",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 728,
+    "question": "SPC stands for:",
+    "options": [
+      "Statistical Process Control",
+      "Standard Process Chart",
+      "Sales Performance Chart",
+      "System Planning Control"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 729,
+    "question": "Control limits are shown in:",
+    "options": [
+      "Control charts",
+      "Flow charts",
+      "Process sheets",
+      "Pie charts"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 730,
+    "question": "Maintenance aims at:",
+    "options": [
+      "Increasing machine life",
+      "Reducing breakdowns",
+      "Ensuring smooth operation",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 731,
+    "question": "Breakdown maintenance is:",
+    "options": [
+      "Reactive maintenance",
+      "Preventive maintenance",
+      "Planned maintenance",
+      "Routine maintenance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 732,
+    "question": "Preventive maintenance avoids:",
+    "options": [
+      "Unexpected breakdowns",
+      "High quality",
+      "Low cost",
+      "Improved performance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 733,
+    "question": "Planned maintenance is:",
+    "options": [
+      "Scheduled in advance",
+      "Only after breakdown",
+      "Random",
+      "Unplanned"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 734,
+    "question": "Corrective maintenance is done:",
+    "options": [
+      "After failure",
+      "Before failure",
+      "During design",
+      "During purchase"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 735,
+    "question": "Autonomous maintenance is part of:",
+    "options": [
+      "TPM",
+      "TQM",
+      "ERP",
+      "MRP"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 736,
+    "question": "OEE stands for:",
+    "options": [
+      "Overall Equipment Effectiveness",
+      "Operational Efficiency Evaluation",
+      "Output Efficiency Estimation",
+      "Overall Engineering Efficiency"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 737,
+    "question": "OEE includes:",
+    "options": [
+      "Availability",
+      "Performance",
+      "Quality",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 738,
+    "question": "Production control monitors:",
+    "options": [
+      "Production progress",
+      "Material flow",
+      "Quality",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 739,
+    "question": "Cost reduction aims at:",
+    "options": [
+      "Reducing cost without reducing quality",
+      "Reducing quality",
+      "Increasing waste",
+      "Increasing labour turnover"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 740,
+    "question": "Value analysis aims to:",
+    "options": [
+      "Improve value of product",
+      "Increase unnecessary cost",
+      "Reduce quality",
+      "Increase complexity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 741,
+    "question": "Value engineering focuses on:",
+    "options": [
+      "Reducing unnecessary cost",
+      "Increasing product complexity",
+      "Adding irrelevant features",
+      "Decreasing product value"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 742,
+    "question": "Finance is required for:",
+    "options": [
+      "Starting a business",
+      "Running a business",
+      "Expanding a business",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 743,
+    "question": "Fixed capital is needed for:",
+    "options": [
+      "Land and building",
+      "Raw materials",
+      "Wages",
+      "Daily expenses"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 744,
+    "question": "Working capital is used for:",
+    "options": [
+      "Daily operations",
+      "Machine purchase",
+      "Factory construction",
+      "Long-term investment"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 745,
+    "question": "Short-term finance is required for:",
+    "options": [
+      "Raw materials",
+      "Wages",
+      "Electricity bills",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 746,
+    "question": "Trade credit is a:",
+    "options": [
+      "Short-term source",
+      "Medium-term source",
+      "Long-term source",
+      "Permanent source"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 747,
+    "question": "Bank overdraft is used to:",
+    "options": [
+      "Meet urgent cash needs",
+      "Buy machinery",
+      "Build factory",
+      "Purchase land"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 748,
+    "question": "Debentures are a:",
+    "options": [
+      "Long-term source of finance",
+      "Short-term loan",
+      "Internal source",
+      "Temporary source"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 749,
+    "question": "Equity shareholders are:",
+    "options": [
+      "Owners of the company",
+      "Creditors",
+      "Debtors",
+      "Employees"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 750,
+    "question": "Dividend is paid to:",
+    "options": [
+      "Shareholders",
+      "Debenture holders",
+      "Bankers",
+      "Suppliers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 751,
+    "question": "Interest is paid to:",
+    "options": [
+      "Equity shareholders",
+      "Debenture holders",
+      "Partners",
+      "Employees"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 752,
+    "question": "Preference shareholders get dividend:",
+    "options": [
+      "Before equity shareholders",
+      "After equity shareholders",
+      "Only when profit is high",
+      "Never"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 753,
+    "question": "Break-even point means:",
+    "options": [
+      "No profit, no loss",
+      "Maximum profit",
+      "Minimum sales",
+      "Zero sales"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 754,
+    "question": "At break-even point:",
+    "options": [
+      "Total cost equals total revenue",
+      "Revenue is zero",
+      "Cost is zero",
+      "Profit is maximum"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 755,
+    "question": "Break-even analysis is part of:",
+    "options": [
+      "Cost-volume-profit analysis",
+      "Financial accounting",
+      "Auditing",
+      "Taxation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 756,
+    "question": "Margin of safety is:",
+    "options": [
+      "Actual sales minus break-even sales",
+      "Total fixed cost",
+      "Total variable cost",
+      "Loss margin"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 757,
+    "question": "Higher margin of safety means:",
+    "options": [
+      "Lower risk",
+      "Higher risk",
+      "Lower profit",
+      "Higher cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 758,
+    "question": "EOQ minimizes:",
+    "options": [
+      "Total inventory cost",
+      "Selling cost",
+      "Labor cost",
+      "Marketing cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 759,
+    "question": "At EOQ:",
+    "options": [
+      "Ordering cost equals carrying cost",
+      "Ordering cost is zero",
+      "Carrying cost is zero",
+      "Total cost is maximum"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 760,
+    "question": "Carrying cost includes:",
+    "options": [
+      "Storage cost",
+      "Insurance cost",
+      "Interest on capital",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 761,
+    "question": "Ordering cost includes:",
+    "options": [
+      "Cost of placing purchase orders",
+      "Cost of storage",
+      "Cost of inspection",
+      "Cost of scrap"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 762,
+    "question": "Reorder level depends on:",
+    "options": [
+      "Lead time",
+      "Usage rate",
+      "Safety stock",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 763,
+    "question": "Inventory turnover ratio indicates:",
+    "options": [
+      "Efficiency of material usage",
+      "Profit margin",
+      "Cash flow",
+      "Machine efficiency"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 764,
+    "question": "Working capital is also called:",
+    "options": [
+      "Circulating capital",
+      "Fixed capital",
+      "Equity capital",
+      "Loan capital"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 765,
+    "question": "Source of long-term finance:",
+    "options": [
+      "Equity shares",
+      "Debentures",
+      "Loans from financial institutions",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 766,
+    "question": "Cost of capital means:",
+    "options": [
+      "Minimum return expected by investors",
+      "Raw material cost",
+      "Labour cost",
+      "Machine maintenance cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 767,
+    "question": "Depreciation is calculated on:",
+    "options": [
+      "Fixed assets",
+      "Current assets",
+      "Debtors",
+      "Cash"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 768,
+    "question": "Straight line method gives:",
+    "options": [
+      "Equal depreciation every year",
+      "Increasing depreciation",
+      "Decreasing depreciation",
+      "Zero depreciation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 769,
+    "question": "Organisation is:",
+    "options": [
+      "A group of people working together",
+      "A building",
+      "Only machines",
+      "Only workers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 770,
+    "question": "Management is:",
+    "options": [
+      "Getting work done through others",
+      "Only planning",
+      "Only directing",
+      "Only controlling"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 771,
+    "question": "Planning is:",
+    "options": [
+      "Deciding in advance",
+      "Delegating tasks",
+      "Issuing orders",
+      "Supervision"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 772,
+    "question": "Organising involves:",
+    "options": [
+      "Grouping activities and assigning duties",
+      "Firing employees",
+      "Recruiting only",
+      "Pricing products"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 773,
+    "question": "Staffing relates to:",
+    "options": [
+      "Recruitment and selection",
+      "Production",
+      "Marketing",
+      "Finance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 774,
+    "question": "Controlling ensures:",
+    "options": [
+      "Actual performance matches planned performance",
+      "Only planning is done",
+      "Only production increases",
+      "Only profits increase"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 775,
+    "question": "Henry Fayol is known for:",
+    "options": [
+      "Administrative theory",
+      "Scientific management",
+      "Human relations theory",
+      "Systems theory"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 776,
+    "question": "Unity of command means:",
+    "options": [
+      "One employee receives orders from one superior",
+      "Many superiors give orders",
+      "Employees give orders to managers",
+      "Workers command each other"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 777,
+    "question": "Scalar chain refers to:",
+    "options": [
+      "Line of authority",
+      "Stock chain",
+      "Material chain",
+      "Production chain"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 778,
+    "question": "Unity of direction means:",
+    "options": [
+      "One plan and one head",
+      "Many plans",
+      "No plan",
+      "Daily plans"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 779,
+    "question": "Centralization refers to:",
+    "options": [
+      "Authority concentrated at top",
+      "Authority at lower level",
+      "Delegation",
+      "Decentralization"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 780,
+    "question": "Decentralization refers to:",
+    "options": [
+      "Authority distributed",
+      "Authority concentrated",
+      "No delegation",
+      "Only top management decisions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 781,
+    "question": "Entrepreneur is:",
+    "options": [
+      "A risk taker",
+      "An innovator",
+      "A business creator",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 782,
+    "question": "Sole proprietorship is owned by:",
+    "options": [
+      "One person",
+      "Two partners",
+      "Board of directors",
+      "Shareholders"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 783,
+    "question": "Partnership requires minimum:",
+    "options": [
+      "2 persons",
+      "5 persons",
+      "7 persons",
+      "10 persons"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 784,
+    "question": "Joint stock company has:",
+    "options": [
+      "Separate legal entity",
+      "No legal entity",
+      "One owner",
+      "Unlimited liability"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 785,
+    "question": "Cooperative society aims for:",
+    "options": [
+      "Service to members",
+      "Maximizing profit",
+      "High interest",
+      "Monopoly"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 786,
+    "question": "Public sector enterprises are owned by:",
+    "options": [
+      "Government",
+      "Private firms",
+      "Foreign companies",
+      "Individuals"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 787,
+    "question": "Departmental undertakings are controlled by:",
+    "options": [
+      "Government departments",
+      "Private organizations",
+      "NGOs",
+      "Banks"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 788,
+    "question": "Corporate form of business enjoys:",
+    "options": [
+      "Limited liability",
+      "Unlimited liability",
+      "No legal existence",
+      "No continuity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 789,
+    "question": "Management by objectives (MBO) focuses on:",
+    "options": [
+      "Goal setting",
+      "Planning only",
+      "Recruitment only",
+      "Safety"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 790,
+    "question": "Decision making involves:",
+    "options": [
+      "Choosing best alternative",
+      "Hiring workers",
+      "Fixing salary",
+      "Preparing wages"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 791,
+    "question": "Formal communication follows:",
+    "options": [
+      "Official channels",
+      "Rumours",
+      "Gossip",
+      "Informal talks"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 792,
+    "question": "Informal communication is also called:",
+    "options": [
+      "Grapevine",
+      "Ladder",
+      "Chain",
+      "Horizontal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 793,
+    "question": "Non-verbal communication includes:",
+    "options": [
+      "Body language",
+      "Gestures",
+      "Facial expressions",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 794,
+    "question": "Noise in communication causes:",
+    "options": [
+      "Misunderstanding",
+      "Clarity",
+      "Confidence",
+      "Teamwork"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 795,
+    "question": "Motivation improves:",
+    "options": [
+      "Performance",
+      "Morale",
+      "Productivity",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 796,
+    "question": "Herzberg's theory includes:",
+    "options": [
+      "Motivators and hygiene factors",
+      "Hierarchy of needs",
+      "Stages of growth",
+      "Team roles"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 797,
+    "question": "Hygiene factors include:",
+    "options": [
+      "Salary",
+      "Working conditions",
+      "Supervision",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 798,
+    "question": "Leadership is:",
+    "options": [
+      "Influencing people",
+      "Forcing people",
+      "Ignoring people",
+      "Punishing people"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 799,
+    "question": "Democratic leader:",
+    "options": [
+      "Involves employees",
+      "Takes decisions alone",
+      "Uses fear",
+      "Does not communicate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 800,
+    "question": "Autocratic leader:",
+    "options": [
+      "Commands and controls",
+      "Participates",
+      "Delegates completely",
+      "Avoids decisions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 801,
+    "question": "Laissez-faire leader:",
+    "options": [
+      "Gives full freedom",
+      "Controls strictly",
+      "Never delegates",
+      "Always punishes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 802,
+    "question": "Morale refers to:",
+    "options": [
+      "Mental and emotional condition of employees",
+      "Profit level",
+      "Inventory level",
+      "Sales level"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 803,
+    "question": "High morale leads to:",
+    "options": [
+      "Higher productivity",
+      "Higher absenteeism",
+      "Poor teamwork",
+      "Low quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 804,
+    "question": "Low morale results in:",
+    "options": [
+      "High turnover",
+      "Low productivity",
+      "High absenteeism",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 805,
+    "question": "Grievance means:",
+    "options": [
+      "Employee complaint",
+      "Bonus payment",
+      "Holiday announcement",
+      "Training schedule"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 806,
+    "question": "First step in grievance handling is:",
+    "options": [
+      "Discussion with supervisor",
+      "Appeal to top management",
+      "Strike",
+      "Court action"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 807,
+    "question": "Collective bargaining is between:",
+    "options": [
+      "Employer and employees",
+      "Customers and sellers",
+      "Banks and firms",
+      "Government and public"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 808,
+    "question": "Strike is:",
+    "options": [
+      "Stopping work by workers",
+      "Stopping work by management",
+      "A job promotion",
+      "A type of training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 809,
+    "question": "Lockout is:",
+    "options": [
+      "Employer temporarily closes work",
+      "Workers stop work",
+      "Workers resign",
+      "Employees get promoted"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 810,
+    "question": "Layoff means:",
+    "options": [
+      "Temporary removal of employees",
+      "Permanent termination",
+      "Voluntary resignation",
+      "Retirement"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 811,
+    "question": "Retrenchment means:",
+    "options": [
+      "Permanent termination due to economic reasons",
+      "Temporary removal",
+      "Voluntary resignation",
+      "Retirement"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 812,
+    "question": "Dismissal is:",
+    "options": [
+      "Termination due to misconduct",
+      "Retirement",
+      "Resignation",
+      "Layoff"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 813,
+    "question": "Training improves:",
+    "options": [
+      "Knowledge",
+      "Skills",
+      "Productivity",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 814,
+    "question": "On-the-job training is:",
+    "options": [
+      "Training while doing the job",
+      "In classroom",
+      "In college",
+      "During holidays"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 815,
+    "question": "Off-the-job training includes:",
+    "options": [
+      "Lectures",
+      "Workshops",
+      "Seminars",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 816,
+    "question": "Apprenticeship training is used for:",
+    "options": [
+      "Technical jobs",
+      "Clerical jobs",
+      "Marketing jobs",
+      "HR jobs"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 817,
+    "question": "Vestibule training is conducted:",
+    "options": [
+      "In simulated environment",
+      "On the machine directly",
+      "At home",
+      "In office"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 818,
+    "question": "Induction training is provided to:",
+    "options": [
+      "New employees",
+      "Old employees",
+      "Workers before retirement",
+      "Suppliers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 819,
+    "question": "Safety training aims to:",
+    "options": [
+      "Reduce accidents",
+      "Increase risk",
+      "Increase absenteeism",
+      "Decrease skills"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 820,
+    "question": "Human relations approach focuses on:",
+    "options": [
+      "Workers' feelings",
+      "Workers' motivation",
+      "Workers' behavior",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 821,
+    "question": "Industrial disputes occur due to:",
+    "options": [
+      "Wages",
+      "Working conditions",
+      "Bonus",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 822,
+    "question": "Conciliation is:",
+    "options": [
+      "Peaceful settlement through mediator",
+      "Court judgement",
+      "Strike",
+      "Lockout"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 823,
+    "question": "Arbitration involves:",
+    "options": [
+      "Decision by neutral third party",
+      "Direct negotiation",
+      "Layoff",
+      "Dismissal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 824,
+    "question": "Adjudication is done by:",
+    "options": [
+      "Labour court or tribunal",
+      "Trade union",
+      "Employer",
+      "Employee"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 825,
+    "question": "Collective bargaining promotes:",
+    "options": [
+      "Industrial peace",
+      "Conflicts",
+      "Absenteeism",
+      "Strikes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 826,
+    "question": "Production is:",
+    "options": [
+      "Conversion of inputs into outputs",
+      "Buying goods",
+      "Selling goods",
+      "Storing goods"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 827,
+    "question": "Production planning includes:",
+    "options": [
+      "Routing",
+      "Scheduling",
+      "Dispatching",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 828,
+    "question": "Routing decides:",
+    "options": [
+      "Path of workflow",
+      "Wages",
+      "Product price",
+      "Sales volume"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 829,
+    "question": "Scheduling determines:",
+    "options": [
+      "Time for each operation",
+      "Employee salaries",
+      "Raw material price",
+      "Transportation method"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 830,
+    "question": "Dispatching means:",
+    "options": [
+      "Issuing work orders",
+      "Buying materials",
+      "Recruiting workers",
+      "Sending salary"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 831,
+    "question": "Follow-up ensures:",
+    "options": [
+      "Work progresses as planned",
+      "Daily attendance",
+      "Holiday planning",
+      "Bonus payment"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 832,
+    "question": "Maintenance aims to:",
+    "options": [
+      "Reduce machine breakdowns",
+      "Increase downtime",
+      "Reduce efficiency",
+      "Increase accidents"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 833,
+    "question": "Preventive maintenance is done:",
+    "options": [
+      "Before failure",
+      "After breakdown",
+      "During lunch break",
+      "On festival days"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 834,
+    "question": "Breakdown maintenance is done:",
+    "options": [
+      "After machine fails",
+      "Before machine fails",
+      "During installation",
+      "During vacation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 835,
+    "question": "Corrective maintenance is:",
+    "options": [
+      "Repairing defective parts",
+      "Preventing defects",
+      "Inspecting materials",
+      "Storing materials"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 836,
+    "question": "Plant layout aims at:",
+    "options": [
+      "Smooth workflow",
+      "Reduced material handling",
+      "Safety",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 837,
+    "question": "Product layout is suitable for:",
+    "options": [
+      "Mass production",
+      "Small job production",
+      "Custom products",
+      "Seasonal products"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 838,
+    "question": "Process layout is suitable for:",
+    "options": [
+      "Variety of products",
+      "Assembly line",
+      "Continuous production",
+      "Mass production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 839,
+    "question": "Fixed position layout is used for:",
+    "options": [
+      "Ship building",
+      "Mobile assembly",
+      "Pen manufacturing",
+      "Toy making"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 840,
+    "question": "Inventory is:",
+    "options": [
+      "Stock of materials",
+      "Stock of machines",
+      "Stock of workers",
+      "Stock of buildings"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 841,
+    "question": "ABC analysis classifies items based on:",
+    "options": [
+      "Annual consumption value",
+      "Colour",
+      "Size",
+      "Weight"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 842,
+    "question": "A-class items are:",
+    "options": [
+      "High value items",
+      "Low value items",
+      "Irrelevant items",
+      "Spare items"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 843,
+    "question": "JIT focuses on:",
+    "options": [
+      "Zero inventory",
+      "High inventory",
+      "Seasonal inventory",
+      "Bulk storage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 844,
+    "question": "Material handling aims to:",
+    "options": [
+      "Move materials efficiently",
+      "Increase fatigue",
+      "Increase accidents",
+      "Reduce workflow"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 845,
+    "question": "Quality control aims at:",
+    "options": [
+      "Maintaining product quality",
+      "Decreasing quality",
+      "Increasing defects",
+      "Reducing customer satisfaction"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 846,
+    "question": "Inspection helps to:",
+    "options": [
+      "Identify defects",
+      "Increase defects",
+      "Reduce quality",
+      "Avoid standards"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 847,
+    "question": "SQC stands for:",
+    "options": [
+      "Statistical Quality Control",
+      "Standard Quantity Control",
+      "Simple Quality Calculation",
+      "System Quality Check"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 848,
+    "question": "Control charts help in:",
+    "options": [
+      "Monitoring process variations",
+      "Increasing defects",
+      "Stopping production",
+      "Avoiding planning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 849,
+    "question": "Fishbone diagram is used for:",
+    "options": [
+      "Identifying root causes",
+      "Decorating charts",
+      "Stock management",
+      "Marketing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 850,
+    "question": "Productivity means:",
+    "options": [
+      "Output per unit input",
+      "Input per unit output",
+      "Maximum input",
+      "Employee count"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 851,
+    "question": "Higher productivity leads to:",
+    "options": [
+      "Lower cost",
+      "Higher profit",
+      "Better competitiveness",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 852,
+    "question": "Factors affecting productivity include:",
+    "options": [
+      "Technology",
+      "Training",
+      "Motivation",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 853,
+    "question": "Work study consists of:",
+    "options": [
+      "Method study",
+      "Motion study",
+      "Time study",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 854,
+    "question": "Motion study aims to:",
+    "options": [
+      "Reduce unnecessary movements",
+      "Increase fatigue",
+      "Decrease efficiency",
+      "Increase cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 855,
+    "question": "Time study determines:",
+    "options": [
+      "Standard time for job",
+      "Product price",
+      "Salary",
+      "Quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 856,
+    "question": "Fatigue study helps in:",
+    "options": [
+      "Fixing rest intervals",
+      "Increasing strain",
+      "Increasing workload",
+      "Increasing cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 857,
+    "question": "Labour welfare includes:",
+    "options": [
+      "Canteen",
+      "Healthcare",
+      "Safety measures",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 858,
+    "question": "Labour turnover means:",
+    "options": [
+      "Number of employees leaving",
+      "Number of employees hired",
+      "Number of employees absent",
+      "Number of employees trained"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 859,
+    "question": "Absenteeism means:",
+    "options": [
+      "Being absent without reason",
+      "Being present",
+      "Being late",
+      "Being transferred"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 860,
+    "question": "Causes of absenteeism include:",
+    "options": [
+      "Poor working conditions",
+      "Low morale",
+      "Lack of motivation",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 861,
+    "question": "High absenteeism leads to:",
+    "options": [
+      "Low productivity",
+      "High quality",
+      "Low absenteeism",
+      "High morale"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 862,
+    "question": "Human resource planning ensures:",
+    "options": [
+      "Right person at right job",
+      "Wrong hiring",
+      "Random hiring",
+      "Untrained workforce"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 863,
+    "question": "Job analysis provides:",
+    "options": [
+      "Job description",
+      "Job specification",
+      "Both",
+      "None"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 864,
+    "question": "Job description includes:",
+    "options": [
+      "Duties and responsibilities",
+      "Personal qualities",
+      "Educational qualifications",
+      "Physical requirements"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 865,
+    "question": "Job specification includes:",
+    "options": [
+      "Education",
+      "Experience",
+      "Skills",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 866,
+    "question": "Recruitment aims to:",
+    "options": [
+      "Attract suitable candidates",
+      "Remove workers",
+      "Reduce quality",
+      "Increase absenteeism"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 867,
+    "question": "Selection aims to:",
+    "options": [
+      "Choose best candidate",
+      "Choose random candidate",
+      "Reject all candidates",
+      "Delay hiring"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 868,
+    "question": "Performance appraisal evaluates:",
+    "options": [
+      "Employee performance",
+      "Debtors",
+      "Machines",
+      "Customers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 869,
+    "question": "Promotion results in:",
+    "options": [
+      "Higher pay and higher position",
+      "Lower pay",
+      "Job loss",
+      "Demotion"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 870,
+    "question": "Demotion results in:",
+    "options": [
+      "Lower position",
+      "Higher position",
+      "No change",
+      "Bonus"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 871,
+    "question": "Transfer means:",
+    "options": [
+      "Same level movement",
+      "Higher position",
+      "Lower position",
+      "Termination"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 872,
+    "question": "Compensation includes:",
+    "options": [
+      "Wages",
+      "Salaries",
+      "Incentives",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 873,
+    "question": "Incentives motivate workers to:",
+    "options": [
+      "Work better",
+      "Be absent",
+      "Leave job",
+      "Reduce quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 874,
+    "question": "Morale building improves:",
+    "options": [
+      "Productivity",
+      "Motivation",
+      "Teamwork",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 875,
+    "question": "Industrial safety reduces:",
+    "options": [
+      "Accidents",
+      "Risk",
+      "Losses",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 876,
+    "question": "Safety devices include:",
+    "options": [
+      "Helmets",
+      "Gloves",
+      "Safety shoes",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 877,
+    "question": "Fire safety includes:",
+    "options": [
+      "Extinguishers",
+      "Sprinklers",
+      "Emergency exits",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 878,
+    "question": "Ergonomics deals with:",
+    "options": [
+      "Man-machine relationship",
+      "Sales",
+      "Marketing",
+      "Finance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 879,
+    "question": "Industrial engineering focuses on:",
+    "options": [
+      "Efficiency improvement",
+      "Cost reduction",
+      "Product quality",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 880,
+    "question": "Work study improves:",
+    "options": [
+      "Productivity",
+      "Efficiency",
+      "Cost control",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 881,
+    "question": "Time study is used to determine:",
+    "options": [
+      "Standard time for a job",
+      "Machine cost",
+      "Product price",
+      "Employee salary"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 882,
+    "question": "Method study aims at:",
+    "options": [
+      "Finding the best method of doing work",
+      "Increasing waste",
+      "Increasing fatigue",
+      "Increasing cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 883,
+    "question": "Motion study reduces:",
+    "options": [
+      "Unnecessary movements",
+      "Productivity",
+      "Welfare",
+      "Teamwork"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 884,
+    "question": "Critical path method (CPM) is used for:",
+    "options": [
+      "Project scheduling",
+      "Machine repair",
+      "Inventory storage",
+      "Product design"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 885,
+    "question": "PERT stands for:",
+    "options": [
+      "Program Evaluation and Review Technique",
+      "Project Execution Research Technique",
+      "Planning Evaluation Resource Technique",
+      "Performance and Evaluation Review Technique"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 886,
+    "question": "PERT is mainly used for:",
+    "options": [
+      "Uncertain project duration",
+      "Certain project duration",
+      "Machine maintenance",
+      "Plant layout"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 887,
+    "question": "Slack time refers to:",
+    "options": [
+      "Extra time available for an activity",
+      "Delay in project",
+      "Overtime",
+      "Machine idle time"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 888,
+    "question": "Standard time includes:",
+    "options": [
+      "Basic time + allowances",
+      "Basic time only",
+      "Idle time",
+      "Scrap time"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 889,
+    "question": "Main objective of method study is:",
+    "options": [
+      "Increase efficiency",
+      "Increase cost",
+      "Increase fatigue",
+      "Decrease productivity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 890,
+    "question": "Principle of motion economy helps in:",
+    "options": [
+      "Reducing fatigue",
+      "Increasing cost",
+      "Increasing strain",
+      "Reducing quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 891,
+    "question": "Process chart is used in:",
+    "options": [
+      "Method study",
+      "Marketing",
+      "Auditing",
+      "Finance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 892,
+    "question": "Job evaluation determines:",
+    "options": [
+      "Relative worth of job",
+      "Employee bonus",
+      "Employee leave",
+      "Sales price"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 893,
+    "question": "Wage and salary administration ensures:",
+    "options": [
+      "Fair compensation",
+      "High product cost",
+      "Low productivity",
+      "Employee turnover"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 894,
+    "question": "Piece rate system is based on:",
+    "options": [
+      "Units produced",
+      "Hours worked",
+      "Experience",
+      "Skill only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 895,
+    "question": "Time wage system is based on:",
+    "options": [
+      "Hours worked",
+      "Units produced",
+      "Experience only",
+      "Material cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 896,
+    "question": "Halsey plan is based on:",
+    "options": [
+      "Time saved",
+      "Output produced",
+      "Experience",
+      "Material saved"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 897,
+    "question": "Rowan plan provides bonus based on:",
+    "options": [
+      "Percentage of time saved",
+      "Per unit output",
+      "Quality",
+      "Experience"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 898,
+    "question": "Fringe benefits include:",
+    "options": [
+      "Medical facilities",
+      "Canteen",
+      "Transport",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 899,
+    "question": "Performance appraisal helps in:",
+    "options": [
+      "Promotion decisions",
+      "Salary increase decisions",
+      "Training needs identification",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 900,
+    "question": "Transfer means:",
+    "options": [
+      "Changing job location without promotion",
+      "Lowering position",
+      "Increasing salary",
+      "Hiring new employees"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 901,
+    "question": "Promotion results in:",
+    "options": [
+      "Higher salary and higher position",
+      "Lower salary",
+      "Job loss",
+      "Training"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 902,
+    "question": "Demotion results in:",
+    "options": [
+      "Lower position",
+      "Higher position",
+      "Same position",
+      "Bonus"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 903,
+    "question": "Separation includes:",
+    "options": [
+      "Resignation",
+      "Retirement",
+      "Dismissal",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 904,
+    "question": "Orientation program is conducted for:",
+    "options": [
+      "New employees",
+      "Old employees",
+      "Customers",
+      "Managers only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 905,
+    "question": "Morale refers to:",
+    "options": [
+      "Employee confidence",
+      "Employee salary",
+      "Employee age",
+      "Employee location"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 906,
+    "question": "High morale leads to:",
+    "options": [
+      "High productivity",
+      "High absenteeism",
+      "High turnover",
+      "Low quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 907,
+    "question": "Low morale results in:",
+    "options": [
+      "High absenteeism",
+      "Low productivity",
+      "High turnover",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 908,
+    "question": "Industrial safety reduces:",
+    "options": [
+      "Accidents",
+      "Losses",
+      "Risks",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 909,
+    "question": "Safety committee ensures:",
+    "options": [
+      "Safe working conditions",
+      "Unsafe work practices",
+      "High accidents",
+      "High compensation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 910,
+    "question": "Safety devices include:",
+    "options": [
+      "Helmets",
+      "Gloves",
+      "Safety shoes",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 911,
+    "question": "First aid means:",
+    "options": [
+      "Immediate care before medical treatment",
+      "Surgery",
+      "Hospitalization",
+      "Advanced treatment"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 912,
+    "question": "Fire safety includes:",
+    "options": [
+      "Fire extinguishers",
+      "Sprinkler system",
+      "Emergency exit",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 913,
+    "question": "Ergonomics deals with:",
+    "options": [
+      "Man-machine relationship",
+      "Taxation",
+      "Accounting",
+      "Auditing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 914,
+    "question": "Production function converts:",
+    "options": [
+      "Inputs into outputs",
+      "Outputs into inputs",
+      "Sales into profit",
+      "Loss into profit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 915,
+    "question": "Production planning ensures:",
+    "options": [
+      "Right quantity at right time",
+      "High wastage",
+      "Late delivery",
+      "Machine idle time"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 916,
+    "question": "Plant layout minimizes:",
+    "options": [
+      "Material movement",
+      "Delays",
+      "Accidents",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 917,
+    "question": "Fixed position layout is used for:",
+    "options": [
+      "Ships",
+      "Pens",
+      "Mobile phones",
+      "Clothes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 918,
+    "question": "Process layout is suitable for:",
+    "options": [
+      "Variety of products",
+      "Mass production",
+      "Continuous production",
+      "Assembly line"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 919,
+    "question": "Product layout is suitable for:",
+    "options": [
+      "Mass production",
+      "Job production",
+      "Batch production",
+      "Repair work"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 920,
+    "question": "Material handling aims to:",
+    "options": [
+      "Move materials safely and efficiently",
+      "Increase waste",
+      "Increase accidents",
+      "Decrease productivity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 921,
+    "question": "Inventory means:",
+    "options": [
+      "Stock of materials",
+      "Stock of people",
+      "Stock of machines",
+      "Stock of ideas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 922,
+    "question": "EOQ aims to:",
+    "options": [
+      "Minimize total inventory cost",
+      "Maximize storage area",
+      "Increase holding cost",
+      "Increase ordering cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 923,
+    "question": "Reorder level is decided on:",
+    "options": [
+      "Lead time",
+      "Usage rate",
+      "Safety stock",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 924,
+    "question": "ABC analysis is based on:",
+    "options": [
+      "Value of items",
+      "Weight",
+      "Colour",
+      "Shape"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 925,
+    "question": "Quality control ensures:",
+    "options": [
+      "Consistent quality",
+      "High defects",
+      "Poor quality",
+      "Customer dissatisfaction"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 926,
+    "question": "Control charts are used in:",
+    "options": [
+      "SQC",
+      "Marketing",
+      "Sales",
+      "Finance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 927,
+    "question": "Fishbone diagram identifies:",
+    "options": [
+      "Root cause of problems",
+      "Sales level",
+      "Profit level",
+      "Machine cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 928,
+    "question": "TQM focuses on:",
+    "options": [
+      "Continuous improvement",
+      "Customer satisfaction",
+      "Employee involvement",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 929,
+    "question": "JIT reduces:",
+    "options": [
+      "Inventory",
+      "Quality",
+      "Motivation",
+      "Production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 930,
+    "question": "Kaizen means:",
+    "options": [
+      "Continuous improvement",
+      "Sudden change",
+      "Complete shutdown",
+      "Random change"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 931,
+    "question": "ERP integrates:",
+    "options": [
+      "All departments",
+      "Only finance",
+      "Only HR",
+      "Only production"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 932,
+    "question": "MRP deals with:",
+    "options": [
+      "Materials planning",
+      "Marketing planning",
+      "Sales planning",
+      "Recruitment planning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 933,
+    "question": "Supply chain includes:",
+    "options": [
+      "Suppliers",
+      "Manufacturers",
+      "Customers",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 934,
+    "question": "Lead time refers to:",
+    "options": [
+      "Time between order and delivery",
+      "Time between lunch breaks",
+      "Time for worker promotion",
+      "Equipment lifespan"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 935,
+    "question": "Benchmarking compares with:",
+    "options": [
+      "Best industry practices",
+      "Worst company",
+      "Random data",
+      "Only past performance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 936,
+    "question": "Kaizen aims for:",
+    "options": [
+      "Continuous small improvements",
+      "Complete shutdown",
+      "High inventory",
+      "High absenteeism"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 937,
+    "question": "Lean manufacturing aims to:",
+    "options": [
+      "Reduce waste",
+      "Increase waste",
+      "Increase cost",
+      "Reduce quality"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 938,
+    "question": "Six Sigma aims to:",
+    "options": [
+      "Reduce defects",
+      "Increase errors",
+      "Increase rework",
+      "Increase waste"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 939,
+    "question": "ISO certification ensures:",
+    "options": [
+      "Quality",
+      "Reliability",
+      "Standardization",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 940,
+    "question": "Cost reduction aims to:",
+    "options": [
+      "Reduce cost without reducing quality",
+      "Reduce quality",
+      "Increase waste",
+      "Increase cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 941,
+    "question": "Value analysis improves:",
+    "options": [
+      "Value of product",
+      "Defects",
+      "Waste",
+      "Cost"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 942,
+    "question": "Gantt chart is used for:",
+    "options": [
+      "Scheduling",
+      "Machining",
+      "Inspection",
+      "Inventory"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 943,
+    "question": "Critical path determines:",
+    "options": [
+      "Minimum project time",
+      "Maximum project cost",
+      "Machine life",
+      "Maximum profit"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 944,
+    "question": "Slack means:",
+    "options": [
+      "Extra time available",
+      "No time available",
+      "Negative time",
+      "Wasted effort"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 945,
+    "question": "PERT uses:",
+    "options": [
+      "Three time estimates",
+      "One time estimate",
+      "No time estimate",
+      "Random time estimate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 946,
+    "question": "CPM uses:",
+    "options": [
+      "Deterministic time estimates",
+      "Probabilistic time estimates",
+      "No time",
+      "Negative time"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 947,
+    "question": "Routing decides:",
+    "options": [
+      "Path of production",
+      "Wage payment",
+      "Sales forecast",
+      "Safety rules"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 948,
+    "question": "Scheduling decides:",
+    "options": [
+      "Timing of operations",
+      "Material price",
+      "Product price",
+      "Worker salary"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 949,
+    "question": "Dispatching includes:",
+    "options": [
+      "Issuing orders",
+      "Paying wages",
+      "Paying rent",
+      "Recruiting workers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 950,
+    "question": "Follow-up ensures:",
+    "options": [
+      "Work is completed as planned",
+      "Inventory increases",
+      "Workers are absent",
+      "Cost increases"
+    ],
+    "answerIndex": 0
   }
 ]
